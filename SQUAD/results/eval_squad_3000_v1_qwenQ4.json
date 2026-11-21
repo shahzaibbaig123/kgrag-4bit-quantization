@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "n": 3000,
+  "processed": 3000,
+  "skipped": 0,
+  "failed": 0,
+  "avg": 4.2476666666666665,
+  "pass_rate": 0.7896666666666666,
+  "passed": 2369
+}

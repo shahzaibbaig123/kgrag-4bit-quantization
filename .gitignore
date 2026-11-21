@@ -7,8 +7,6 @@ TRIVIAQA/q4/
 # Frozen corpora (~109 MB) -- regenerate with freeze_squad_train_multi.py / freeze_triviaqa.py
 data/*.jsonl
 
-# Per-question evaluation dumps (large); the summaries in SQUAD/results are tracked
-SQUAD/results/*_v*.json
 node_exclusive_qa/
 
 # Local model weights
