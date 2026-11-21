@@ -122,6 +122,23 @@ python paper/make_paper_figures.py   # -> paper/pics/*.pdf  (pins SOURCE_DATE_EP
 cd paper && tectonic -X compile main.tex
 ```
 
+### The TriviaQA replication
+
+Section VI of the paper reports a single-seed generalization check on TriviaQA, whose evidence
+documents are complete Wikipedia articles rather than single paragraphs. It uses parallel scripts
+throughout, at document counts 25/50/75/100:
+
+```bash
+python build_lightrag_kg_index_qwenf16_triviaqa_multi.py --size 50 [--resume]
+python build_lightrag_kg_index_qwenQ4_triviaqa_multi.py  --size 50 [--resume]
+python eval_triviaqa_f16.py --size 50
+python eval_triviaqa_q4.py  --size 50
+python lexical_eval_triviaqa.py --size 50
+python retrieval_eval_triviaqa.py --size 50 --index-model f16
+python score_compare_triviaqa.py     # -> TRIVIAQA/results/paired_triviaqa.csv
+python eval_KG_triviaqa.py --semantic # -> KG_results/kg_triviaqa_comparison.json
+```
+
 ### On a SLURM cluster
 
 `slurm/` holds the job scripts used for the reported runs. Per-seed job arrays keep each job inside the
@@ -129,11 +146,25 @@ scheduler's limits:
 
 ```bash
 sbatch --array=0-4 --export=ALL,SIZE=500 slurm/slurm_build_f16.sh
+sbatch --array=0-4 --export=ALL,SIZE=500 slurm/slurm_build_Q4.sh
 sbatch --array=0-4 --exclusive --job-name=eval_f16_500 --export=ALL,SIZE=500 slurm/slurm_eval_f16.sh
+sbatch --array=0-4 --exclusive --job-name=eval_q4_500  --export=ALL,SIZE=500 slurm/slurm_eval_q4.sh
+sbatch --array=0-4 --job-name=retr_f16_500 --export=ALL,SIZE=500,IDX_MODEL=f16 slurm/slurm_retrieval.sh
 ```
 
-`slurm/notify_telegram.sh` sends optional completion pings and reads `TELEGRAM_TOKEN` / `TELEGRAM_CHAT`
-from the environment. No credentials are stored in this repository.
+| Script | Purpose |
+|---|---|
+| `slurm_build_{f16,Q4}.sh` | SQuAD index builds, one seed per array task |
+| `slurm_build_f16_short.sh` | same, for a short-queue partition with uncapped concurrency |
+| `slurm_build_{f16,q4}_a100.sh` | A100 variants (AVX2-safe environment) |
+| `slurm_build_triviaqa_{f16,q4}.sh` | TriviaQA builds; low concurrency plus `RESUME=1` for long articles |
+| `slurm_eval_{f16,q4}.sh` | evaluation, two GPUs per job (generator + judge) |
+| `slurm_eval_triviaqa_{f16,q4}.sh` | the TriviaQA equivalents |
+| `slurm_retrieval{,_triviaqa}.sh` | Hit@k / MRR scoring |
+| `collect_timings.sh` | parses job logs into `build_eval_timings.csv` |
+
+These encode our cluster's partitions, QOS limits and module layout. Treat them as a reference for the
+job shapes rather than as portable scripts.
 
 ## Results included
 

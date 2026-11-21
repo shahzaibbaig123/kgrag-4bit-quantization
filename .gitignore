@@ -15,7 +15,6 @@ models/
 
 # Cluster logs and credentials
 logs/
-.telegram_creds
 
 # LaTeX intermediates
 paper/*.aux
