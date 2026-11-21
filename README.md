@@ -25,9 +25,13 @@ entities only it extracted (p < 1e-7 both directions), so the advantages cancel.
 
 ## What is and is not in this repository
 
-**Included:** every script in the pipeline, the SLURM job scripts used on our cluster, the aggregate
-result summaries the paper's numbers come from (~2.7 MB), the build/eval timing log, and the paper
-source together with the generators that produce all of its tables and figures.
+**Included:** every script in the pipeline, the SLURM job scripts used on our cluster, the per-seed and
+aggregate result records the paper's numbers come from, the build/eval timing log, and the paper's
+LaTeX source together with the generators that produce all of its tables and figures.
+
+**The published PDF is not included.** The paper is copyright IEEE, so this repository carries the
+source rather than redistributing the proceedings version. Build it with `cd paper && tectonic -X
+compile main.tex`, or read the published version on IEEE Xplore (DOI to be added once assigned).
 
 **Not included,** by size, with the command that regenerates each:
 
@@ -208,7 +212,8 @@ a `naive`-mode ablation over these same indexes is the direct test. See the pape
 
 ## License
 
-**Not yet chosen — add a `LICENSE` file before publishing.** MIT or Apache-2.0 are the usual choices
-for an artifact repository; confirm with your institution and co-authors, since Fraunhofer and Lamarr
-affiliations can carry their own requirements. Note that SQuAD (CC BY-SA 4.0), TriviaQA (Apache-2.0),
-Qwen2.5 and gpt-oss each carry their own licenses, which this repository does not relicense.
+The code in this repository is released under the MIT License; see `LICENSE`.
+
+This does not extend to the datasets or models it uses: SQuAD (CC BY-SA 4.0), TriviaQA (Apache-2.0),
+Qwen2.5 and gpt-oss each carry their own terms, which this repository does not relicense. The paper
+itself is copyright IEEE; the published PDF is not redistributed here (see below).
