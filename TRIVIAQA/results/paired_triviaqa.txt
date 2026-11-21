@@ -1,0 +1,30 @@
+Paired F16 vs Q4 correctness, TriviaQA (single seed, per size)
+Pass threshold: 4.0 | diff = F16 - Q4 | (+)=F16 better
+
+=== size 25  (n=14 paired Qs) ===
+  avg score:  F16=2.7500  Q4=3.3929  mean_diff=-0.6429  median_diff=+0.0
+  pass@4.0:  F16=0.4286  Q4=0.5714
+  wins:  F16=2  Q4=4  ties=8
+  Wilcoxon p=0.2188  -> NO significant difference
+  effect: rank-biserial=-0.5714  Cohen's d_z=-0.2904  (nonzero diffs=6)
+
+=== size 50  (n=28 paired Qs) ===
+  avg score:  F16=3.1786  Q4=3.8036  mean_diff=-0.6250  median_diff=+0.0
+  pass@4.0:  F16=0.5000  Q4=0.6429
+  wins:  F16=5  Q4=10  ties=13
+  Wilcoxon p=0.122  -> NO significant difference
+  effect: rank-biserial=-0.4500  Cohen's d_z=-0.2992  (nonzero diffs=15)
+
+=== size 75  (n=42 paired Qs) ===
+  avg score:  F16=3.7500  Q4=3.8214  mean_diff=-0.0714  median_diff=+0.0
+  pass@4.0:  F16=0.6429  Q4=0.6905
+  wins:  F16=7  Q4=7  ties=28
+  Wilcoxon p=0.8232  -> NO significant difference
+  effect: rank-biserial=-0.0667  Cohen's d_z=-0.0392  (nonzero diffs=14)
+
+=== size 100  (n=58 paired Qs) ===
+  avg score:  F16=4.0862  Q4=3.9224  mean_diff=+0.1638  median_diff=+0.0
+  pass@4.0:  F16=0.7241  Q4=0.6897
+  wins:  F16=11  Q4=8  ties=39
+  Wilcoxon p=0.4656  -> NO significant difference
+  effect: rank-biserial=+0.1895  Cohen's d_z=+0.0945  (nonzero diffs=19)

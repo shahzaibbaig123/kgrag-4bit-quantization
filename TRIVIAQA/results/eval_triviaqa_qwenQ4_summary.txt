@@ -1,0 +1,7 @@
+=== TriviaQA CORRECTNESS SUMMARY: model=qwenQ4 (mode=hybrid, top_k=5) ===
+Sizes present: 4/4
+
+size 25: avg=3.3929  pass@4.0=8/14=0.5714  (skipped=0, failed=0)
+size 50: avg=3.8036  pass@4.0=18/28=0.6429  (skipped=0, failed=0)
+size 75: avg=3.8214  pass@4.0=29/42=0.6905  (skipped=0, failed=0)
+size 100: avg=3.9224  pass@4.0=40/58=0.6897  (skipped=0, failed=0)

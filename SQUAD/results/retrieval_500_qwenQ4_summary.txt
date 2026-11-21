@@ -1,0 +1,14 @@
+=== RETRIEVAL SUMMARY: SQuAD size=500, model=qwenQ4 (mode=hybrid) ===
+Seeds present: 5/5
+
+v0 (n=500): hit@1=0.8840 hit@3=0.9360 hit@5=0.9460 hit@10=0.9500 mrr=0.9106  empty=0
+v1 (n=500): hit@1=0.8980 hit@3=0.9540 hit@5=0.9560 hit@10=0.9580 mrr=0.9251  empty=0
+v2 (n=500): hit@1=0.8960 hit@3=0.9420 hit@5=0.9480 hit@10=0.9500 mrr=0.9195  empty=0
+v3 (n=500): hit@1=0.8900 hit@3=0.9400 hit@5=0.9480 hit@10=0.9480 mrr=0.9147  empty=0
+v4 (n=500): hit@1=0.9020 hit@3=0.9480 hit@5=0.9560 hit@10=0.9580 mrr=0.9259  empty=0
+
+Mean hit@1: 0.8940 (std 0.0063)
+Mean hit@3: 0.9440 (std 0.0063)
+Mean hit@5: 0.9508 (std 0.0043)
+Mean hit@10: 0.9528 (std 0.0043)
+Mean mrr: 0.9192 (std 0.0059)

@@ -1,0 +1,2494 @@
+Evaluation: Frozen SQuAD size=200 v4 (qwenf16)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b-F16
+
+#1
+Q: what act was passed in england in an attempt to ban large rave dance events?
+Gold: Criminal Justice and Public Order Act 1994
+Answer: The act passed in England in an attempt to ban large rave dance events was the **Criminal Justice and Public Order Act 1994**. This act was a government initiative to address concerns related to large rave dance events, which were characterized by music with repetitive beats (Reference: [1]).
+
+### References
+
+- [1] The Criminal Justice and Public Order Act 1994
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#2
+Q: What is the name of an ancient Greek work impacting botany?
+Gold: De Materia Medica
+Answer: One of the ancient Greek works that significantly impacted botany is *De Materia Medica* by Pedanius Dioscorides. This five-volume encyclopedia provides extensive information about herbal medicine and has had a lasting influence on the field.
+
+### References
+
+- [1] De Materia Medica
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#3
+Q: Who routinely updates the GetCyberSafe portal for Canadian citizens?
+Gold: Public Safety Canada
+Answer: The GetCyberSafe portal is administered by Public Safety Canada for Canadian citizens to access information on cyber security. While the document chunks provided do not specify who routinely updates the portal, it can be inferred that Public Safety Canada is responsible for its maintenance and updates.
+
+### References
+
+- [1] GetCyberSafe portal
+- [2] Public Safety Canada
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: What are some physical ways that some cultures mark the transition into adulthood?
+Gold: tattoos and scarification
+Answer: Some cultures mark the transition into adulthood through physical changes that are culturally significant. These changes can include the wearing of specific clothing, getting tattoos, and undergoing scarification. For example, in some societies, physical changes such as scarification are performed as part of initiation ceremonies to signify the transition into adulthood (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#5
+Q: During it's launch how much was a Windows 8 upgrade?
+Gold: $39.99 online, or $69.99 for retail box
+Answer: During the launch promotion, a Windows 8 Pro upgrade was available at a discounted price of US$39.99. This offer was specifically designed for a limited time to attract early adopters.
+
+### References
+
+- [1] US$39.99 is the discounted price for a Windows 8 Pro upgrade during the launch promotion.
+- [2] US$69.99 is the retail price for a Windows 8 Pro upgrade during the launch promotion.
+- [3] US$199.99 is the price for Windows 8 Pro after the launch promotion ended.
+- [4] US$119.99 is the price for Windows 8 after the launch promotion ended.
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#6
+Q: The invasion of Portugal was the beginning of what six-year conflict?
+Gold: the Peninsular War
+Answer: The invasion of Portugal was the beginning of the Peninsular War, a six-year struggle that lasted from 1807 to 1814. This conflict started with the French invasion of Portugal, leading to significant military engagements and political changes in the region.
+
+### References
+
+- [1] Peninsular War
+- [2] Portuguese Colonial War
+- [3] Napoleonic Wars
+- [4] Portuguese First Republic
+- [5] 1910 Revolution
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#7
+Q: Who was the principal of Sangzao Middle School?
+Gold: Ye Zhiping
+Answer: The principal of Sangzao Middle School is Ye Zhiping. Ye Zhiping has taken proactive measures to ensure the safety of the students at the school.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#8
+Q: Why were travelers often robbed under Fujiwara rule?
+Gold: The Fujiwara rulers failed to maintain adequate police forces
+Answer: During the Heian period, the Fujiwara Rulers were a powerful aristocratic family who ruled Japan. However, their failure to maintain adequate police forces led to the rise of robbers, individuals who preyed on travelers (Robbers, type: artifact). This lack of effective law enforcement created an environment where robbers could operate with relative impunity, making night travel particularly dangerous and terrorizing travelers (Night Travel, type: concept).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#9
+Q: What research organization did an city analysis on New Haven?
+Gold: Regional Data Cooperative for Greater New Haven, Inc
+Answer: The Regional Data Cooperative for Greater New Haven, Inc. is a research organization based in New Haven that analyzed the accuracy of municipality-based rankings. This analysis was conducted in the context of New Haven, highlighting the relevance of such rankings within the city.
+
+### References
+
+- [1] Regional Data Cooperative for Greater New Haven, Inc.
+- [2] New Haven
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#10
+Q: Printed word enabled what?
+Gold: a faster propagation of new ideas
+Answer: Printed word enabled the standardization of descriptions and specifications of instruments. This was a significant effect of the introduction of printing, which facilitated the dissemination of knowledge and allowed for the standardization process.
+
+### References
+
+- [1] Printing is a method that enabled the standardization of descriptions and specifications of instruments.
+- [2] Standardization was enabled by printing.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#11
+Q: What was the main export of Libya?
+Gold: crude oil
+Answer: The main export of Libya is crude oil. According to the provided context, crude oil is the primary export of Libya, directly supporting this statement.
+
+### References
+
+- [1] Crude Oil is the primary export of Libya.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#12
+Q: What book inspired the renovation of Notre Dame?
+Gold: The Hunchback of Notre Dame
+Answer: The book that inspired the renovation of Notre-Dame de Paris is "The Hunchback of Notre Dame" by Victor Hugo. This novel not only served as a literary inspiration but also played a significant role in the public's renewed interest in the historic cathedral, leading to its restoration.
+
+### References
+
+- [1] The Hunchback of Notre Dame
+- [2] Notre-Dame de Paris
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#13
+Q: Who were MBE'S?
+Gold: The members of The Beatles
+Answer: MBEs (Member of the Order of the British Empire) are a part of the honor system in the United Kingdom. The honor was given to The Beatles in 1965 for their entertainment, and John Lennon received an MBE in the same year. However, in 1969, John Lennon returned his MBE insignia as a protest against the Vietnam War.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#14
+Q: When did the poultry business boom in the United States ?
+Gold: By the mid-20th century, the poultry meat-producing industry was of greater importance than the egg-laying industry
+Answer: The poultry business in the United States experienced significant growth by the mid-20th century, with the poultry meat-producing industry becoming more important than the egg-laying industry during this period. This shift indicates that the boom in the poultry business occurred around the mid-20th century.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#15
+Q: Which ocean is on the coastal area of Namibia?
+Gold: Atlantic
+Answer: The coastal area of Namibia is influenced by the Atlantic Ocean, where the Benguela Current flows. This current affects the weather and climate in the coastal region, leading to low precipitation, frequent fog, and lower temperatures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#16
+Q: Were Ashkenazi Jews found to be a more or less genetically divergent population than Russians, Orcadians, French, and Basques?
+Gold: a genetically more divergent population
+Answer: According to the study conducted by Bray et al., the Ashkenazi population was found to be a genetically more divergent population compared to the Russian population, the French population, the Basque population, and the Middle Eastern population. Specifically, the research indicated that Ashkenazi individuals are more genetically diverse than Russians, French, Basques, and Middle Eastern populations. This genetic divergence suggests that the Ashkenazi population has experienced unique historical and demographic events that have contributed to its genetic makeup.
+
+### References
+
+- [1] Bray et al. (2010) Study on the Ashkenazi Genome
+- [2] Bray et al. (2010) Ashkenazi Population Genetic Diversity
+- [3] Bray et al. (2010) Genetic Divergence of Ashkenazi Population
+- [4] Bray et al. (2010) Genetic Analysis of Ashkenazi and Middle Eastern Populations
+- [5] Bray et al. (2010) Genetic Comparison of Ashkenazi with European Populations
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#17
+Q: On what date in 2013 was it 15.4 degrees Fahrenheit in Kathmandu?
+Gold: January 10
+Answer: On January 10, 2013, the lowest temperature of −9.2 °C (15.4 °F) was recorded in Kathmandu.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#18
+Q: Who was the executive vice governor?
+Gold: Wei Hong
+Answer: The term "executive vice governor" is not directly mentioned in the provided context. The context mentions the role of the governor general in Canada, who acts as the viceroy and exercises the duties of the Commander-in-Chief. However, there is no information about an "executive vice governor" role.
+
+If you are looking for information related to a specific position or if you have additional context that might include this term, please provide more details or clarify your query.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#19
+Q: What was the most populated city in the EU in 2012?
+Gold: Commune of Paris
+Answer: The most populated city in the European Union in 2012 was the Commune of Paris. According to the provided information, the population density of the Commune of Paris is 21,616 people per square kilometre, indicating its high population concentration.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#20
+Q: What problem did the Iraqi forces have?
+Gold: the antiaircraft weapons were crippled
+Answer: The Iraqi forces, battle-hardened after 8 years of war with Iran, were well-equipped for the Persian Gulf War. However, they faced several challenges, including the advanced military aircraft used by the US forces, such as jet fighters. Additionally, the Iraqi forces were also equipped with Soviet tanks and antiaircraft weapons, which were used during the Persian Gulf War.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#21
+Q: When did the british army invade the island?
+Gold: 1773
+Answer: I do not have information about a British army invasion of an island in the provided context. The context mentions that Japan invaded the Solomon Islands and Malaya, but there is no information about a British army invasion of an island.
+
+If you have more details or another specific island in mind, please provide additional information so I can assist you further.
+
+### References
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#22
+Q: With what method is royal assent generally granted?
+Gold: letters patent
+Answer: Royal assent is generally granted through letters patent, which are used to grant the formal approval of a bill or legislative measure less ceremonially in many nations. This method is often employed to avoid the more formal and public ceremonies associated with the traditional process.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: Who did Eisenhower tell DC officials to integrate?
+Gold: school children
+Answer: Eisenhower instructed District of Columbia officials to integrate public schools. This instruction aimed to promote the integration of public schools within the District of Columbia, aligning with broader efforts towards civil rights during his presidency.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: What type of religion is Buddhism?
+Gold: nontheistic
+Answer: Buddhism is a nontheistic religion or philosophy based on the teachings attributed to Gautama Buddha, commonly known as the Buddha. The term "dharma" (धर्म) in Sanskrit and Pali is used to refer to these teachings, which aim to help sentient beings end their suffering through the elimination of ignorance and craving.
+
+The teachings of the Buddha, as the central figure in Buddhism, provide a path to the end of suffering, known as the Four Noble Truths. These truths form the foundation of Buddhist practice and understanding.
+
+### References
+
+- [1] Buddhism /ˈbudɪzəm/ is a nontheistic religion or philosophy (Sanskrit: धर्म dharma; Pali: धम्म dhamma) that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to Gautama Buddha, commonly known as the Buddha (\"the awakened one\"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent, present-day Nepal sometime between the 6th and 4th centuries BCE. He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through the direct understanding and perception of dependent origination and the Four Noble Truths.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#25
+Q: How many times platinum did Queen's News of the World go?
+Gold: four
+Answer: Queen's album "News of the World" achieved platinum status in both the UK and the United States. Specifically, it went twice platinum in the UK and four times platinum in the United States.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#26
+Q: How can different range of voltages be supplied for AC locomotives?
+Gold: multiple taps on the transformer
+Answer: Different ranges of voltages for AC locomotives can be supplied through the use of transformers. Transformers are designed to step up or step down the voltage levels as required, ensuring that the locomotive can operate efficiently across various voltage requirements. In the context of AC locomotives, transformers play a crucial role in converting the incoming AC supply to the appropriate voltage levels needed for the locomotive's operation.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#27
+Q: How many of the team were from the military?
+Gold: 150
+Answer: The information provided does not specify the exact number of individuals from the military in the earthquake emergency relief team. The only military-related information given is that the Beijing Military Area Command is part of the earthquake emergency relief team, but no details are provided about the composition of the entire team.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#28
+Q: In what countries was the hunting for trophies frowned upon, back in the day and in modern times?
+Gold: Nordic
+Answer: Trophy hunting was frowned upon in certain countries, particularly in the modern era. One such region is the Nordic countries, which today disapprove of trophy hunting (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#29
+Q: Which U.S. President criticized Kanye for his VMA outburst?
+Gold: Obama
+Answer: Barack Obama, the 44th President of the United States, criticized Kanye West for his actions at the 2009 MTV Video Music Awards.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#30
+Q: What is the name for a base with one or more contacts at the tip and one at the shell?
+Gold: screw base
+Answer: The name for a base with one or more contacts at the tip and one at the shell is a Screw Base.
+
+### References
+
+- [1] Screw Base
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#31
+Q: When was the Treaty of Paris?
+Gold: 1763
+Answer: The Treaty of Paris was signed in 1763, marking the end of the Seven Years' War. This treaty had significant consequences for the British Empire, including the loss of a large portion of British America, which is seen as an event marking the transition between empires.
+
+### References
+
+- [1] The Loss
+- [2] Seven Years' War
+- [3] Treaty of Paris
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#32
+Q: Sometimes clubs can do what if they feel that a punishment was too harsh?
+Gold: appeals
+Answer: Sometimes clubs can appeal player suspensions if they feel that the punishment was too harsh. This process allows clubs to contest the decisions made by referees and seek a re-evaluation of the sanctions imposed on their players.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#33
+Q: When was Armenia at its largest?
+Gold: 95–65 BC
+Answer: Armenia reached its largest extent during the reign of Tigranes the Great, who expanded the Armenian kingdom to encompass areas populated by other peoples (including parts of the Caucasus and parts of the Middle East). This period marked the zenith of Armenian territorial expansion.
+
+### References
+
+- [1] Tigranes the Great
+- [2] Armenia
+- [3] Caucasus
+- [4] Armenia: A Historical Overview
+- [5] Tigranes the Great: His Empire and Conquests
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#34
+Q: What other forms of writing materials were used during this period?
+Gold: copperplate scrolls
+Answer: During the period before the invention of paper, various materials were used for writing. One of the earliest materials used for writing was the palm leaf. Palm leaf sections were suitable for the tropical climate and were bound together with twine (Reference [1]). Another form of writing material used in the tropical climate, such as in Javanese regions, was the Javanese copperplate scrolls. These scrolls were more durable than paper and were used as official documents (Reference [2]).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#35
+Q: What is the regional magazine in Namibia?
+Gold: Namib Times
+Answer: The regional magazine in Namibia is "Insight Namibia," which is a current affairs magazine. It is part of the print market, which also includes other publications such as newspapers like "Namib Times" and "Namibia Economist," and various other magazines.
+
+### References
+
+- [1] Insight Namibia
+- [2] Namib Times
+- [3] Namibia Economist
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#36
+Q: What institution has contributed to the growth of fuel biotechnology?
+Gold: University of California
+Answer: The information provided does not mention any specific institution that has contributed to the growth of fuel biotechnology. The context focuses on the University of California, San Diego, which has contributed to biotechnology growth in general, but there is no specific mention of fuel biotechnology.
+
+### References
+
+- [1] University of California, San Diego
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#37
+Q: What was Seattle's first primary money maker?
+Gold: Logging
+Answer: Seattle's first primary money maker was logging. By the late 19th century, logging had become the first major industry in the city, laying the foundation for its early economic development.
+
+### References
+
+- [1] Logging was the first major industry in Seattle.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#38
+Q: Where does the Sunset Route connect to the west coast?
+Gold: Los Angeles ports
+Answer: The Union Pacific Railroad's Sunset Route connects the Los Angeles ports with the South/Southeast regions of the country. Given that the Los Angeles ports are located on the west coast of the United States, the Sunset Route connects to the west coast at these ports.
+
+### References
+
+- [1] Tucson is a city where the University of Arizona is the second largest employer and is a hub for the Union Pacific Railroad's Sunset Route.
+- [2] Union Pacific Railroad's Sunset Route links the Los Angeles ports with the South/Southeast regions of the country and has a major hub in Tucson.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#39
+Q: Who was the director of the Academy of Art that Frédéric met while in Düsseldorf?
+Gold: Friedrich Wilhelm Schadow
+Answer: Frédéric Chopin met Friedrich Wilhelm Schadow, the director of the Academy of Art, while he was in Düsseldorf.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#40
+Q: What peninsula is Bern located on?
+Gold: Aare
+Answer: The provided context does not contain information about the location of Bern or any peninsulas in Switzerland. Therefore, I do not have enough information to answer the question accurately.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#41
+Q: Where is the Romansh culture located?
+Gold: in Graubünden in eastern Switzerland
+Answer: The Romansh culture is primarily found in the upper valleys of the Rhine and Inn rivers in Graubünden, a region in eastern Switzerland. This culture is linguistically isolated and strives to maintain its rare linguistic tradition, making it an exception in Switzerland.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#42
+Q: If a country's ranking does not change, which indicator will be present?
+Gold: Blue dash
+Answer: If a country's ranking does not change since the previous study, the indicator present will be blue dashes. These blue dashes indicate no movement in the rankings.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#43
+Q: The Republic of Cyprus does not have de jure sovereignty over what two British territories?
+Gold: Akrotiri and Dhekelia
+Answer: The Republic of Cyprus does not have de jure sovereignty over Akrotiri and Dhekelia, which are British Overseas Territories administered as Sovereign Base Areas within the Republic of Cyprus. These territories are under the administration of the United Kingdom but are located within the territory of the Republic of Cyprus.
+
+### References
+
+- [1] Akrotiri and Dhekelia
+- [2] Republic of Cyprus
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#44
+Q: Going by what unit of measurement makes Southampton the fourth largest port in the UK?
+Gold: tonnage
+Answer: The information provided does not specify the exact unit of measurement that makes Southampton the fourth largest port in the UK. However, port size is typically measured by the volume of cargo handled, the number of ships that call at the port, or the tonnage of goods loaded and unloaded. Given that Southampton served as a major port for cruise ships and handled almost half the passenger traffic in the UK during its heyday, it is reasonable to infer that the port's size is measured by the volume of passengers and cargo it processes.
+
+### References
+
+- [1] Southampton is a city known for its port and dock activities, serving as a major employer and home to cruise ships and container terminals.
+- [2] Southampton handled almost half the passenger traffic of the UK during its heyday.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#45
+Q: What is the final degree of Masonry?
+Gold: Master Mason
+Answer: The final degree of Masonry is the Master Mason degree. This is the third degree in Freemasonry, where candidates are fully initiated into the fraternity and reach the highest level of the craft degree system. During the Master Mason ceremony, which is part of the Masonic ritual, candidates are taught the lessons of responsibility, charity, and the duties of a Master Mason.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#46
+Q: What was Southern Italy refered to as?
+Gold: Magna Graecia
+Answer: The provided context does not contain specific information about what Southern Italy was referred to as. The knowledge base and document chunks do not mention any historical or alternative names for Southern Italy.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#47
+Q: Who are "mestizos"?
+Gold: large population of Hispanics identifying as mestizos
+Answer: Mestizos are individuals of mixed European and indigenous American ancestry. This term is often used to describe people who have a blend of both European and indigenous American heritage, highlighting the cultural and genetic mixture found in many regions with historical European colonization.
+
+### References
+
+- [1] Mestizos are individuals of mixed European and indigenous American ancestry.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#48
+Q: According to the doctrine of Immaculate Conception, where was Mary when she first become filled with grace?
+Gold: in her mother's womb
+Answer: According to the doctrine of the Immaculate Conception, Mary was filled with grace from the moment of her conception. This means that from the very beginning of her existence, Mary was preserved from original sin and filled with grace (Reference [1]).
+
+### References
+
+- [1] Immaculate Conception
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#49
+Q: Who did Hayk defeat?
+Gold: Bel of Babylon
+Answer: I apologize, but the provided context does not contain any information about who Hayk defeated. The context focuses on topics such as the Warsaw Pact, iPods with different types of memory, The Open Society and Its Enemies by Popper, and various other unrelated subjects. There is no mention of Hayk or any related historical figures or events.
+
+If you have additional information or context about Hayk and the defeat in question, please provide it, and I will be happy to help you with your query.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#50
+Q: Who was the designer of the Federal Reserve Building?
+Gold: Minoru Yamasaki
+Answer: The Federal Reserve Building in Richmond was designed by Minoru Yamasaki. He is known for his significant contributions to modernist architecture, including the design of the Twin Towers of the World Trade Center (though those were not located in Richmond).
+
+### References
+
+- [1] Minoru Yamasaki
+- [2] Federal Reserve Building
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#51
+Q: What did the Super Game Boy 2 add?
+Gold: a communication port to enable a second Game Boy to connect for multiplayer games
+Answer: The Super Game Boy 2 is an enhanced version of the Super Game Boy, which builds upon the features of the original Super Game Boy. One of the key additions in Super Game Boy 2 is the inclusion of a communication port, which enables multiplayer games by allowing a second Game Boy to connect to it. This port supports daisy chaining, a method for connecting multiple devices to a single output by daisy chaining their inputs, thus facilitating more complex multiplayer scenarios.
+
+### References
+
+- [1] Super Game Boy 2
+- [2] Super Game Boy
+- [3] daisy chaining
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#52
+Q: About what year do synapsid date back to?
+Gold: 225 Ma
+Answer: Synapsids date back to approximately 225 million years ago (Ma). Tikitherium, which is the earliest known synapsid satisfying Kemp's definitions, is dated to this period.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#53
+Q: In which city is there a large number of undocumented immigrants?
+Gold: Ciudad Juárez
+Answer: Many undocumented immigrants from Central and South America settle in Ciudad Juárez, a city in the state of Chihuahua, Mexico. This city has been a significant destination for immigrants due to its proximity to the United States and the presence of maquiladoras (factories) that provide employment opportunities.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#54
+Q: Who defeated Gladstone yet again in the general elction?
+Gold: Salisbury
+Answer: Gladstone was succeeded by Lord Salisbury after the 1880 general election, and Lord Salisbury replaced him as prime minister. This indicates that Lord Salisbury defeated Gladstone in the general election.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#55
+Q: Where has Catalan always been the only language?
+Gold: Andorra
+Answer: Catalan has been the only official language in Andorra since 1993. This status is enshrined in the 1993 Constitution of Andorra, which officially recognizes and promotes the use of Catalan in all aspects of life within the country, including education through the policy of Catalan medium education.
+
+### References
+
+- [1] 1993 Constitution
+- [2] Catalan Medium Education
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#56
+Q: What is perceived as the general priority of the food processing industry in this sort of economy?
+Gold: effective production of cheap foods with a long shelf-life
+Answer: The food processing industry is a significant component of the modern economy and plays a crucial role in political decisions. Its primary focus often revolves around increasing efficiency, reducing costs, and enhancing the availability of processed foods. These processed foods are generally cheaper, more convenient, and more accessible, making them a priority for the industry to produce and market.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#57
+Q: On what date did New York legalize gay marriage?
+Gold: June 24, 2011
+Answer: New York legalized same-sex marriages on June 24, 2011. This date marks a significant moment in the legal recognition of gay and bisexual individuals' rights within the New York Metropolitan Area, which is known for its large gay and bisexual community.
+
+### References
+
+- [1] Same-Sex Marriages
+- [2] June 24, 2011
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#58
+Q: Where was Chopin invited to in late summer?
+Gold: Scotland
+Answer: Chopin was invited to visit Scotland by Jane Stirling in late summer. During his stay in Scotland, he gave public concerts in various locations, including Glasgow and Edinburgh.
+
+### References
+
+- [1] Jane Stirling invited Chopin to visit Scotland.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#59
+Q: Who taught Chopin to play the organ?
+Gold: Wilhelm Würfel
+Answer: Chopin received organ lessons from Wilhelm Würfel at the Warsaw Lyceum. This information is supported by the knowledge graph data, which states that Chopin was a student of Wilhelm Würfel, who taught him organ.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#60
+Q: Approximately how many residents of Santa Monica rent their property?
+Gold: two-thirds
+Answer: Over two-thirds of Santa Monica's residents are renters. This means that a significant majority of the population in Santa Monica does not own their property but instead rents it.
+
+### References
+
+- [1] Santa Monica: Renters and Homeownership Statistics
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#61
+Q: What did the Alabama State Bar bestow on Lee in 2008?
+Gold: honorary special membership
+Answer: In 2008, the Alabama State Bar honored Harper Lee with an honorary special membership for her creation of the character Atticus. This membership recognized her contributions to literature and the legal profession through her work.
+
+### References
+
+- [1] Alabama State Bar honored Harper Lee with an honorary special membership for her creation of Atticus.
+- [2] Harper Lee received an honorary special membership in 2008.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#62
+Q: What form of political organization do Popper's works mainly critique?
+Gold: totalitarianism
+Answer: Popper's works mainly critique totalitarian ideologies. His experiences during the 1920s and 1930s in Austria, particularly the failure of democratic parties to prevent the rise of fascism, deeply influenced his thinking. This trauma led him to write extensively against such ideologies, as seen in his works "The Open Society and Its Enemies" and "The Poverty of Historicism," which are both inspired by his reflections on the events of his time.
+
+### References
+
+- [1] The Open Society and Its Enemies
+- [2] The Poverty of Historicism
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#63
+Q: How do quarter wave elements act in relation to a series relevant electrical element?
+Gold: imitate
+Answer: Quarter-Wave Elements act as components that mimic the behavior of a series-resonant electrical element due to the standing wave present along the conductor. At the resonant frequency, the quarter-wave element exhibits minimum reactance, which is a characteristic of a series-resonant electrical element. This mimicked behavior is crucial for understanding the performance of such elements in various applications, including antennas and matching networks.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#64
+Q: Orthodox Judaism is a self-identification that distinguishes it from what?
+Gold: pre-modern Judaism
+Answer: Orthodox Judaism is a self-identification that distinguishes it from non-Orthodox streams of Judaism. It adheres to the belief in mass revelation and the laws and ethics of the Torah as interpreted in Talmudic texts, emphasizing strict adherence to traditional religious practices.
+
+### References
+
+- [1] Orthodox Judaism
+- [2] Ultra-Orthodox or Haredi Judaism
+- [3] Haredi Judaism
+- [4] Modern Orthodox Judaism
+- [5] Talmudic texts
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#65
+Q: Which country was being invaded when Daniel and his friends were captured?
+Gold: Israel
+Answer: When Daniel and his friends were captured, the location being invaded was Israel. The King of Babylon captured them during an invasion of Israel.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#66
+Q: What Off-Broadway theater did Perfect Harmony open at?
+Gold: Theatre Row’s Acorn Theatre
+Answer: Perfect Harmony made its Off Broadway debut at the Acorn Theatre on 42nd Street in New York City.
+
+### References
+
+- [1] Perfect Harmony
+- [2] The Acorn Theatre
+- [3] 42nd Street
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#67
+Q: When did the public finances in Swaziland decline?
+Gold: the late 1990s
+Answer: Swaziland's public finances worsened in the late 1990s after earlier surpluses. This decline was primarily due to declining revenues and increased government spending, which contributed to budget deficits in the country.
+
+### References
+
+- [1] Swaziland's public finances worsened due to declining revenues and increased government spending.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#68
+Q: How was the assassination supposed to have been carried out?
+Gold: shoot down Nasser's plane
+Answer: King Saud planned to have Naser assassinated on his return flight to Cairo. Abdel Hamid Sarraj, a supporter of Naser and involved in the plot to shoot down Naser's plane, was part of this conspiracy. However, the details of the exact method used to carry out the assassination are not provided in the available information.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 4.5 | Pass: True
+--------------------------------------------------------------------------------
+#69
+Q: Zen Buddhism is known as what in Korea?
+Gold: seon
+Answer: In Korea, Zen Buddhism is known as Seon (선). This form of Buddhism emphasizes meditation and direct spiritual insight, similar to its counterparts in China and Japan.
+
+### References
+
+- [1] Buddhism /ˈbudɪzəm/ is a nontheistic religion[note 1] or philosophy (Sanskrit: धर्म dharma; Pali: धम्म dhamma) that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to Gautama Buddha, commonly known as the Buddha (\"the awakened one\"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent, present-day Nepal sometime between the 6th and 4th centuries BCE.[note 1] He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through the direct understanding and perception of dependent origination and the Four Noble Truths.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#70
+Q: What genre laid the roots for hard rock?
+Gold: electric blues
+Answer: Electric Blues laid the foundation for hard rock. This genre is characterized by its rough vocal style, heavy guitar riffs, and strong beat, which are key elements in hard rock.
+
+### References
+
+- [1] Electric Blues
+- [2] Hard Rock
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#71
+Q: How much of the short tons of bombs were dropped during the day?
+Gold: 10 percent
+Answer: According to the information provided, 10 percent of the 9,000 short tons of bombs were dropped in daylight during October.
+
+### References
+
+- [1] 9,000 short tons (8,200 t)
+- [2] 10 percent
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#72
+Q: Due to what concerns is diesel fuel no longer used as a release agent for transporting asphalt?
+Gold: environmental
+Answer: Diesel fuel is no longer used as a release agent for transporting asphalt due to environmental concerns. Specifically, the use of diesel fuel as a release agent poses significant environmental risks, including air pollution and the potential for groundwater contamination. As a result, alternative materials with fewer environmental impacts have been sought and adopted for this purpose.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#73
+Q: At what age was Elizabeth when she went on her first solo public appearance?
+Gold: 16
+Answer: Elizabeth undertook her first solo public appearance at the age of 16 in 1943.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#74
+Q: Why did this occur?
+Gold: two bills of the same title had originated from the house
+Answer: I apologize, but your query is not clear. Could you please provide more context or specify what you are referring to? Are you asking about the reasons behind the failure rates of different iPod models, the application of releasing agents to tippers, or something else?
+
+If you are referring to the failure rates of iPods with flash memory and hard drives, the information provided indicates that iPods with flash memory had a failure rate below 10%, while those with hard drives had a failure rate above 20%. This difference could be attributed to the reliability and durability of flash memory technology compared to hard drives.
+
+If you are asking about the application of releasing agents to tippers, the information states that a releasing agent is applied to tippers to aid in the release of the material. However, without additional context, it is unclear why you are asking about this specific application.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#75
+Q: What is the physiological response of a sense organ called?
+Gold: Chemoreception
+Answer: The physiological response of a sense organ to a chemical stimulus is called chemoreception. This process is a component of chemical communications in animals, where it regulates the state or activity of a cell.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#76
+Q: To whom did Queen Victoria dedicate a memorial after his death for grateful service?
+Gold: Disraeli
+Answer: Queen Victoria dedicated a memorial tablet for Disraeli, her "grateful Sovereign and Friend," after his death. This tablet was erected by Victoria as a mark of her appreciation for Disraeli's service.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#77
+Q: How much global GDP did "advanced" economies account for from 2007 to 2014?
+Gold: 31%
+Answer: The International Monetary Fund reported that advanced economies' share of global GDP decreased significantly post-crisis. While the exact figures are not provided in the context, it is clear that advanced economies were leading global economic growth before the financial crisis but saw a decline in their share of global GDP from 2007 to 2014.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#78
+Q: When was Ahangar's tomb built?
+Gold: sixteenth century
+Answer: The tomb of Sheikh Musa Ahangar is a sixteenth-century building, noted for its brilliant blue dome. This indicates that it was built during the 16th century.
+
+### References
+
+- [1] The tomb of Sheikh Musa Ahangar
+- [2] Lahore is a city in Pakistan where the tomb of Sheikh Musa Ahangar is located, known for its tile-work.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#79
+Q: What album made her a worldwide known artist?
+Gold: Dangerously in Love
+Answer: Linda Ronstadt's album "News of the World" is a significant milestone that solidified her status as a worldwide known artist. Released in 1977, this album went four times platinum in the United States and twice platinum in the UK, showcasing its global appeal and impact.
+
+### References
+
+- [1] News of the World
+- [2] News of the World
+- [3] News of the World
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#80
+Q: What sea is an integral part of the Burma landscape ?
+Gold: Andaman Sea to the southwest and the south, which forms one quarter of its total perimeter.
+Answer: An integral part of the Burma landscape is the Andaman Sea, which forms part of Burma's coastline to the southwest and south. Additionally, the Bay of Bengal also borders Burma to the southwest and south.
+
+### References
+
+- [1] Andaman Sea
+- [2] Bay of Bengal
+Score: 4.5 | Pass: True
+--------------------------------------------------------------------------------
+#81
+Q: What type of Latin was likely spoken in Rome?
+Gold: Vulgar Latin
+Answer: Vulgar Latin was the actual spoken language of the Romans, differing significantly from the highly stylized and polished literary language known as Classical Latin. As the native language of the Romans, Vulgar Latin was the form of Latin used in everyday speech and varied in grammar, vocabulary, and pronunciation from the written form of Classical Latin.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#82
+Q: Where did Everton FC place in the 2009 FA Cup Final?
+Gold: runners-up
+Answer: In 2009, Everton FC was runners-up in the FA Cup Final.
+
+### References
+
+- [1] 2009 is the year when the Citizens for Democratic Rights in Eritrea movement was formed. Additionally, Everton was runners-up in the FA Cup Final in 2009.
+- [2] FA Cup is a football competition where Everton was eliminated in 2002. However, this document also confirms that Everton was runners-up in the FA Cup Final in 2009.
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#83
+Q: What type of educational institution does the term madrasa refer?
+Gold: any type
+Answer: The term madrasa refers to an educational institution in the Islamic world. It is an Arabic word that denotes any type of educational institution, whether secular or religious. Madrasa can be associated with maktab schools, which are elementary schools in the medieval Islamic world often attached to an endowed mosque. Additionally, madrasa can also refer to higher education institutions, as mentioned in the context provided.
+
+### References
+
+- [1] Madrasa
+- [2] Maktab
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#84
+Q: When was the suffix "in St. Louis" added to Washington University?
+Gold: 1976
+Answer: The suffix "in St. Louis" was added to Washington University in 1976 to distinguish it from other universities named after George Washington. This change was made to clarify the institution's location and identity.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#85
+Q: How many square miles is is Detroit's urban area?
+Gold: 1,337 square miles
+Answer: The three-county urban area of Detroit covers an area of 1,337 square miles (3,460 km²) as per the data from the 2010 United States Census.
+
+### References
+
+- [1] 1,337 square miles (3,460 km2)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#86
+Q: What was La Maison Cubiste ?
+Gold: a fully furnished house
+Answer: La Maison Cubiste is an architectural installation that became known as the "Cubist House" and was exhibited at the 1912 Salon d'Automne. This installation exemplifies the concept of L'art décoratif, a modern, bourgeois style that displayed Cubist art in a contemporary setting. It was contributed to by several artists, including André Mare, Léger, Roger La Fresnaye, and the Duchamp brothers (Raymond Duchamp-Villon and Marcel Duchamp). Paintings were displayed in the Salon Bourgeois within the installation.
+
+### References
+
+- [1] L'art décoratif
+- [2] Maison Cubiste
+- [3] Du "Cubisme"
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#87
+Q: What nickname for Detroit recognizes it's musical history?
+Gold: Motown
+Answer: One nickname for Detroit that recognizes its musical history is "Motown." This nickname highlights the city's significant contributions to popular music, particularly during the 1960s when Motown Records was based there and produced many influential artists and songs.
+
+### References
+
+- [1] Motown
+- [2] Detroit is known as Motown due to its contributions to popular music.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#88
+Q: How many acres is the Narayanhity Palace?
+Gold: 74
+Answer: The Narayanhity Palace Museum, which is located in the north-central part of Kathmandu, Nepal, covers an area of 30 hectares (74 acres). Therefore, the Narayanhity Palace is 74 acres in size.
+
+### References
+
+- [1] Narayanhity Palace Museum covers an area of 30 hectares (74 acres).
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#89
+Q: in what century was a school of polyphony established at Notre Dame?
+Gold: 12th
+Answer: A school of polyphony was established at Notre-Dame in the late 12th century. This information is directly supported by the entry in the Knowledge Graph Data, which states that Notre-Dame is a famous cathedral in Paris where a school of polyphony was established in the late 12th-century.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#90
+Q: What civilian group in Greece fought against Nazi occupation?
+Gold: The Greek Resistance
+Answer: During the Nazi occupation of Greece, the Greek Resistance played a significant role in fighting against the Nazis. This resistance movement was one of the most effective in Europe, actively working to oppose the Nazi regime and its collaborators.
+
+### References
+
+- [1] Greek Resistance
+- [2] Greek Civilian Population
+- [3] Nazis
+- [4] Nazi Germany
+- [5] Greece
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#91
+Q: How many satellites will be used to test a new system of navigation signaling?
+Gold: three
+Answer: The new system of navigation signaling and inter-satellite links will be tested on the three latest satellites before providing navigation services. Therefore, three satellites will be used for this testing.
+
+### References
+
+- [1] The Three Latest Satellites
+- [2] New System of Navigation Signaling and Inter-Satellite Links
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#92
+Q: What empire was destroyed by the Sack of Constantinople?
+Gold: the Byzantine Empire
+Answer: The Sack of Constantinople, which occurred during the Fourth Crusade in 1204, marked a significant end to the Byzantine Empire. Although the final fall of Constantinople happened in 1453, the Sack in 1204 led to the empire's decline and eventual fall.
+
+### References
+
+- [1] The Crusades
+- [2] Constantinople
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#93
+Q: On what is agriculture almost completely dependent?
+Gold: angiosperms
+Answer: Agriculture is almost entirely dependent on angiosperms for plant-based food and livestock feed. Angiosperms, which are flowering plants, provide the essential plant-based resources necessary for agricultural practices.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#94
+Q: What new type of construction allowed the making of skyscrapers?
+Gold: steel-frame construction
+Answer: The new type of construction that allowed the making of skyscrapers is steel-frame construction. This modern construction technique enabled the creation of high-rise superstructures, such as the Twin Towers of the World Trade Center and other iconic buildings like the WRVA Building designed by Philip Johnson.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#95
+Q: How many bells make up the abbey ring?
+Gold: Ten
+Answer: The set of ten bells hung for change ringing at the abbey can be found there. Each bell in this set is part of the ring, contributing to the total number of bells.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#96
+Q: What was the regnal name of Frederick I Barbarossa's grandson?
+Gold: Frederick II
+Answer: The regnal name of Frederick I Barbarossa's grandson was Emperor Frederick II. Frederick I Barbarossa ruled Germany from 1155 to 1190, and his grandson, Emperor Frederick II, continued the Hohenstaufen dynasty, ruling Germany from 1220 to 1250. During his reign, Frederick II faced significant challenges, including difficulties with the papacy and the invasions by the Mongols.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#97
+Q: Where does zinc naturally buildup in the body?
+Gold: prostate.
+Answer: Zinc naturally accumulates in the prostate, making it accessible for potential therapeutic use. This accumulation is particularly relevant in the context of prostate health and cancer treatment.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#98
+Q: What species dominated many tree floras by the end of the Cretaceous period?
+Gold: angiosperms
+Answer: By the end of the Cretaceous period, angiosperms dominated tree floras. Angiosperms, which are flowering plants, began to spread from the tropics towards the poles during this time (Angiosperms, [1]). Their dominance was still challenged by cycads and ferns until the Cretaceous–Paleogene extinction event (Angiosperms, Cretaceous–Paleogene Extinction, [1]).
+
+### References
+
+- [1] Angiosperms
+- [1] Cretaceous–Paleogene Extinction
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#99
+Q: Who, along with ordinary citizens, makes up the Citizens for Democratic Rights in Eritrea?
+Gold: some people close to the government
+Answer: The Citizens for Democratic Rights in Eritrea is a movement formed to bring dialogue between the government and opposition. While the specific individuals or groups that make up this movement are not detailed in the provided information, it can be inferred that it includes ordinary citizens who are part of the Eritrean opposition and seek dialogue with the government to address human rights issues.
+
+### References
+
+- [1] Eritreans continuously speak out against the government and seek dialogue.
+- [2] Eritrean Government Officials participate in dialogues with Eritreans to address human rights issues.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#100
+Q: What gene is responsible for coding for a sodium channel necessary for conducting pain nerve stimuli?
+Gold: SCN9A
+Answer: The gene responsible for coding for a sodium channel necessary for conducting pain nerve stimuli is the SCN9A gene. This gene codes for the sodium channel Nav1.7, which is essential for the transmission of pain nerve signals.
+
+### References
+
+- [1] SCN9A Gene
+- [2] Nav1.7
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#101
+Q: What percentage of Valencia's workers are employed in the agricultural sector?
+Gold: 1.9
+Answer: Agricultural activities employ approximately 1.9% of Valencia's working population. This sector, while significant, is on a minor scale compared to other economic sectors in the city.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#102
+Q: What are attacks designed to make a machine or network unavailable to its intended users?
+Gold: Denial of service attacks
+Answer: Denial of service (DoS) attacks are designed to make a machine or network resource unavailable to its intended users. These attacks flood the targeted system with traffic or consume its resources, thereby preventing legitimate users from accessing the service. Distributed denial of service (DDoS) attacks, a specific form of DoS attacks, involve many points of origin, making them more difficult to defend against (Reference [1]).
+
+### References
+
+- [1] Distributed denial of service (DDoS) attacks
+- [2] Reflection and amplification attacks
+- [3] Botnets can originate denial of service attacks from the zombie computers they control
+- [4] Individual victims can be targeted by attackers who deny service by locking their accounts or overloading their capabilities
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#103
+Q: What are organizations targeting with the aim of improving nutritional content or resources?
+Gold: school cafeterias
+Answer: Organizations are targeting several key areas to improve nutritional content and resources. They are working with teachers, policymakers, and managed foodservice contractors to enhance the nutritional quality of food served in school cafeterias. This collaboration aims to ensure that students have access to better nutritional options, which can positively impact their cognitive performance and spatial memory.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#104
+Q: What historic hotel is downtown?
+Gold: Fayetteville Street downtown business district,
+Answer: The historic Sir Walter Raleigh Hotel is located in the Downtown Area of Raleigh. This building, built in the early 20th century, is a notable part of the area's history.
+
+### References
+
+- [1] Sir Walter Raleigh Hotel
+- [2] Downtown Area
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#105
+Q: What is the major telecommunications provider in CAR?
+Gold: Socatel
+Answer: Socatel is the leading provider for internet and mobile phone access in the Central African Republic (CAR).
+
+### References
+
+- [1] Document Title One (If there was a document with this information, the title would be here)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#106
+Q: When did Prince Charles write to Burke?
+Gold: 23 October
+Answer: Prince Charles of France wrote to Burke on 23 October. In this letter, he requested Burke to intercede on behalf of the royalists to the Government.
+
+### References
+
+- [1] Letter
+- [2] Prince Charles of France (S.A.R. le comte d'Artois)
+- [3] 23 October
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#107
+Q: What important infrastructure was built in the 1920s.
+Gold: a network of roads
+Answer: During the 1920s, a significant network of roads was constructed in French Equatorial Africa, which played a crucial role in the region's development. This infrastructure improvement continued into the 1930s, further enhancing connectivity and economic growth in the area.
+
+### References
+
+- [1] Road network construction continued into the 1920s in French Equatorial Africa.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#108
+Q: What can interpretation find that lies the behind the apparent events referred to in a Quranic story?
+Gold: a spiritual reality
+Answer: Hermeneutic interpretation of the Quran (ta'wil) aims to uncover the spiritual realities and truths that lie beyond the apparent events referred to in a Quranic story. This process involves understanding the deeper meanings and intentions behind the verses, which transcend the literal interpretation (tanzil). Later exegetes have played a significant role in elucidating these spiritual realities, providing insights that go beyond the surface level of the text.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#109
+Q: When was IBM's system released?
+Gold: 1974/5
+Answer: IBM's System R was first ready in 1974/5, with subsequent multi-user versions tested by customers in 1978 and 1979. This system was a significant development based on Codd's concepts and served as a prototype database system (Codd, 1974).
+
+### References
+
+- [1] Codd, E. F. (1974). A Relational Model of Data for Large Shared Data Banks. Communications of the ACM, 17(6), 337-340.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#110
+Q: What website ran a survey to learn how often iPods ceased working?
+Gold: MacInTouch
+Answer: A 2005 survey was conducted on the MacInTouch website to learn about the failure rates of the iPod line. This survey found an average failure rate of 13.7% for the iPods.
+
+### References
+
+- [1] MacInTouch: 2005 Survey on iPod Failure Rate
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#111
+Q: When was Mario born?
+Gold: 1968
+Answer: Mario was born in 1968.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#112
+Q: What may have been buried by the same prehistoric people?
+Gold: Seven bear skulls
+Answer: According to the information provided, prehistoric people may have buried bear skulls in the Drachloch (Dragon's Hole) cave. This cave, located above the village of Vattis, was explored and inhabited by these ancient human beings (prehistoric people) as evidenced by the artifacts found there.
+
+### References
+
+- [1] Drachloch (Dragon's Hole) cave
+- [2] prehistoric people
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#113
+Q: Who can usually be found watching supply ships unload at Norfolk Island?
+Gold: Visitors
+Answer: Visitors are typically found watching supply ships unload at Norfolk Island. These individuals gather to observe the supply ship arrival and the unloading activity, which involves the use of whaleboats and launches to transport goods from the supply ships to the island.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#114
+Q: From what did the Satavahana Empire protect much of India?
+Gold: foreign invaders
+Answer: The Śātavāhana Empire had to protect against several groups that posed threats to their control over much of India. These included the Yavanas, Sakas, and the Western Kshatrapas. Each of these groups was a foreign power that the Śātavāhanas had to defend against to maintain their rule.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#115
+Q: What term is used to describe the Early Neolithic era in American education?
+Gold: Archaic Era
+Answer: The term used to describe the Early Neolithic era in American education is often referred to as the Formative stage. This period is characterized by significant developments such as population growth, the establishment of larger settlements, and the introduction of new technologies like the bow and arrow and ceramic pottery. The Formative stage in Mesoamerica is equivalent to the Neolithic Revolution in other regions, marking a crucial transition from mobile hunter-gatherer lifestyles to more sedentary agricultural communities.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#116
+Q: What years do Polybius books cover?
+Gold: 220 to 167 BCE
+Answer: Polybius's work, titled "Histories," covers the years 220 to 167 BCE. This series of books provides a detailed account of the Hellenistic period, during which significant events in the region took place.
+
+### References
+
+- [1] Histories
+- [2] Polybius of Megalopolis
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#117
+Q: What country has been regarded as a potential new addition to the United States?
+Gold: Puerto Rico has been discussed as a potential 51st state of the United States
+Answer: Puerto Rico has been discussed as a potential 51st state of the United States. This territory of the United States could potentially become a state, adding to the nation's political and cultural landscape.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#118
+Q: What did Obama say the US is at war with, in 2009?
+Gold: a far-reaching network of violence and hatred
+Answer: In his Inaugural Address on January 20, 2009, Barack Obama stated that the nation was at war against a far-reaching network of violence and hatred. This address marked the beginning of his presidency and reflected the ongoing conflicts the United States was engaged in, such as the Global War on Terror.
+
+### References
+
+- [1] Inaugural Address
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#119
+Q: What is the abbreviation of CTN?
+Gold: Community Television Network
+Answer: CTN is an abbreviation for Community Television Network, which is a city-provided cable television channel open to production by city residents and nonprofit organizations in Ann Arbor.
+
+### References
+
+- [1] Community Television Network
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#120
+Q: Who was in charge of the HMS Pique?
+Gold: Rear Admiral David Price
+Answer: Rear Admiral David Price was in command of HMS Pique. He leads the Allied squadron, which includes HMS Pique, in Petropavlovsk.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#121
+Q: How did the reforms of Britains voting system affect the House of Commons?
+Gold: increased the power
+Answer: The reforms to Britain's voting system during the 19th and 20th centuries significantly impacted the House of Commons. As the power of the House of Commons increased at the expense of the House of Lords and the monarch, the role and composition of the House of Commons evolved. This shift was part of a broader trend towards a more democratic and representative government, where the lower house gained more influence over the legislative process.
+
+During the reign of Queen Victoria, the House of Commons saw a marked increase in its power. The monarch's role became more ceremonial, with the power to make Orders in Council (formal decisions made by the government) requiring the approval of the elected House of Commons. This change reflected the gradual establishment of a modern constitutional monarchy in Britain, where the House of Commons played a crucial role in shaping legislation and policy.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#122
+Q: Who's advice is the monarch supposed to follow regarding these orders?
+Gold: the advice of his or her ministers in Cabinet
+Answer: The monarch is advised regarding troop deployment and disposition orders by the prime minister. The prime minister leads the Cabinet and advises the monarch and viceroy on such military instructions.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#123
+Q: In which format does crosstalk generally not occur?
+Gold: CAV
+Answer: Crosstalk distortion generally does not occur during the playback of CAV format LaserDiscs. Proper player calibration and disc condition are necessary to avoid crosstalk distortion.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#124
+Q: Who did the First Phase offensive motivated to send more troops and resources to Korea?
+Gold: Soviet Union
+Answer: The First Phase Offensive, launched by the PVA 13th Army Group, targeted UN forces near the Sino-Korean border. This offensive motivated the deployment of additional troops and resources to Korea by the United Nations forces. The PVA 13th Army Group's offensive actions likely necessitated a stronger military presence to counter the attacks and encirclements they were conducting.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#125
+Q: Is there agreement on the status of all powers?
+Gold: no collective agreement
+Answer: The concept of "full powers" in the context of representatives exchanging documents to ensure proper authorization does not indicate a universal agreement on the status of all powers. Instead, it highlights the process through which representatives are authorized to act on behalf of their states or organizations. The American Law Institute based its disavowal on the concept of experience showing that the goals of individualized decisions about who should be executed and systemic fairness for minorities could not be reconciled [1].
+
+### References
+
+- [1] Experience
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#126
+Q: Who visited the scouts on their return from the tour of Africa in 1937?
+Gold: Lord and Lady Baden-Powell
+Answer: Lord and Lady Baden-Pull visited the Scouts on Saint Helena in 1937 after their tour of Africa. This visit took place following their return from the African Adventures, a book written by Lord Baden-Pulfill about his 1937 tour of Africa.
+
+### References
+
+- [1] African Adventures
+- [2] 1937
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#127
+Q: What is the software that performs audio and/or video compression?
+Gold: a codec (coder/decoder)
+Answer: The software that performs audio and/or video compression is known as a codec. A codec is a component of a videoconferencing system that digitally compresses audio and video streams in real time. This process reduces the size of the digital streams, making them more efficient for transmission and storage.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#128
+Q: What did Dominic refuse to do?
+Gold: carry money
+Answer: The provided information does not specify what Dominic refused to do. There is no direct mention of Dominic refusing to perform any particular action within the given context.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#129
+Q: Who took over directing 'Interstellar'?
+Gold: Christopher Nolan
+Answer: Christopher Nolan took over directing 'Interstellar' after Steven Spielberg abandoned the project. Steven Spielberg had initially announced his plans to direct a scientifically accurate film about traveling through a worm hole, which was based on a treatment co-written by Kip Thorne and Lynda Obst. However, the project was eventually directed by Christopher Nolan instead.
+
+### References
+
+- [1] Interstellar
+- [2] Christopher Nolan
+- [3] Steven Spielberg
+- [4] Interstellar
+- [5] Interstellar
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#130
+Q: What type of microphones were losing popularity in the 1920s?
+Gold: carbon microphones used,
+Answer: In the 1920s, carbon microphones were losing popularity as electric recording methods became more advanced and widespread. The carbon microphone, an early type of microphone used in electric recordings, had resonances that colored the recorded tone, leading to a decline in its use as more sophisticated microphones were developed.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#131
+Q: What did Ibn Sina prefer over private tutors?
+Gold: classes
+Answer: Ibn Sīnā, also known as Avicenna, contributed significantly to the educational methods and curriculum of maktab schools. According to his work, "The Role of the Teacher in the Training and Upbringing of Children," he emphasized the importance of teachers in the educational process rather than relying solely on private tutors. His contributions to maktab schools included detailed insights into teaching methods and the curriculum, highlighting the role of teachers in the training and upbringing of children.
+
+### References
+
+- [1] The Role of the Teacher in the Training and Upbringing of Children
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#132
+Q: What were the exta of a sacrifice?
+Gold: entrails
+Answer: The exta of a sacrifice in ancient Roman rituals referred to the entrails of a sacrificed animal, including the gall bladder, liver, heart, and lungs. These parts were reserved for the gods and were used in the process of seeking divine approval, known as litatio.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#133
+Q: A more current, 20th century center for London's literary set is located where?
+Gold: Bloomsbury
+Answer: A more current center for London's literary set in the 20th century is Bloomsbury. Bloomsbury has been a significant literary centre in London since the early 20th century, continuing to be a prominent area for literary activities and figures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#134
+Q: Where were the first pipe organs confined to?
+Gold: churches
+Answer: The early versions of pipe organs, known as Simple Pipe Organs, were mostly found in churches. This information is supported by the knowledge that simple pipe organs are early versions of pipe organs, and they played a significant role in religious contexts.
+
+### References
+
+- [1] Simple Pipe Organs are early versions of pipe organs, mostly found in churches.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#135
+Q: Name two of these cities.
+Gold: Lugo and Ourense
+Answer: Two cities mentioned in the context are Richmond and New York City. Richmond is known for its modernist architecture, with notable contributions from architects like Minoru Yamasaki, I.M. Pei, Gordon Bunshaft, and Rick Mather. New York City, on the other hand, is a significant metropolis that serves as the leading Internet hub and telecommunications center in North America, encompassing regions such as Silicon Alley.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#136
+Q: What type of music was gothic rock?
+Gold: darker, more morose style
+Answer: Gothic rock is a genre that originated from the post-punk style played by bands such as Joy Division, Siouxsie and the Banshees, Bauhaus, and The Cure. This genre is characterized by its dark and introspective lyrical themes, along with a sound that often incorporates elements of rock music with atmospheric and experimental aspects.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#137
+Q: What is a FBI branch divided into?
+Gold: offices and divisions
+Answer: A FBI branch is divided into functional divisions, each managed by an Assistant Director. These divisions can further be divided into sub-branches, which are led by a Deputy Assistant Director. The structure ensures a hierarchical organization within the FBI, allowing for specialized functions and efficient management.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#138
+Q: Along with art, how was religious instruction commonly received in the late 6th century?
+Gold: music
+Answer: In the late 6th century, religious instruction in the Church increasingly relied on music as a primary means of teaching, alongside art. Art also played a significant role in religious instruction during this period, serving as a visual means to convey religious messages and teachings.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#139
+Q: How many people watched the first episode of American Idol?
+Gold: 9.9 million
+Answer: The first episode of American Idol was watched by 9.9 million viewers.
+
+### References
+
+- [1] 9.9 million viewers watched the premiere of American Idol.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#140
+Q: In 1886, what lake did Bell start building a house near?
+Gold: Bras d'Or
+Answer: In 1886, Bell started building a house near Lake Stanley Draper. This lake, located in the far southeast portion of the city near the North Canadian River, was the site chosen by the Bell family for their summer retreat. The Bells resided in The Lodge, a large house completed by 1889 on their estate.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#141
+Q: What secondary language do educated people in Kathmandu speak?
+Gold: English
+Answer: According to the information provided, educated residents of Kathmandu understand English. Therefore, English is a secondary language spoken by educated people in Kathmandu.
+
+### References
+
+- [1] Buddhism /ˈbudɪzəm/ is a nontheistic religion[note 1] or philosophy (Sanskrit: धर्म dharma; Pali: धम्म dhamma) that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to Gautama Buddha, commonly known as the Buddha (\"the awakened one\"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent, present-day Nepal sometime between the 6th and 4th centuries BCE.[note 1] He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through the direct understanding and perception of dependent origination and the Four Noble Truths.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#142
+Q: Over how many hours had Jehovah's Witnesses spent preaching and in "Bible study" activity in 2015?
+Gold: 1.93 billion
+Answer: Jehovah's Witnesses spent 1.93 billion hours in preaching and "Bible study" activities in 2015.
+
+### References
+
+- [1] 1.93 billion hours
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#143
+Q: What radio station is operated by the public school system?
+Gold: KNHC-FM 89.5
+Answer: The provided context does not explicitly mention any radio station operated by a public school system. However, it does mention a high school radio station, KNHC-FM 89.5, which broadcasts electronic dance music. While this is not specified to be operated by a public school system, it is the closest information available in the given data.
+
+### References
+
+- [1] KNHC-FM 89.5 is a high school radio station broadcasting electronic dance music.
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#144
+Q: What allows for the identification of birds, particularly between species?
+Gold: Variation in plumage
+Answer: Birds are identified through various characteristics, including their plumage, behavior, and vocalizations. The plumage, or feathers, of a bird plays a significant role in its identification, as different species often have distinct feather patterns, colors, and structures. These plumage characteristics can be used for social assessment, display, and communication, which are crucial for species recognition (Reference [1]).
+
+Additionally, birds use a variety of behaviors for communication and display purposes. These behaviors can range from simple preening activities to complex courtship rituals. Preening involves the maintenance of feathers, which includes adjusting their position to ensure optimal plumage condition. This behavior helps in identifying species based on the specific feather adjustments and overall plumage appearance (Reference [2]). Similarly, courtship displays are intricate behaviors used by birds to attract mates, and these displays can vary significantly between different species, providing another means of identification (Reference [3]).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#145
+Q: What was a benefit of using vinyl over shellac?
+Gold: lower surface noise
+Answer: Vinyl is known for its lower surface noise level and greater durability compared to shellac, making it a superior material for records. This improvement in sound quality and longevity made vinyl a preferred choice over shellac, especially during World War II when shellac supplies were limited (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#146
+Q: What issue do both Aquinas and Brightman discuss?
+Gold: dependence upon an infinite personal God
+Answer: Both Aquinas and Brightman discuss the concept of a personal God. Saint Thomas Aquinas is identified as a realistic personal theist, which means he addresses the idea of an infinite personal God. Similarly, Edgar S. Brightman, another personalistic idealist, is associated with Bowne, who also addresses the concept of a realistic personal theism. This indicates that both Aquinas and Brightman explore the idea of a personal God as central to their philosophical and theological discussions.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#147
+Q: Where were the first two games of the 1984 division winners held?
+Gold: Wrigley Field
+Answer: The first two games of the 1984 division winners in the World Series were held at Wrigley Field. This is because the 2–3 format for the World Series dictates that the first two games are played at the home of the team without home field advantage. In 1984, the West division winner did not have home field advantage, so the games were played at Wrigley Field, which is the home field of the team representing the East division.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#148
+Q: What are Punjab's secondary crops?
+Gold: rice, sugarcane, millet, corn, oilseeds, pulses, vegetables, and fruits such as kinoo
+Answer: Punjab, a region in Pakistan, is known for its agricultural activities. While the primary crops are often grains and other major crops, secondary crops can include various types of crops depending on the local conditions and practices. However, the provided context does not specify the secondary crops of Punjab. Given the information available, we can infer that crops such as squash, beans, and maize, which are mentioned as staple crops used in dryland farming during the Formative stage, could potentially be secondary crops in Punjab, especially if they are adapted to the local conditions and practices.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#149
+Q: What does each Grand Lodge maintain?
+Gold: a list
+Answer: Each Grand Lodge maintains a list of recognized other Grand Lodges and administers Masonic rituals within its jurisdiction. Grand Lodges determine their relationships with other Grand Lodges through the process of recognition, which involves assessing whether another Grand Lodge meets certain standards and criteria.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#150
+Q: Who does Betrand Russell started the schism that lead to the Enlightenment?
+Gold: Martin Luther
+Answer: The schism that led to the Enlightenment began with Martin Luther, not Bertrand Russell. By the 18th century, the Enlightenment was the principal manifestation of this schism. This period emphasized reason and challenged the established order, diverging from the religious authorities of the time, including the Catholic Church.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#151
+Q: Who was Saint Nicholas?
+Gold: the Greek Christian Bishop of Myra
+Answer: Saint Nicholas was a Greek Christian Bishop of Myra in modern-day Turkey. He lived during the 4th century and is a significant figure in Christian tradition, particularly associated with gift-giving during the Christmas season.
+
+### References
+
+- [1] Saint Nicholas
+- [2] Myra
+- [3] 4th Century
+- [4] Saint Nicholas, Greek Christian Bishop of Myra
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#152
+Q: What member of leadership at the Global Fund to Fight AIDS, Tuberculosis and Malaria called TB a "pandemic"?
+Gold: Mark Dybul
+Answer: Mark Dybul, the executive director of the Global Fund to Fight AIDS, Tuberculosis and Malaria, has expressed frustration over the progress in ending the TB pandemic. This indicates that he has referred to TB as a "pandemic."
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#153
+Q: Russia has a military base in which city in Armenia?
+Gold: Gyumri
+Answer: Russia maintains a military base in Gyumri, a city located in the northwestern part of Armenia. This base serves as a security measure against Turkey.
+
+### References
+
+- [1] Armenia
+- [2] Gyumri
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#154
+Q: During the Cretaceous what climate was thought to be found in areas near the seas?
+Gold: deserts
+Answer: During the Cretaceous period, equatorial ocean waters were warm, possibly as warm as 20 °C in the deep ocean. This warm climate extended to areas near the seas, creating conditions that were generally warmer than today. Additionally, the world experienced a nearly flat temperature gradient from north to south, indicating that similar temperatures were prevalent across the planet.
+
+### References
+
+- [1] Equatorial Ocean Waters
+- [2] World Temperature Gradient
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#155
+Q: What did the Sumerian deities form?
+Gold: a core pantheon
+Answer: The Sumerian deities formed the Sumerian pantheon, which is a collection of deities that constitute the core of the Sumerian religious system. These deities were associated with different cities and their political power, reflecting the complex social and political structure of Sumerian civilization.
+
+### References
+
+- [1] Pantheon
+- [2] Sumerian Gods
+- [3] Sumer
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#156
+Q: Where is the present city of Cork located geographically?
+Gold: between the Barony of Barrymore to the east, Muskerry East to the west and Kerrycurrihy to the south
+Answer: Cork City is a historical city located in Ireland. It was granted a charter by Prince John and has expanded beyond its medieval boundaries. The Barony of Cork City is a historical administrative division that includes part of the city, situated between the Barony of Barrymore to the east, the Barony of Muskerry East to the west, and the Barony of Kerrycurrihy to the south.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#157
+Q: Which platform did Apple choose to use?
+Gold: Motorola 68040
+Answer: Apple chose to use the PowerPC architecture for its Macintosh platform. This decision was made after considering other options and was part of the strategy to develop its own line of computers independent of Intel's CISC architecture.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#158
+Q: What is Dr. Yashwant Singh Parmar University earned?
+Gold: unique distinction in India for imparting teaching, research and extension education in horticulture, forestry and allied disciplines
+Answer: Dr. Yashwant Singh Parmar University of Horticulture and Forestry is known for its focus on horticulture and forestry. While the provided context does not explicitly detail any specific achievements or recognitions earned by the university, it highlights its specialization in these fields, indicating a strong emphasis on education and research in horticulture and forestry.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#159
+Q: If Broca were alive today, what would his profession be?
+Gold: neurosurgeon
+Answer: Broca, being a neurosurgeon who specialized in the study of the brain and its functions, if alive today, would most likely still be a neurosurgeon. His expertise in understanding the brain's structure and its role in speech production would make him a valuable and relevant professional in the field of neurosurgery.
+
+### References
+
+- [1] Broca
+- [2] Neurosurgeon
+- [3] Broca's Area
+- [4] Speech
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#160
+Q: What is the new name for the part of the North Canadian River that resides within the city limits?
+Gold: Oklahoma River
+Answer: The North Canadian River, which once frequently flooded and was managed through the construction of dams, has been renamed the Oklahoma River inside city limits. This change occurred as part of efforts to better manage the river within the urban area.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#161
+Q: What did the banks chose to do with the money created by the Federal Reserve instead of financing more domestic loans and refinancing mortgages?
+Gold: investing internationally in emerging markets
+Answer: The banks received the $600 billion created by the Federal Reserve but instead invested it in more profitable areas, rather than using it to finance more domestic loans and refinance mortgages.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#162
+Q: What did a criminal infringer do to be prosecuted?
+Gold: for the purpose of commercial advantage or private financial gain
+Answer: To be prosecuted for criminal copyright infringement under U.S. law, an infringer must have committed acts that are willful and involve the intent of commercial advantage or private financial gain. The first criminal provision in U.S. copyright law, which was added in 1897, established misdemeanor penalties for such infringements. The specific elements of criminal copyright infringement under 17 U.S.C. § 506 include:
+
+- **Willful Infringement**: The infringer must act with the intent of commercial advantage or private financial gain.
+- **Number of Copies**: The number of copies involved is a factor in determining the threshold for misdemeanor infringement.
+- **Value of Infringed Works**: The value of the infringed works is another factor in determining the threshold for misdemeanor infringement.
+- **Unlawful Performances and Representations**: Unlawful performances and representations of copyrighted dramatic and musical compositions are subject to criminal penalties.
+
+These elements must be present for an individual to be prosecuted for criminal copyright infringement.
+
+### References
+
+- [1] U.S. Copyright Law
+- [2] 17 U.S.C. § 506
+- [3] Willful Infringement
+- [4] Number of Copies
+- [5] Value of Infringed Works
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#163
+Q: Which war in history did the Space Race begin to take root?
+Gold: World War II
+Answer: The Space Race can trace its origins to Germany, where its roots began in the 1930s. This historical competition between countries to achieve superior capability in space exploration and technology was influenced by Germany's early experiments and advancements in rocket technology.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#164
+Q: How does the halogen bulb decrease darkening over time?
+Gold: by redepositing tungsten from the inside of the bulb back onto the filament
+Answer: The halogen bulb reduces darkening over time through a process known as the halogen cycle. In a halogen lamp, the tungsten filament continuously evaporates and deposits onto the inner surface of the bulb. However, instead of the darkening that occurs in standard incandescent bulbs, the halogen cycle works to redeposit the evaporated tungsten back onto the filament. This process is facilitated by the presence of halogen gas (such as iodine or bromine) within the bulb, which reacts with the tungsten vapor and redeposits it onto the filament. This continuous redeposition of tungsten helps maintain the filament's integrity and reduces darkening, thereby extending the life of the bulb.
+
+### References
+
+- [1] Halogen Lamp
+- [2] Halogen Gas
+- [3] Halogen Cycle
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#165
+Q: Who deployed troops to start the Nama-Herero war?
+Gold: Imperial Germany
+Answer: Imperial Germany deployed troops to resolve the Nama-Herero War.
+
+### References
+
+- [1] Imperial Germany deployed troops to resolve the Nama-Herero War.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#166
+Q: What season is the wettest in Charleston?
+Gold: Summer
+Answer: The wettest season in Charleston is summer. During this time, the city experiences the highest rainfall, with most precipitation occurring from June to September.
+
+### References
+
+- [1] Charleston
+- [2] Summer
+- [3] Summer is the warmest and wettest season in Charleston.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#167
+Q: What river flows through Oklahoma city?
+Gold: North Canadian River
+Answer: The river that flows through Oklahoma City is the Oklahoma River. It replaced the North Canadian River inside the city limits. The North Canadian River, which was managed through the construction of dams, once frequently flooded areas including the central business district and the original Oklahoma City Zoo (Reference: [1]).
+
+### References
+
+- [1] North Canadian River and Oklahoma City Zoo relationship document
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#168
+Q: What has nearly exterminated the trees in many areas?
+Gold: Human interference
+Answer: The near extermination of trees in many areas is primarily caused by human interference. This human activity has led to the significant reduction in forest cover, particularly during the 17th and 18th centuries when extreme deforestation occurred. This period of deforestation resulted in the near extermination of trees across various regions.
+
+### References
+
+- [1] Human
+- [2] Extreme Deforestation
+- [3] Deforestation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#169
+Q: What food can be traced back to ancient Greece?
+Gold: skordalia
+Answer: Ancient Greece is known for its rich culinary traditions that have influenced modern Greek cuisine. Several dishes can be traced back to ancient Greece, including Greek Salad, which is a traditional dish made with tomatoes, cucumbers, red onions, feta cheese, and olives. These ingredients were commonly used in ancient Greek cooking and continue to be integral to this popular salad today.
+
+Another well-known dish is Moussaka, a traditional Greek dish made with layers of eggplant, potatoes, and a rich meat sauce. This hearty and flavorful dish has its roots in ancient Greek cuisine and has evolved over time to become a staple in modern Greek cooking.
+
+Feta cheese, a traditional Greek cheese often used in Greek cuisine, also has historical significance. It is believed to have originated in ancient Greece and is still a key ingredient in many dishes today.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#170
+Q: What was Gaddafi's coup called?
+Gold: Operation Jerusalem
+Answer: Gaddafi's coup, which aimed to overthrow the monarchy, was named "Operation Jerusalem" by the Gaddafi's Free Officers.
+
+### References
+
+- [1] Operation Jerusalem
+- [2] Gaddafi's Free Officers
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#171
+Q: Which actor plays the role of Mr. Hinx?
+Gold: Dave Bautista
+Answer: Mr. Hinx is played by Dave Bautista in the James Bond series.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#172
+Q: What islands did Japan invade?
+Gold: Solomon Islands
+Answer: Japan invaded several islands during World War II, including the Solomon Islands and Malaya. Specifically, Japan captured the Solomon Islands and drove Allied forces out of Malaya. Additionally, Japan also captured other locations such as Kuala Lumpur, Rabaul, and Singapore.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#173
+Q: In what year did the American Law Institute change their mind about their contribution on the death penalty to the Model Penal Code?
+Gold: 2009
+Answer: The American Law Institute disavowed the capital punishment framework outlined in the Model Penal Code in October 2009. This decision was made due to institutional obstacles that made it difficult to reconcile the goals of the Model Penal Code with the reality of capital punishment.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#174
+Q: The large skilled English-speaking workforce of New Delhi has been able to attract what type of organizations to the city?
+Gold: multinational companies
+Answer: The large skilled English-speaking workforce of New Delhi has been able to attract multinational companies to the city. This skilled workforce has contributed to the expansion of the service sector in New Delhi, making it a hub for various service industries.
+
+### References
+
+- [1] Service sector in New Delhi
+- [2] Skilled workforce in New Delhi
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#175
+Q: Which Portugese colony was lost to China in 1999?
+Gold: Macau
+Answer: Macau was a Portuguese colony that was handed over to China in 1999.
+
+### References
+
+- [1] Macau
+- [2] China
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#176
+Q: Puberty causes what to happen in boys?
+Gold: a deeper voice and larger adam's apple
+Answer: Puberty in boys is characterized by a series of physical and hormonal changes. Hormone surges, particularly an increase in testosterone, trigger these changes. These surges lead to the development of secondary sexual characteristics, such as the growth of facial hair, deepening of the voice, and changes in body composition, including the growth of muscles and the development of a larger penis and testes. Additionally, boys may experience changes in height and weight, as well as the growth of pubic and underarm hair.
+
+### References
+
+- [1] Puberty
+- [2] Hormone
+- [3] Physical Changes
+- [4] Hormone surges trigger physical changes during the process of puberty.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#177
+Q: How many magazines can call NYC home?
+Gold: 350
+Answer: New York City is home to 350 consumer magazines, contributing to its vibrant print market.
+
+### References
+
+- [1] 350 Consumer Magazines
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#178
+Q: What year did the Black Death arrive in England for the first time?
+Gold: 1348
+Answer: The Black Death reached England in the year 1348, marking the beginning of a significant period that ended the previous era of philosophical and scientific development.
+
+### References
+
+- [1] The Black Death
+- [2] 1348
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#179
+Q: Who was the daughter of Peneus?
+Gold: Daphne
+Answer: Daphne was the daughter of Peneus. According to the information, Daphne is a nymph and the daughter of the river god Peneus, who later transforms her into a laurel tree.
+
+### References
+
+- [1] Daphne
+- [2] Peneus
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#180
+Q: In which book, was the term "computer" first used?
+Gold: The Yong Mans Gleanings
+Answer: The term "computer" was first used in the book "The Yong Mans Gleanings," written by Richard Braithwait in 1613. This book is noted for its early use of the term to describe a person who carried out calculations.
+
+### References
+
+- [1] The Yong Mans Gleanings
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#181
+Q: What kind of bural was at Adaoutse, Bouches-du-Rhône?
+Gold: Neolithic cave-burial
+Answer: The context provided does not contain specific information about the type of burial at Adaoutse, Bouches-du-Rône. The only information related to Bouches-du-Rhône in the context is that it is a region where Kermes was found in a Neolithic cave-burial. However, this does not specify the location of the burial at Adaoutse.
+
+Given the information available, I cannot provide details about the type of burial at Adaoutse, Bouches-du-Rhône.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#182
+Q: What houses the Museo Romantico?
+Gold: Antonio Montero
+Answer: The Museo Romantico is housed in the historic residence of Antonio Montero.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#183
+Q: What sutras are reserved for those who follow the bodhisattva path?
+Gold: Mahayana
+Answer: The Bodhisattva Path, as articulated in Mahayana Buddhism, is characterized by the motivation to liberate all living beings from unhappiness. The deeper doctrines of the Buddha, which explain this path, are claimed to be articulated in the Mahayana Sutras. These texts are intended for bodhisattvas and contain the Buddha's advanced teachings.
+
+### References
+
+- [1] Buddhism /ˈbudɪzəm/ is a nontheistic religion[note 1] or philosophy (Sanskrit: धर्म dharma; Pali: धम्म dhamma) that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to Gautama Buddha, commonly known as the Buddha (\"the awakened one\"). According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent, present-day Nepal sometime between the 6th and 4th centuries BCE.[note 1] He is recognized by Buddhists as an awakened or enlightened teacher who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving. Buddhists believe that this is accomplished through the direct understanding and perception of dependent origination and the Four Noble Truths.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#184
+Q: What model did the work of Muslim World astronomers contribute to?
+Gold: the Copernican heliocentric model
+Answer: The contributions of Muslim World astronomers significantly influenced the development of the Copernican heliocentric model. They made numerous corrections and improvements to the geocentric model, which eventually led to its refinement and eventual replacement by the heliocentric model.
+
+For instance, Mu'ayyad al-Din al-'Urdi and Nasir al-Din al-Tusi, among others, made corrections to the geocentric model. These corrections were later incorporated into the Copernican heliocentric model. Additionally, Ibn al-Shatir also made significant contributions to the geocentric model, which were later used in the formulation of the heliocentric model.
+
+The astrolabe, an instrument perfected by Islamic astronomers and engineers, was crucial in their astronomical observations and calculations. This tool allowed for precise measurements and observations that supported their advancements in astronomy.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#185
+Q: What is the goal of plant ecology?
+Gold: to understand
+Answer: The primary goal of plant ecology is to understand the relationships between plants and their habitats. This includes studying local and regional floras, biodiversity, and how plants adapt to their environment. Plant ecologists also investigate how plants respond to environmental changes and their impact on the ecosystem.
+
+Plant ecology encompasses a wide range of topics such as the distribution patterns of plant species, the genetic diversity within species, and the competitive and mutualistic interactions among plants. Additionally, it involves examining the role of plants in maintaining ecosystem productivity and their overall environmental impact.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#186
+Q: What is comparable in domestic law to a treaty in international law?
+Gold: contracts
+Answer: In the context of international law, a treaty is a legal agreement between parties that outline mutual obligations. A comparable concept in domestic law is a contract, which is an agreement between parties that also outlines mutual obligations. Both treaties and contracts serve to establish binding agreements between parties, ensuring that each party adheres to the terms agreed upon.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#187
+Q: What is the street address of the headquarters of Verizon Communciations?
+Gold: 140 West Street
+Answer: The headquarters of Verizon Communications is located at 140 West Street in Lower Manhattan.
+
+### References
+
+- [1] 140 West Street is the headquarters location of Verizon Communications in Lower Manhattan.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#188
+Q: Who else besides the parties themselves is typically identified in the preamble to a treaty?
+Gold: their representatives
+Answer: In the preamble of a treaty, besides the full names and titles of the contracting parties, other entities or individuals may also be identified. These can include:
+
+- **International Organizations**: Sometimes, treaties involve not just states, but also international organizations. These bodies might be mentioned in the preamble to outline the broader scope and context of the agreement.
+- **Historical or Cultural Significance**: The preamble might reference historical events, cultural agreements, or other significant contexts that led to the creation of the treaty.
+- **Other Parties**: In some cases, additional parties or entities that are indirectly involved in the treaty might be mentioned, such as other states or organizations that have a stake in the agreement.
+
+For instance, a treaty might begin with a statement like, "Noting the contributions of the United Nations in promoting international peace and security," thereby identifying the UN as a significant entity in the context of the treaty.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#189
+Q: What is the English word for qado?
+Gold: lunch
+Answer: Qado is a meal type often served in the evening, particularly among Somalis. The term "qado" itself does not have a direct English translation, as it is a Somali word. However, in the context of describing this meal in English, it is typically left as "qado" or explained as "a traditional Somali evening meal."
+
+### References
+
+- [1] Qado
+- [2] Somalis have Qado as a meal, often elaborate, served in the evening.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#190
+Q: What had been Britain's most populous overseas possession?
+Gold: British America
+Answer: Britain's most populous overseas possession at the time of its loss was British America.
+
+### References
+
+- [1] British America was Britain's most populous overseas possession at the time of its loss.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#191
+Q: Who claimed the Kyburg lands after their fall in 1264 AD?
+Gold: the Habsburgs
+Answer: The information provided does not specify who claimed the Kyburg lands after their fall in 1264 AD. The Knowledge Graph Data indicates that the Kyburg dynasty held dominion over parts of the Swiss Plateau until 1264, but it does not mention any subsequent claimants to their lands.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#192
+Q: In what year was Dayton's Dry Goods established?
+Gold: 1902
+Answer: Dayton's Dry Goods was established in 1902 by George Dayton.
+
+### References
+
+- [1] Dayton's Dry Goods
+- [2] George Dayton
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#193
+Q: How much did VHS cost to produce by the 1990s?
+Gold: as little as $1.00
+Answer: The cost of producing VHS tapes by the 1990s was influenced by several factors, including the complexity of the manufacturing process and the presence of moving parts. VHS tapes, which are tape-based video storage media, contained at least 14 parts and required a more complex bulk tape duplication mechanism, which increased their production cost (Reference ID: [1]).
+
+In comparison, LaserDiscs were cheaper to manufacture than VHS tapes due to a simpler duplication process and the absence of moving parts (Reference ID: [2]). Additionally, videocassettes, another type of tape-based video storage medium, were more expensive to produce than LaserDiscs due to the presence of moving parts and the plastic outer shell (Reference ID: [3]).
+
+While the exact production costs of VHS tapes in the 1990s are not provided in the context, it is clear that VHS tapes were more expensive to produce than LaserDiscs due to the added complexity and components involved in their manufacturing.
+
+### References
+
+- [1] VHS Cassette
+- [2] LaserDiscs
+- [3] Videocassettes
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#194
+Q: Who did the Macintosh clones hurt financially?
+Gold: Apple
+Answer: Macintosh clones competed with Apple's Macintosh systems and increased Macintosh's market share, which could have hurt Apple financially. These third-party hardware devices running Apple's System 7 competed directly with Apple's own Macintosh computers, offering similar functionality at potentially lower prices. This competition likely led to increased market share for clones and possibly eroded some of Apple's customer base and revenue.
+
+### References
+
+- [1] Macintosh Clones
+- [2] System 7
+- [3] Macintosh
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#195
+Q: What impact did Victorias threats have on the impact of the Russo=Turkish war?
+Gold: no impact
+Answer: Victoria's threats to abdicate and the pressure she exerted on Disraeli during the Russo-Turkish War had a significant impact on the course of the conflict. Victoria supported Disraeli's foreign policy, which was characterized by a strong stance against the Ottoman Empire. Her threats to abdicate if Disraeli did not take a more assertive approach to the war likely influenced his decisions and policies during this period (Reference [1]).
+
+The Russo-Turkish War began in April 1877 and continued until February 1878, with Victoria's pressure playing a crucial role in shaping the British stance. Her support for Disraeli's foreign policy during this conflict contributed to Britain's involvement and the eventual outcome of the war (Reference [2]).
+
+### References
+
+- [1] Victoria is the British monarch who threatened to abdicate and supported Disraeli's foreign policy.
+- [2] Victoria threatened to abdicate while pressuring Disraeli during the Russo-Turkish War.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#196
+Q: Which religious deity did Thales undermine with his scientific theories?
+Gold: Poseidon
+Answer: Thales, a pre-Socratic philosopher known for his non-supernatural explanations of natural phenomena, did not specifically undermine any particular religious deity with his scientific theories. His focus was on understanding the natural world through reason and observation rather than attributing natural occurrences to divine intervention. Thales' ideas influenced the development of atomism, which provided a naturalistic explanation for the world, potentially challenging the traditional mythological and religious explanations prevalent at the time.
+
+### References
+
+- [1] Thales
+- [2] Howison's Personal Idealism
+- [3] Science
+- [4] Scientific Revolution
+- [5] Pre-Socratics
+- [6] Atomism
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#197
+Q: Kanye's first engagement was to which well-known designer?
+Gold: Alexis Phifer
+Answer: Kanye West's first engagement was to Alexis Phifer, an American model and actress, from 2002 to 2008. They became engaged in 2006.
+
+### References
+
+- [1] West
+- [2] Alexis Phifer
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#198
+Q: Who was the last Ptolemaic monarch?
+Gold: Cleopatra VII
+Answer: The last Ptolemaic monarch was Cleopatra VII. She was defeated by Mark Anthony in the Battle of Actium during the final act of the Hellenistic era.
+
+### References
+
+- [1] Cleopatra VII
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#199
+Q: How long are the wire antenna's that the voltage and current waves travel in the same direction?
+Gold: one direction
+Answer: Wire antennas that are used in traveling wave antennas are typically multiple wavelengths long. These antennas are designed to have unidirectional wave travel, meaning the waves travel in one direction.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#200
+Q: What is the most prevalent natural isotope of uranium?
+Gold: uranium-238
+Answer: The most prevalent natural isotope of uranium is Uranium-238, which accounts for 99.2742% of natural uranium (Reference [1]).
+
+### References
+
+- [1] Uranium-238
+- [2] Uranium
+- [3] Uranium-235
+- [4] Uranium-238
+- [5] Uranium-235 and Uranium-238 are isotopes of uranium found in nature.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 200
+Processed successfully: 200
+Skipped: 0
+Failed: 0
+Average correctness: 4.0825
+Pass@4.0: 144/200 = 0.7200

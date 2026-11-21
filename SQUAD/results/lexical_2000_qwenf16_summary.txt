@@ -1,0 +1,12 @@
+=== LEXICAL/SEMANTIC METRICS: SQuAD size=2000, model=qwenf16 ===
+Seeds present: 5/5
+
+v0 (n=2000): cover_em=0.8000  token_recall=0.8447  bertscore_recall=0.8491
+v1 (n=2000): cover_em=0.8480  token_recall=0.8857  bertscore_recall=0.8509
+v2 (n=2000): cover_em=0.8455  token_recall=0.8819  bertscore_recall=0.8513
+v3 (n=2000): cover_em=0.8420  token_recall=0.8789  bertscore_recall=0.8509
+v4 (n=2000): cover_em=0.8485  token_recall=0.8849  bertscore_recall=0.8517
+
+Mean cover_em: 0.8368 (std 0.0185)
+Mean token_recall: 0.8752 (std 0.0155)
+Mean bertscore_recall: 0.8508 (std 0.0009)

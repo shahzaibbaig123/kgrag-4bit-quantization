@@ -1,0 +1,21 @@
+\begin{table*}[t]
+\centering
+\caption{Knowledge-graph structure and F16$\leftrightarrow$Q4\_K\_M overlap by corpus size}
+\label{tab:kg}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lcccccccccccc}
+\toprule
+& \multicolumn{2}{c}{\textbf{Nodes}} & \multicolumn{2}{c}{\textbf{Edges}} & \multicolumn{2}{c}{\textbf{Mean degree}} & \multicolumn{3}{c}{\textbf{Exact overlap (Jaccard)}} & \multicolumn{2}{c}{\textbf{Semantic overlap}} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-10}\cmidrule(lr){11-12}
+\textbf{Size} & F16 & Q4 & F16 & Q4 & F16 & Q4 & nodes & edges & hubs@50 & nodes & edges \\
+\midrule
+200 & 2219 & 2123 & 1694 & 1673 & 1.53 & 1.58 & 0.552\,$\pm$\,0.016 & 0.226\,$\pm$\,0.023 & 0.370\,$\pm$\,0.069 & 0.787\,$\pm$\,0.010 & 0.445\,$\pm$\,0.023 \\
+\rowcolor{gray!10}500 & 5209 & 4981 & 4176 & 4056 & 1.60 & 1.63 & 0.563\,$\pm$\,0.008 & 0.230\,$\pm$\,0.002 & 0.403\,$\pm$\,0.054 & 0.799\,$\pm$\,0.008 & 0.455\,$\pm$\,0.013 \\
+1000 & 9718 & 9399 & 8120 & 8091 & 1.67 & 1.72 & 0.615\,$\pm$\,0.010 & 0.269\,$\pm$\,0.009 & 0.569\,$\pm$\,0.048 & 0.840\,$\pm$\,0.003 & 0.511\,$\pm$\,0.005 \\
+\rowcolor{gray!10}2000 & 17845 & 17376 & 15845 & 15796 & 1.78 & 1.82 & 0.611\,$\pm$\,0.009 & 0.259\,$\pm$\,0.009 & 0.636\,$\pm$\,0.051 & 0.843\,$\pm$\,0.007 & 0.511\,$\pm$\,0.009 \\
+3000 & 24949 & 24230 & 22852 & 22795 & 1.83 & 1.88 & 0.618\,$\pm$\,0.009 & 0.261\,$\pm$\,0.010 & 0.679\,$\pm$\,0.051 & 0.850\,$\pm$\,0.004 & 0.510\,$\pm$\,0.005 \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.95\textwidth}{\vspace{0.1cm}All values are five-seed means; overlap columns additionally give the standard deviation. Counts and degrees are printed without it for width; across all thirty of those entries the largest relative standard deviation is 3.2\% of the mean. \emph{hubs@50} is the Jaccard overlap of the 50 highest-degree nodes. \emph{Semantic} overlap counts an entity (resp.\ a linearized \emph{source--relation--target} triple) as matched when its MiniLM cosine similarity to some counterpart in the other graph is $\geq 0.85$; both figures are recall of F16 in Q4.}
+\end{table*}

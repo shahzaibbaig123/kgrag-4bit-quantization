@@ -1,0 +1,7 @@
+=== TriviaQA RETRIEVAL SUMMARY: model=qwenf16 (mode=hybrid) ===
+Sizes present: 4/4
+
+size 25 (n=14): hit@1=0.7143 hit@3=0.7143 hit@5=0.7143 hit@10=0.7143 mrr=0.7143  empty=4
+size 50 (n=28): hit@1=0.5000 hit@3=0.5000 hit@5=0.5000 hit@10=0.5000 mrr=0.5000  empty=1
+size 75 (n=42): hit@1=0.3095 hit@3=0.3095 hit@5=0.3095 hit@10=0.3333 mrr=0.3125  empty=10
+size 100 (n=58): hit@1=0.2414 hit@3=0.2414 hit@5=0.2414 hit@10=0.2414 mrr=0.2414  empty=9

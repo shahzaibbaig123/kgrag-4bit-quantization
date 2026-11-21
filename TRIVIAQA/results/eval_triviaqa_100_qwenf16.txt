@@ -1,0 +1,667 @@
+Evaluation: Frozen TriviaQA size=100 (qwenf16)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b
+
+#1
+Q: Beatrix became queen of which European nation in 1980?
+Gold: The Netherlands
+Answer: I do not have information about Beatrix becoming queen of any European nation in 1980 in the provided context. The context does not contain any details about Beatrix or her reign as a queen. Could you provide more details or context related to Beatrix and her reign? If you have any additional information, please share it so I can assist you better.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#2
+Q: What did the Winklevoss twins try to take credit for creating?
+Gold: Facebook
+Answer: The Winklevoss twins, Cameron and Tyler, tried to take credit for creating a social networking site similar to Facebook. Specifically, they co-founded HarvardConnection, which was later renamed ConnectU. In 2004, the Winklevoss brothers sued Mark Zuckerberg, claiming that he stole their idea to create Facebook. This lawsuit ultimately led to a settlement where the Winklevoss twins received $65 million.
+
+### References
+
+- [1] Winklevoss twins
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#3
+Q: Poet W H Auden died in which European city in 1973?
+Gold: Vienna
+Answer: Poet W. H. Auden died in Vienna in 1973. According to the information provided, "Auden died in Vienna and was buried in Kirchstetten." This fact directly answers the query about the city where W. H. Auden passed away in 1973.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: Who claimed to be a direct descendant of King Solomon and the Queen of Sheba, and worked to achieve the independence of Abyssinia?
+Gold: Menelek II
+Answer: Haile Selassie I claimed to be a direct descendant of King Solomon and the Queen of Sheba according to Ethiopian tradition. He worked to achieve the independence of Abyssinia, which is another name for Ethiopia, from Italian occupation during the Italian invasion and the Second Italo–Abyssinian War.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#5
+Q: What 2013 film is the highest-grossing animated movie of all-time?
+Gold: Frozen
+Answer: The highest-grossing animated movie of all-time, as of 2013, is "Frozen". This film grossed over $1.2 billion and is currently the highest-grossing animated film worldwide.
+
+### References
+
+- [1] 2013 in film
+- [2] 2013 in film
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#6
+Q: What is the largest country by land area in Central America?
+Gold: Nicaragua
+Answer: The largest country by land area in Central America is Nicaragua. It covers an area of approximately 130,373 square kilometers (50,338 square miles). Other countries in Central America include Costa Rica, El Salvador, Guatemala, Honduras, and Belize, with Belize being the smallest country in the region. Nicaragua's size and land area make it stand out among the Central American countries. 
+
+### References
+
+- [1] Central America
+- [2] Central America geography
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#7
+Q: What is missing in the sequence: French Guiana, the Republic of Suriname, and the Bolivarian Republic of Venezuela?
+Gold: The Co-operative Republic of Guyana
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#8
+Q: What is the famous weaponry invention of Israeli army officer Uziel Gal (1923-2002)?
+Gold: Uzi submachine gun
+Answer: Uziel Gal, an Israeli gun designer, is best known for his invention of the Uzi submachine gun. Gal designed the Uzi shortly after the founding of Israel and the 1948 Arab-Israeli War. It was officially adopted by the Israel Defense Forces (IDF) in 1951 and named after its creator, Uziel Gal himself. Despite Gal's initial request not to have the weapon named after him, his design became a significant part of the IDF's arsenal.
+
+### References
+
+- [1] Uziel Gal
+- [2] Israel
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#9
+Q: Name the famous naval base and natural port on Oahu island, Hawaii, which featured in the US entry to World War II?
+Gold: Pearl Harbor
+Answer: The famous naval base and natural port on Oahu, Hawaii, which featured in the U.S. entry to World War II, is Pearl Harbor. This location was the target of a devastating attack by the Imperial Japanese Navy on December 7, 1941, which led to the United States' involvement in the war. The attack on Pearl Harbor resulted in significant damage to American warships and aircraft, and it is a pivotal event in U.S. history that marked the country's entry into World War II. 
+
+### References
+
+- [1] Pearl Harbor
+- [2] Hawaii
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#10
+Q: Which English town or city lies on the rivers, Eden, Caldew, and Petteril?
+Gold: CARLISLE
+Answer: The English city of Carlisle lies on the rivers Eden, Caldew, and Petteril. Specifically, the River Eden flows towards Carlisle, the River Caldew flows through Carlisle, and the River Petteril runs through Carlisle as well.
+
+### References
+
+- [1] River Caldew
+- [2] Carlisle
+- [3] River Petteril
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#11
+Q: In which city is the novel and film 'Saturday Night and Sunday Morning' set?
+Gold: NOTTINGHAM
+Answer: The novel and film 'Saturday Night and Sunday Morning' are set in the city of Sheffield, England. The story deals with the working-class life of a young man, Arthur Seaton, and his experiences in the city during the 1950s. This work is part of the British New Wave, which focuses on the serious portrayal of working-class life and the realistic side of sex and abortion (Reference [1]).
+
+### References
+
+- [1] A Taste of Honey
+- [2] This Sporting Life
+- [3] A Kind of Loving
+- [4] British New Wave
+- [5] film movement
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#12
+Q: In which TV series might Lieutenant Green say Spectrum is green?
+Gold: Captain Scarlet
+Answer: In the 2000s computer-animated remake of the series, Lieutenant Green might say that Spectrum is green. This is because in the remake, Lieutenant Green is reimagined as an African-American woman, and she is known to be an expert in computer programming and electronics. The original series had Lieutenant Green, a native of Trinidad and Tobago, making comments about the color green, which Cy Grant suggested could symbolize nature and the healing of the rift between good and evil. In the remake, Lieutenant Green's character retains this association with green, possibly referring to Spectrum as green due to its role in maintaining balance and order, similar to the dualistic nature discussed by Cy Grant.
+
+### References
+
+- [1] Lieutenant Green
+- [2] Green
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#13
+Q: Which King was born at Dunfermline Palace in November 1600?
+Gold: Charles I
+Answer: King Charles II was born at Dunfermline Palace in November 1600. He was the second son of King James VI of Scotland and Anne of Denmark, and remained at the palace due to his health issues until he was old enough to travel to England with his family in 1604.
+
+### References
+
+- [1] Dunfermline Palace
+- [2] Early life
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#14
+Q: STS-135, the last planned mission for NASA's space shuttle fleet, launched which shuttle on a 13 day trip to international space station?
+Gold: Atlantis
+Answer: STS-135 was the last planned mission for NASA's space shuttle fleet and was launched using the space shuttle Atlantis. This 13-day trip included a visit to the International Space Station (ISS).
+
+The mission involved the delivery of the Multi-Purpose Logistics Module (MPLM) Raffaello and a Lightweight Multi-Purpose Carrier (LMC) to the ISS, as well as conducting cargo transfers and repairs. Atlantis carried out the final space shuttle mission, marking the end of the Space Shuttle Program.
+
+### References
+
+- [1] STS-135
+- [2] International Space Station (ISS)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#15
+Q: What mathematical instrument was invented by William Oughtred in 1622?
+Gold: Slide Rule
+Answer: William Oughtred invented the slide rule in the 1620s. This mathematical tool simplifies the use of logarithmic scales, originally developed by Edmund Gunter. Oughtred's invention aimed to make mathematical calculations more accessible and efficient.
+
+### References
+
+- [1] Slide Rule
+- [2] Oughtred
+- [3] circular slide rule
+- [4] slide rule
+- [5] Oughtred
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#16
+Q: What is either a type of tree or an expensive ski resort in Colorado?
+Gold: Aspen
+Answer: The term "10500 ft" in the context likely refers to the elevation at which the tree line is found in northern Colorado, rather than a type of tree or an expensive ski resort. However, there are notable ski resorts in Colorado, such as Glenwood, which is known for its resort hot springs and is located in the Colorado Rocky Mountains. 
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#17
+Q: "Who played headmistress Miss Fritton and her brother in the 2007 film 'St. Trinians""?"
+Gold: Rupert Everett
+Answer: Miss Millicent Fritton, the headmistress of St Trinian's in the first two films, was played by Dora Bryan in the 2007 film "St Trinians." However, there is no mention of her brother in the cast of this film.
+
+### References
+
+- [1] St Trinian's 2: The Legend of Fritton's Gold
+- [2] St Trinian's (2007 film)
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#18
+Q: In which US state was the Harley-Davidson motorcycle company founded
+Gold: Wisconsin
+Answer: Harley-Davidson was founded in the state of Wisconsin. Specifically, the company was established in Milwaukee, Wisconsin, which is also the location where Harley-Davidson continues to manufacture its motorcycles and maintain significant operations.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#19
+Q: Who is currently the Prime Minister of Eire?
+Gold: BRIAN COWEN
+Answer: The current Taoiseach (Prime Minister) of Ireland is Enda Kenny, who was appointed on 9 March 2011 and is the 13th Taoiseach. The term "Taoiseach" and "Prime Minister" are often used interchangeably in the context of Ireland, with the Taoiseach serving as the head of government. Therefore, Enda Kenny is the current Prime Minister of Ireland. 
+
+### References
+
+- [1] Document Title One
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#20
+Q: Which singer/songwriter wrote the musical ‘9 to 5’?
+Gold: Dolly Parton
+Answer: The musical "9 to 5" was written by Patricia Resnick, with the title song "9 to 5" being performed by Dolly Parton. Dolly Parton wrote the hit song "9 to 5" for the musical of the same name.
+
+### References
+
+- [1] De 9 à 5
+- [2] 9 to 5 (song)
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#21
+Q: Nephrology is the study of which organs?
+Gold: Kidneys
+Answer: Nephrology is the medical specialty concerned with the study, diagnosis, treatment, and prevention of kidney diseases. The kidneys are the primary organs studied in nephrology. The kidneys are part of the excretory system, which includes other organs such as the ureters, bladder, and urethra. These organs work together to filter blood, produce urine, and maintain fluid and electrolyte balance in the body.
+
+### References
+
+- [1] Nephrology is the branch of medicine dealing with the study, diagnosis, treatment, and prevention of kidney diseases.
+- [2] The Excretory System includes the kidneys as a component.
+- [3] Kidney is an organ in the body responsible for filtering blood and producing urine.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#22
+Q: Which chemical element, not found as a free element on Earth, has the atomic number 9 and the symbol F?
+Gold: Fluorine
+Answer: The chemical element with the atomic number 9 and the symbol F is Fluorine. Fluorine is a halogen known for its high electronegativity and reactivity. It is not found as a free element on Earth but is present in various compounds and minerals.
+
+### References
+
+- [1] Fluorine
+- [2] Fluorine Atoms
+- [3] Elements
+- [4] Fluorine Isomer
+- [5] Fluorine Condensation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: REM is a term sometimes applied to what?
+Gold: A stage of sleep
+Answer: REM is often applied to REM sleep, which is one of the two distinct modes of mammalian sleep. REM sleep is characterized by rapid eye movements, increased brain activity, and muscle inhibition. This stage of sleep is also associated with vivid dreams and dreaming. During REM sleep, the body experiences a temporary state where most muscles are paralyzed, and heart rate, breathing, and body temperature become unregulated. This stage is particularly important for brain development and is linked to benefits for procedural memory, as studies have shown a 25.47% increase in REM sleep after learning trials compared to control trials.
+
+### References
+
+- [1] REM Sleep
+- [2] Hobson & McCarley Activation-Synthesis Hypothesis
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: What is the name of the Japanese verse form of 17 syllables arranged in 3 lines?
+Gold: Haiku
+Answer: The Japanese verse form you are referring to is called Haiku. Haiku is traditionally structured in a 5-7-5 syllable pattern, consisting of three lines. The first and third lines contain five syllables each, while the middle line has seven syllables. This form of poetry is known for its concise and evocative nature, often capturing a moment or a feeling through simple yet powerful language.
+
+### References
+
+- [1] Haiku
+- [2] Japanese Poetry
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#25
+Q: Which creature is best qualified to serve as a model for the mythical unicorn, having its the main distinguishing characteristic?
+Gold: Rhinoceros
+Answer: The creature that best qualifies as a model for the mythical unicorn, particularly considering its most distinguishing characteristic, is the horse. In medieval times, the unicorn was often represented as a kind of horse (Knowledge Graph Data: "The unicorn was represented as a kind of horse in medieval times"). This representation highlights the horse as the primary physical basis for the unicorn's form, with the addition of a single horn on its forehead (Knowledge Graph Data: "Unicorns are mythical creatures frequently associated with purity, virginity, chaste love, and faithful marriage. They are known for their gentle nature and love for maidens, and are often depicted in art and literature, symbolizing purity, fertility, and sometimes the Incarnation").
+
+### References
+
+- [1] Unicorn
+- [2] Horse
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#26
+Q: Who was the lead singer with the group Amen Corner?
+Gold: Andy Fairweather Low
+Answer: The lead vocalist for the band Amen Corner was Andy Fairweather-Low. He was a key member of the band, contributing significantly to their musical output.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#27
+Q: What position/title comes between apprentice and master craftsman/master tradesman?
+Gold: Journeyman
+Answer: In the traditional apprenticeship system, the position that comes between apprentice and master craftsman/master tradesman is that of a journeyman. A journeyman is a skilled worker who has completed their official apprenticeship and is competent in a building trade or craft. They are qualified to perform all tasks of their trade and can work unsupervised, though they are not yet a master craftsman. The journeyman stage often involves traveling for journeyman years, further developing their skills before they can become a master craftsman.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#28
+Q: By what common name is Hydrated Magnesium Sulphate better known
+Gold: Epsom salts
+Answer: Hydrated Magnesium Sulphate, more commonly known as Epsom salt, is a mineral preparation of magnesium sulfate derived from a spring in Epsom, Surrey, England. Epsom salt is widely used in various applications such as bath salts, for isolation tanks, and in first aid for barium chloride poisoning.
+
+### References
+
+- [1] Epsom Salt
+- [2] Magnesium Sulfate
+- [3] Epsomite
+- [4] MgSO4·7H2O
+- [5] Magnesium Sulfate Heptahydrate
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#29
+Q: Who won the Women’s Singles at the 2015 Australian Open Tennis Championships?
+Gold: Serena Williams
+Answer: Serena Williams won the Women’s Singles title at the 2015 Australian Open Tennis Championships. The tournament, which is part of the Grand Slam series and held at Melbourne Park, featured best-of-three set matches for women's singles (Knowledge Graph Data).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#30
+Q: On a standard typewriter keyboard, over which number on the top row, is a circumflex positioned?
+Gold: 6
+Answer: The standard typewriter keyboard layout, such as the QWERTY layout, does not typically include a circumflex directly positioned over any number on the top row. The circumflex (ˆ) is usually found on the keyboard as a diacritical mark that can be accessed through a combination of keys, often by holding down the Shift key and pressing the key with the circumflex symbol on it.
+
+### References
+
+- [1] Typewriter, A typewriter is a mechanical or electromechanical device used for writing characters by striking a ribbon to transfer ink onto paper, typically printing one character per keypress. It is a writing machine that was developed to mechanize the writing process and was first commercially sold in 1870. The typewriter is characterized by its two keyboards and the use of shift keys for various functions, and it can be fitted with different ribbons. This machine is used for typing documents and printing text, with the capability of automatically backspacing and overstriking with minimal paper damage. The concept of the typewriter evolved over time with contributions from multiple inventors, leading to the development of both mechanical and electronic devices for text composition and printing.
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#31
+Q: Which famous Netherlands writer and philosopher came to lecture at Oxford in 1498?
+Gold: ERASMUS
+Answer: The provided context does not contain any information about a famous Netherlands writer and philosopher who lectured at Oxford in 1498. The context mentions Christopher Columbus sailing near the Orinoco Delta in 1498 but does not provide details about a writer or philosopher from the Netherlands lecturing at Oxford during that time.
+
+Given the information available, I cannot answer the question accurately. If you have additional context or information that could help, please provide it.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#32
+Q: In which US state will you find 'The Everglades'?
+Gold: Florida
+Answer: The Everglades is located in Florida. This vast wetland ecosystem covers approximately 4,000 square miles in South Florida and is part of the larger drainage basin, forming part of the neotropic ecozone.
+
+### References
+
+- [1] Everglades
+- [2] Florida
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#33
+Q: Which European Country's flag is an upside-down version of Monaco's flag?
+Gold: Poland
+Answer: Monaco's flag has a red stripe above the white one. The Polish flag, on the other hand, has a white stripe above the red one, which is essentially an upside-down version of Monaco's flag.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#34
+Q: In which sport is Tracey Neville the coach of the England team?
+Gold: NETBALL
+Answer: Tracey Neville has been appointed as the interim coach of the England netball team. She has made significant contributions to netball, both as a player and in coaching roles.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#35
+Q: The ‘Osborne Bull’ is the unofficial national symbol of which European country?
+Gold: Spain
+Answer: The 'Osborne Bull' is not an official national symbol of any European country. However, it is a significant symbol used in advertising and has cultural relevance in Spain. Specifically, the Osborne bull is included in the design of the Flag of Spain with Osborne's bull, making it a part of the national flag's symbolism. The flag represents the Republic of Spain, and thus, the Osborne bull is a symbol that is recognized and used within the context of Spanish culture and advertising.
+
+### References
+
+- [1] Flag of Spain with Osborne's bull
+- [2] Flag
+- [3] Europe
+- [4] Osborne
+- [5] Flag of Spain with Osborne's bull
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#36
+Q: Who won the Booker Prize twice for his novels 'Oscar and Lucinda' and 'True History of the Kelly Gang'?
+Gold: Peter Carey
+Answer: Peter Carey won the Booker Prize twice. He received the award for his novel "Oscar and Lucinda," which was published in 1988 and won the 1988 Booker Prize, and for "True History of the Kelly Gang," which was published in 2000 and won the 2001 Booker Prize.
+
+### References
+
+- [1] Oscar and Lucinda
+- [2] True History of the Kelly Gang
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#37
+Q: Which car manufacturer make the Megane
+Gold: Renault
+Answer: The Megane is a car model produced by Renault. It was a showcase for innovative technologies launched by Renault and part of their range of models including hatchbacks, saloons, and estates.
+
+### References
+
+- [1] Mégane
+- [2] Car Makes
+- [3] Automotive Industry
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#38
+Q: Which 1993 film is based on the story of the Guildford Four, wrongly accused of a 1974 pub bombing?
+Gold: In The Name Of The Father
+Answer: The 1993 film "In the Name of the Father" is based on the story of the Guildford Four, who were wrongly accused and convicted of a 1974 pub bombing carried out by the Provisional Irish Republican Army (IRA).
+
+### References
+
+- [1] In the Name of the Father
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#39
+Q: In the NATO phonetic alphabet which month is mentioned?
+Gold: November
+Answer: In the NATO phonetic alphabet, November is mentioned and is assigned to the letter N. This assignment is part of the codewords used for clear communication in radio transmissions.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#40
+Q: In which novel is 'Nick Carroway' the narrator?
+Gold: 'THE GREAT GATSBY'
+Answer: Nick Carraway is the narrator in *The Great Gatsby*, a novel by F. Scott Fitzgerald. Set in the summer of 1922 in the fictional town of West Egg, New York, the story is told through Nick's first-person perspective, providing insights into the characters and the social dynamics of the time. Nick's background as a Midwesterner and his experiences during World War I contribute to his unique viewpoint on the events he narrates.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#41
+Q: Which animal is the offspring of a male Ass and a mare?
+Gold: MULE
+Answer: The offspring of a male Ass (donkey) and a mare (a female horse) is a mule. Mules are known for being strong and durable, often valued as working and riding animals.
+
+### References
+
+- [1] Ensminger is the author who provides definitions and information about horse terminology, including the definition of mules as the offspring of a donkey and a mare.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#42
+Q: Habib Bourguiba became the first President of which North African country in 1957?
+Gold: Tunisia
+Answer: Habib Bourguiba became the first President of Tunisia in 1957, when the Tunisian Republic was proclaimed. This event marked the end of the monarchy and the beginning of a new era under Bourguiba's leadership. The Republic was officially established on July 25, 1957, as Bourguiba proclaimed it, leading Tunisia towards independence and modernization (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#43
+Q: "What product is ""Dolphin Safe"" in the U.S. but not necessarily in other countries?"
+Gold: Tunafish
+Answer: The term "Dolphin Safe" is a label used for tuna products in the U.S. to indicate that no dolphins were killed or seriously injured in the net set. However, the standards for what constitutes "Dolphin Safe" can vary between countries. For instance, the U.S. has stringent standards for the Dolphin Safe label, which are enforced by organizations like Earth Island Institute. These standards are part of the U.S. Marine Mammal Protection Act and are designed to minimize dolphin fatalities during tuna fishing. 
+
+However, other countries may have different or less stringent standards. The Inter-American Tropical Tuna Commission, for example, promotes an alternative Dolphin Safe label with weaker standards than the U.S. standards. This means that while a tuna product might be labeled as "Dolphin Safe" in the U.S., it might not meet the same stringent criteria in other countries.
+
+### References
+
+- [1] Dolphin-safe label
+- [2] Inter-American Tropical Tuna Commission
+- [3] U.S. Marine Mammal Protection Act
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#44
+Q: Which British golf course is known as ‘The Home of Golf’?
+Gold: St Andrews
+Answer: The British golf course known as "The Home of Golf" is located in St Andrews, Scotland. This historic municipal golf course, often referred to simply as the "Old Course," is considered a site of pilgrimage for many golfers and is recognized as the "Home of Golf" due to its rich history and cultural significance.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#45
+Q: Who hid in the Boscobel Oak?
+Gold: Charles II
+Answer: The King, specifically King Charles II, hid in the oak tree at Boscobel to avoid being captured after the English Civil War. He spent the day hiding in the oak tree at Boscobel and later in a Priest hole there, as Richard Penderel led him from White Ladies to an attempt to cross the Severn. This event is a significant part of British history, marking a crucial moment in the Restoration of the monarchy.
+
+### References
+
+- [1] Boscobel
+- [2] Boscobel House
+- [3] Boscobel Wood
+- [4] Boscobel, White Ladies, and Moseley Old Hall
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#46
+Q: Aspartame is a chemical used as what?
+Gold: Sweetener
+Answer: Aspartame is used as an artificial sweetener in various food and beverage products. It is added to foods to provide a sweet taste without the calories typically associated with sugar. Aspartame is commonly found in diet sodas, artificially sweetened beverages, pharmaceutical preparations, and other products where a low-calorie sweetener is desired.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#47
+Q: Who played the original landlord of the 'Rovers Return' in 'Coronation Street'?
+Gold: ARTHUR LESLIE
+Answer: The original landlord of the 'Rovers Return' in 'Coronation Street' was Jack and Annie Walker. The pub has been owned and operated by various characters over the years, including Jack and Annie Walker, Annie, and Billy Walker. However, the specific actor who played Jack Walker is not mentioned in the provided context. The context does not include information about the original actor who played the role of the landlord. Therefore, while we know the Walker family owned the Rovers Return, the exact actor is not detailed in the given information. 
+
+### References
+
+- [1] Coronation Street
+- [2] The Rovers Return
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#48
+Q: "Who directed the films 'Picnic at Hanging Rock"" and ""Master and Commander: The Far Side of the World'?"
+Gold: PETER WEIR
+Answer: The films "Picnic at Hanging Rock" and "Master and Commander: The Far Side of the World" were both directed by Peter Weir.
+
+- [1] Master and Commander: The Far Side of the World
+- [2] Picnic at Hanging Rock
+
+### References
+
+- [1] Master and Commander: The Far Side of the World
+- [2] Picnic at Hanging Rock
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#49
+Q: The emmet is an archaic name for which insect?
+Gold: Ant
+Answer: The term "emmet" is an archaic name for the ant. Ants are social insects known for their complex colonies and roles in pollination and seed distribution. They are beneficial insects that contribute to various ecological processes.
+
+### References
+
+- [1] Ants
+- [2] Ants
+- [3] Ants
+- [4] Ants
+- [5] Ants
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#50
+Q: At which English castle in Northamptonshire was King Richard III born?
+Gold: Fotheringhay Castle
+Answer: King Richard III was born at Fotheringhay Castle, which is located in Northamptonshire, England.
+
+### References
+
+- [1] Fotheringhay Castle
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#51
+Q: "Which Irish dramatist wrote ""The Rivals"" and ""The School for Scandal""?"
+Gold: Richard Brinsley Butler Sheridan
+Answer: Richard Brinsley Sheridan is the Irish dramatist who wrote both "The Rivals" and "The School for Scandal". "The Rivals" is a comedy of manners first performed at Covent Garden Theatre in 1775, while "The School for Scandal" is a play written by Sheridan and first performed in London at Drury Lane Theatre on 8 May 1777. Sheridan was a prolific Irish playwright, actor, and philanthropist who lived from 1751 to 1816.
+
+### References
+
+- [1] Richard Brinsley Sheridan
+- [2] The School for Scandal
+- [3] The Rivals
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#52
+Q: Who was the last British monarch of the House of Hanover
+Gold: Queen Victoria
+Answer: The last British monarch of the House of Hanover was Queen Victoria. She succeeded William IV and became the queen during the Victorian era, a period marked by significant cultural, political, and social changes.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#53
+Q: In which 1932 film does Greta Garbo say the line ‘I want to be alone’?
+Gold: Grand Hotel
+Answer: Greta Garbo famously said the line "I want to be alone" in the 1932 film "Grand Hotel," which significantly contributed to her continued success in the film industry. This line is often cited as one of the most memorable movie quotes, and Garbo's performance in the film is highly regarded for its subtlety and naturalism.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#54
+Q: The city of Lincoln stands on the banks of which river?
+Gold: WITHAM
+Answer: The city of Lincoln stands on the banks of the River Witham. This river flows through the city, dividing it into topographical zones such as Uphill and Downhill (Downhill being the area near the River Witham).
+
+### References
+
+- [1] River Witham
+- [2] Lincoln
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#55
+Q: Where is a fore-topgallant found?
+Gold: On a ship
+Answer: A fore-topgallant is a type of sail found on the foremast of a fully rigged ship. Specifically, it is a sail mounted above other sails on the foremast, contributing to the ship's overall sail plan and performance.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#56
+Q: On which major river does Bamako, the capital of Mali stand?
+Gold: NIGER
+Answer: Bamako, the capital of Mali, stands on the Niger River. The city is situated on the Niger River floodplain and is located on both sides of the river. The Niger River plays a significant role in the city's geography and infrastructure, providing water for various purposes including a pumping station in Bamako and Kati. It also connects Bamako to other major urban areas. 
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#57
+Q: Which novel did Charles Dickens leave unfinished upon his death in 1870?
+Gold: 'THE MYSTERY OF EDWIN DROOD'
+Answer: Charles Dickens was working on the novel "Edwin Drood" when he died in 1870. This work remained unfinished and has since become one of the most famous unsolved mysteries in the history of literature.
+
+### References
+
+- [1] Edwin Drood is a work Dickens was working on before his death.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#58
+Q: "Who composed a set of 30 variations for the harpsichord which he named the ""Goldberg Variations""?"
+Gold: J.S. BACH
+Answer: The set of 30 variations for the harpsichord known as the "Goldberg Variations" was composed by Johann Sebastian Bach.
+
+### References
+
+- [1] Johann Sebastian Bach
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 58
+Processed successfully: 58
+Skipped: 0
+Failed: 0
+Average correctness: 4.0862
+Pass@4.0: 42/58 = 0.7241

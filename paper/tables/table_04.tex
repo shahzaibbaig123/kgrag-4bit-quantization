@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Judge correctness by node-exclusivity group}
+\label{tab:nodeexcl}
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Group} & $n$ & \textbf{F16} & \textbf{Q4} & \textbf{$\Delta$} & \textbf{$d_z$} & \textbf{$p$} \\
+\midrule
+Shared only \emph{(control)} & 20{,}067 & 4.309 & 4.279 & +0.029 & +0.022 & 0.002 \\
+\rowcolor{gray!10}One from each arm & 1{,}756 & 4.343 & 4.356 & -0.013 & -0.010 & 0.643 \\
+F16-only entity & 6{,}226 & 4.301 & 4.184 & +0.117 & +0.084 & 2.6e-11 \\
+\rowcolor{gray!10}Q4-only entity & 4{,}562 & 4.209 & 4.320 & -0.111 & -0.079 & 7.3e-08 \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.485\textwidth}{\vspace{0.1cm}Questions pooled over sizes 200--3000 and five seeds, grouped by whose exclusive entities they touch. Each arm answers questions about \emph{its own} exclusive entities better, by almost exactly the same margin in both directions, while the control group is flat. Exclusive entities therefore carry real information, but quantization \emph{exchanges} them rather than deleting them.}
+\end{table}

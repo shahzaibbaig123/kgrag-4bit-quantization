@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Index-build cost per seed (GPU hours, one A40)}
+\label{tab:cost}
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Size} & \textbf{F16 (seeds)} & \textbf{Q4\_K\_M (seeds)} & \textbf{Speed-up} \\
+\midrule
+200 & 1.97 (5) & 0.84 (5) & 2.34$\times$ \\
+\rowcolor{gray!10}500 & 4.91 (5) & 2.22 (5) & 2.21$\times$ \\
+1000 & 6.08 (5) & 4.89 (5) & 1.24$\times$ \\
+\rowcolor{gray!10}2000 & 11.69 (5) & 10.27 (5) & 1.14$\times$ \\
+3000 & \emph{n/a} & 16.20 (4) & -- \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.485\textwidth}{\vspace{0.1cm}Mean wall-clock hours over the completed builds at each size, with the number of completed seeds in parentheses. \textbf{No F16 build at size 3000 completed within the 24\,h scheduler limit}, so no speed-up can be reported there. The advantage shrinks monotonically with corpus size, from $2.3\times$ to $1.1\times$: at small corpora the run is dominated by generator decoding, which Q4\_K\_M accelerates, whereas at large corpora an increasing share goes to embedding, graph merging, and I/O, which are identical in both arms. Weight memory is 15.24\,GB (F16) against 4.68\,GB (Q4\_K\_M).}
+\end{table}

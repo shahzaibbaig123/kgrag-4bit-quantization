@@ -1,0 +1,309 @@
+Evaluation: Frozen TriviaQA size=50 (qwenf16)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b
+
+#1
+Q: Beatrix became queen of which European nation in 1980?
+Gold: The Netherlands
+Answer: I do not have information about Beatrix becoming queen of any European nation in 1980 in the provided context. The context does not contain any details about Beatrix or her reign as a queen. Could you provide more details or context related to Beatrix and her reign? If you have any additional information, please share it so I can assist you better.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#2
+Q: What did the Winklevoss twins try to take credit for creating?
+Gold: Facebook
+Answer: The Winklevoss twins, Cameron and Tyler, tried to take credit for creating a social networking site similar to Facebook. Specifically, they co-founded HarvardConnection, which was later renamed ConnectU. In 2004, the Winklevoss brothers sued Mark Zuckerberg, claiming that he stole their idea to create Facebook. This lawsuit ultimately led to a settlement where the Winklevoss twins received $65 million.
+
+### References
+
+- [1] Winklevoss twins
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#3
+Q: Poet W H Auden died in which European city in 1973?
+Gold: Vienna
+Answer: Poet W. H. Auden died in Vienna in 1973. According to the information provided, "Auden died in Vienna and was buried in Kirchstetten." This fact directly answers the query about the city where W. H. Auden passed away in 1973.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: Who claimed to be a direct descendant of King Solomon and the Queen of Sheba, and worked to achieve the independence of Abyssinia?
+Gold: Menelek II
+Answer: Haile Selassie I claimed to be a direct descendant of King Solomon and the Queen of Sheba according to Ethiopian tradition. He worked to achieve the independence of Abyssinia, which is another name for Ethiopia, from Italian occupation during the Italian invasion and the Second Italo–Abyssinian War.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#5
+Q: What 2013 film is the highest-grossing animated movie of all-time?
+Gold: Frozen
+Answer: The highest-grossing animated movie of all-time, as of 2013, is "Frozen". This film grossed over $1.2 billion and is currently the highest-grossing animated film worldwide.
+
+### References
+
+- [1] 2013 in film
+- [2] 2013 in film
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#6
+Q: What is the largest country by land area in Central America?
+Gold: Nicaragua
+Answer: The largest country by land area in Central America is Nicaragua. It covers an area of approximately 130,373 square kilometers (50,338 square miles). Other countries in Central America include Costa Rica, El Salvador, Guatemala, Honduras, and Belize, with Belize being the smallest country in the region. Nicaragua's size and land area make it stand out among the Central American countries. 
+
+### References
+
+- [1] Central America
+- [2] Central America geography
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#7
+Q: What is missing in the sequence: French Guiana, the Republic of Suriname, and the Bolivarian Republic of Venezuela?
+Gold: The Co-operative Republic of Guyana
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#8
+Q: What is the famous weaponry invention of Israeli army officer Uziel Gal (1923-2002)?
+Gold: Uzi submachine gun
+Answer: Uziel Gal, an Israeli gun designer, is best known for his invention of the Uzi submachine gun. Gal designed the Uzi shortly after the founding of Israel and the 1948 Arab-Israeli War. It was officially adopted by the Israel Defense Forces (IDF) in 1951 and named after its creator, Uziel Gal himself. Despite Gal's initial request not to have the weapon named after him, his design became a significant part of the IDF's arsenal.
+
+### References
+
+- [1] Uziel Gal
+- [2] Israel
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#9
+Q: Name the famous naval base and natural port on Oahu island, Hawaii, which featured in the US entry to World War II?
+Gold: Pearl Harbor
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#10
+Q: Which English town or city lies on the rivers, Eden, Caldew, and Petteril?
+Gold: CARLISLE
+Answer: The English city of Carlisle lies on the rivers Eden, Caldew, and Petteril. Specifically, the River Eden flows towards Carlisle, the River Caldew flows through Carlisle, and the River Petteril runs through Carlisle as well.
+
+### References
+
+- [1] River Caldew
+- [2] Carlisle
+- [3] River Petteril
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#11
+Q: In which city is the novel and film 'Saturday Night and Sunday Morning' set?
+Gold: NOTTINGHAM
+Answer: The novel and film 'Saturday Night and Sunday Morning' are set in the city of Sheffield, England. The story deals with the working-class life of a young man, Arthur Seaton, and his experiences in the city during the 1950s. This work is part of the British New Wave, which focuses on the serious portrayal of working-class life and the realistic side of sex and abortion (Reference [1]).
+
+### References
+
+- [1] A Taste of Honey
+- [2] This Sporting Life
+- [3] A Kind of Loving
+- [4] British New Wave
+- [5] film movement
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#12
+Q: In which TV series might Lieutenant Green say Spectrum is green?
+Gold: Captain Scarlet
+Answer: In the 2000s computer-animated remake of the series, Lieutenant Green might say that Spectrum is green. This is because in the remake, Lieutenant Green is reimagined as an African-American woman, and she is known to be an expert in computer programming and electronics. The original series had Lieutenant Green, a native of Trinidad and Tobago, making comments about the color green, which Cy Grant suggested could symbolize nature and the healing of the rift between good and evil. In the remake, Lieutenant Green's character retains this association with green, possibly referring to Spectrum as green due to its role in maintaining balance and order, similar to the dualistic nature discussed by Cy Grant.
+
+### References
+
+- [1] Lieutenant Green
+- [2] Green
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#13
+Q: Which King was born at Dunfermline Palace in November 1600?
+Gold: Charles I
+Answer: King Charles II was born at Dunfermline Palace in November 1600. He was the second son of King James VI of Scotland and Anne of Denmark, and remained at the palace due to his health issues until he was old enough to travel to England with his family in 1604.
+
+### References
+
+- [1] Dunfermline Palace
+- [2] Early life
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#14
+Q: STS-135, the last planned mission for NASA's space shuttle fleet, launched which shuttle on a 13 day trip to international space station?
+Gold: Atlantis
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#15
+Q: What mathematical instrument was invented by William Oughtred in 1622?
+Gold: Slide Rule
+Answer: William Oughtred invented the slide rule in the 1620s. This mathematical tool simplifies the use of logarithmic scales, originally developed by Edmund Gunter. Oughtred's invention aimed to make mathematical calculations more accessible and efficient.
+
+### References
+
+- [1] Slide Rule
+- [2] Oughtred
+- [3] circular slide rule
+- [4] slide rule
+- [5] Oughtred
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#16
+Q: What is either a type of tree or an expensive ski resort in Colorado?
+Gold: Aspen
+Answer: The term "10500 ft" in the context likely refers to the elevation at which the tree line is found in northern Colorado, rather than a type of tree or an expensive ski resort. However, there are notable ski resorts in Colorado, such as Glenwood, which is known for its resort hot springs and is located in the Colorado Rocky Mountains. 
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#17
+Q: "Who played headmistress Miss Fritton and her brother in the 2007 film 'St. Trinians""?"
+Gold: Rupert Everett
+Answer: Miss Millicent Fritton, the headmistress of St Trinian's in the first two films, was played by Dora Bryan in the 2007 film "St Trinians." However, there is no mention of her brother in the cast of this film.
+
+### References
+
+- [1] St Trinian's 2: The Legend of Fritton's Gold
+- [2] St Trinian's (2007 film)
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#18
+Q: In which US state was the Harley-Davidson motorcycle company founded
+Gold: Wisconsin
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#19
+Q: Who is currently the Prime Minister of Eire?
+Gold: BRIAN COWEN
+Answer: The current Taoiseach (Prime Minister) of Ireland is Enda Kenny, who was appointed on 9 March 2011 and is the 13th Taoiseach. The term "Taoiseach" and "Prime Minister" are often used interchangeably in the context of Ireland, with the Taoiseach serving as the head of government. Therefore, Enda Kenny is the current Prime Minister of Ireland. 
+
+### References
+
+- [1] Document Title One
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#20
+Q: Which singer/songwriter wrote the musical ‘9 to 5’?
+Gold: Dolly Parton
+Answer: The musical "9 to 5" was written by Patricia Resnick, with the title song "9 to 5" being performed by Dolly Parton. Dolly Parton wrote the hit song "9 to 5" for the musical of the same name.
+
+### References
+
+- [1] De 9 à 5
+- [2] 9 to 5 (song)
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#21
+Q: Nephrology is the study of which organs?
+Gold: Kidneys
+Answer: Nephrology is the medical specialty concerned with the study, diagnosis, treatment, and prevention of kidney diseases. The kidneys are the primary organs studied in nephrology. The kidneys are part of the excretory system, which includes other organs such as the ureters, bladder, and urethra. These organs work together to filter blood, produce urine, and maintain fluid and electrolyte balance in the body.
+
+### References
+
+- [1] Nephrology is the branch of medicine dealing with the study, diagnosis, treatment, and prevention of kidney diseases.
+- [2] The Excretory System includes the kidneys as a component.
+- [3] Kidney is an organ in the body responsible for filtering blood and producing urine.
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#22
+Q: Which chemical element, not found as a free element on Earth, has the atomic number 9 and the symbol F?
+Gold: Fluorine
+Answer: The chemical element with the atomic number 9 and the symbol F is Fluorine. Fluorine is a halogen known for its high electronegativity and reactivity. It is not found as a free element on Earth but is present in various compounds and minerals.
+
+### References
+
+- [1] Fluorine
+- [2] Fluorine Atoms
+- [3] Elements
+- [4] Fluorine Isomer
+- [5] Fluorine Condensation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: REM is a term sometimes applied to what?
+Gold: A stage of sleep
+Answer: REM is often applied to REM sleep, which is one of the two distinct modes of mammalian sleep. REM sleep is characterized by rapid eye movements, increased brain activity, and muscle inhibition. This stage of sleep is also associated with vivid dreams and dreaming. During REM sleep, the body experiences a temporary state where most muscles are paralyzed, and heart rate, breathing, and body temperature become unregulated. This stage is particularly important for brain development and is linked to benefits for procedural memory, as studies have shown a 25.47% increase in REM sleep after learning trials compared to control trials.
+
+### References
+
+- [1] REM Sleep
+- [2] Hobson & McCarley Activation-Synthesis Hypothesis
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: What is the name of the Japanese verse form of 17 syllables arranged in 3 lines?
+Gold: Haiku
+Answer: The Japanese verse form you are referring to is called Haiku. Haiku is traditionally structured in a 5-7-5 syllable pattern, consisting of three lines. The first and third lines contain five syllables each, while the middle line has seven syllables. This form of poetry is known for its concise and evocative nature, often capturing a moment or a feeling through simple yet powerful language.
+
+### References
+
+- [1] Haiku
+- [2] Japanese Poetry
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#25
+Q: Which creature is best qualified to serve as a model for the mythical unicorn, having its the main distinguishing characteristic?
+Gold: Rhinoceros
+Answer: The creature that best qualifies as a model for the mythical unicorn, particularly considering its most distinguishing characteristic, is the horse. In medieval times, the unicorn was often represented as a kind of horse (Knowledge Graph Data: "The unicorn was represented as a kind of horse in medieval times"). This representation highlights the horse as the primary physical basis for the unicorn's form, with the addition of a single horn on its forehead (Knowledge Graph Data: "Unicorns are mythical creatures frequently associated with purity, virginity, chaste love, and faithful marriage. They are known for their gentle nature and love for maidens, and are often depicted in art and literature, symbolizing purity, fertility, and sometimes the Incarnation").
+
+### References
+
+- [1] Unicorn
+- [2] Horse
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#26
+Q: Who was the lead singer with the group Amen Corner?
+Gold: Andy Fairweather Low
+Answer: The lead vocalist for the band Amen Corner was Andy Fairweather-Low. He was a key member of the band, contributing significantly to their musical output.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#27
+Q: What position/title comes between apprentice and master craftsman/master tradesman?
+Gold: Journeyman
+Answer: In the traditional apprenticeship system, the position that comes between apprentice and master craftsman/master tradesman is that of a journeyman. A journeyman is a skilled worker who has completed their official apprenticeship and is competent in a building trade or craft. They are qualified to perform all tasks of their trade and can work unsupervised, though they are not yet a master craftsman. The journeyman stage often involves traveling for journeyman years, further developing their skills before they can become a master craftsman.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#28
+Q: By what common name is Hydrated Magnesium Sulphate better known
+Gold: Epsom salts
+Answer: Hydrated Magnesium Sulphate, more commonly known as Epsom salt, is a mineral preparation of magnesium sulfate derived from a spring in Epsom, Surrey, England. Epsom salt is widely used in various applications such as bath salts, for isolation tanks, and in first aid for barium chloride poisoning.
+
+### References
+
+- [1] Epsom Salt
+- [2] Magnesium Sulfate
+- [3] Epsomite
+- [4] MgSO4·7H2O
+- [5] Magnesium Sulfate Heptahydrate
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 28
+Processed successfully: 28
+Skipped: 0
+Failed: 0
+Average correctness: 3.1786
+Pass@4.0: 14/28 = 0.5000

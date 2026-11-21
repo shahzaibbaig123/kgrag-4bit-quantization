@@ -1,0 +1,7 @@
+=== TriviaQA LEXICAL METRICS: model=qwenQ4 ===
+Sizes present: 4/4
+
+size 25 (n=14): cover_em=0.7857  token_recall=0.8333
+size 50 (n=28): cover_em=0.8214  token_recall=0.8631
+size 75 (n=42): cover_em=0.7857  token_recall=0.8373
+size 100 (n=58): cover_em=0.7586  token_recall=0.8254

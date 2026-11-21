@@ -1,0 +1,74 @@
+\begin{figure*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[>=Latex, font=\footnotesize,
+  b/.style={draw, rounded corners, align=center, minimum height=0.62cm, inner sep=3pt, fill=blue!6},
+  llm/.style={draw, rounded corners, align=center, minimum height=0.62cm, inner sep=3pt, fill=red!14, very thick},
+  store/.style={draw, rounded corners, align=center, minimum height=0.62cm, inner sep=3pt, fill=green!10},
+  lab/.style={font=\footnotesize\bfseries}]
+
+  % ---------------- (a) LightRAG: the generator is used twice ----------------
+  \node[lab] (ix) {Indexing};
+  \node[b,   right=0.35cm of ix]  (doc) {corpus};
+  \node[b,   right=0.35cm of doc] (ch)  {chunks};
+  \node[llm, right=0.35cm of ch]  (ext) {\textbf{generator}\\extract entities\\\& relations};
+  \node[store, right=0.35cm of ext] (g) {graph $+$\\vectors $+$ KV};
+  \draw[->] (doc)--(ch); \draw[->] (ch)--(ext); \draw[->] (ext)--(g);
+
+  \node[lab, below=1.35cm of ix] (qy) {Querying};
+  \node[b,   right=0.35cm of qy]  (qn)  {question};
+  \node[llm, right=0.35cm of qn]  (kw)  {\textbf{generator}\\dual-level\\keywords};
+  \node[b,   right=0.35cm of kw]  (rt)  {retrieve\\(hybrid, $k{=}5$)};
+  \node[b,   right=0.35cm of rt]  (ctx) {context};
+  \node[llm, right=0.35cm of ctx] (ans) {\textbf{generator}\\answer};
+  \draw[->] (qn)--(kw); \draw[->] (kw)--(rt); \draw[->] (rt)--(ctx); \draw[->] (ctx)--(ans);
+  \draw[->, dashed] (g) -- node[midway, right, font=\scriptsize] {same index} (rt);
+
+  \node[anchor=north west, lab] at ([yshift=-0.35cm]qy.south west) {(a)};
+
+  % ---------------- (b) the paired experimental design ----------------
+  % two arms on exactly parallel rails; the single varied factor sits between
+  % them, the controls sit under both.
+  % panel (a) ends at x approx 10.7; keep a real gutter between the two panels
+  \draw[gray!45, line width=0.4pt] (10.9,1.05) -- (10.9,-3.3);
+
+  \begin{scope}[xshift=12.1cm, yshift=-0.45cm]
+    \node[b, fill=gray!12, text width=1.6cm] (sq) at (0,0)
+      {frozen corpus\\[1pt]\scriptsize 5 sizes $\times$ 5 seeds};
+
+    \node[b, fill=blue!14,   text width=1.5cm] (bf) at (2.95, 1.05) {build \fsixteen};
+    \node[b, fill=orange!20, text width=1.5cm] (bq) at (2.95,-1.05) {build \qfour};
+    \node[b, fill=blue!14,   text width=1.2cm] (kf) at (5.05, 1.05) {KG$_{\mathrm{F16}}$};
+    \node[b, fill=orange!20, text width=1.2cm] (kq) at (5.05,-1.05) {KG$_{\mathrm{Q4}}$};
+    % tall enough that both arms enter its west face well inside the corners
+    \node[store, text width=1.45cm, minimum height=2.6cm] (ev) at (7.5,0)
+      {\textbf{paired}\\\textbf{evaluation}};
+
+    % identical documents fan out to both arms
+    \coordinate (fan) at (1.5,0);
+    \draw[-]  (sq.east) -- (fan);
+    \draw[->] (fan) |- (bf.west);
+    \draw[->] (fan) |- (bq.west);
+    \draw[->] (bf) -- (kf);
+    \draw[->] (bq) -- (kq);
+    % each arm enters the comparison on its own rail -- no corner routing
+    \draw[->] (kf.east) -- (kf.east -| ev.west);
+    \draw[->] (kq.east) -- (kq.east -| ev.west);
+
+    % the one thing that differs
+    \draw[<->, thick, red!70!black] (bf.south) --
+      node[midway, fill=white, inner sep=2pt, align=center,
+           font=\scriptsize\bfseries, text=red!70!black]
+      {weight\\precision} (bq.north);
+
+    % everything that does not
+    \node[draw, dashed, rounded corners, fill=gray!6, align=center,
+          font=\scriptsize, inner sep=4pt, text width=8.3cm] (hf) at (3.9,-2.35)
+      {\textbf{held fixed in both arms:} documents $\cdot$ chunking $\cdot$ embedder $\cdot$ retrieval mode $\cdot$ decoding $\cdot$ judge};
+
+    \node[anchor=north west, lab] at ([yshift=-0.18cm]hf.south west) {(b)};
+  \end{scope}
+\end{tikzpicture}}
+\caption{Why quantizing a KG-RAG generator is not the same as quantizing a chat model. \textbf{(a)} LightRAG invokes the \emph{same} generator (shaded) at three points across two phases: it \emph{writes} the index by extracting entities and relations, then \emph{reads} it by extracting query keywords and synthesizing the answer. Reduced precision therefore has two distinct channels through which it can degrade quality: a damaged graph that handicaps every later query, and worse answers drawn from a good graph. \textbf{(b)} Our design separates the two channels. The two arms run on parallel rails over byte-identical frozen documents, the generator's weight precision is the only factor that differs between them (marked in red), and everything else is held fixed (dashed box), so the two graphs can be compared with each other and their answers compared question by question.}
+\label{fig:pipeline}
+\end{figure*}

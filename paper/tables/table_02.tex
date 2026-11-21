@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\caption{Downstream question answering and retrieval by corpus size}
+\label{tab:qa}
+\footnotesize
+\setlength{\tabcolsep}{6pt}
+\begin{tabular}{llccccccc}
+\toprule
+\textbf{Size} & \textbf{Arm} & \textbf{Correctness} & \textbf{Pass@4.0} & \textbf{Cover-EM} & \textbf{Token recall} & \textbf{Hit@1} & \textbf{Hit@5} & \textbf{MRR} \\
+\midrule
+200 & F16 & 4.194\,$\pm$\,0.272 & 0.754\,$\pm$\,0.088 & 0.687\,$\pm$\,0.124 & 0.799\,$\pm$\,0.085 & 0.919\,$\pm$\,0.029 & 0.952\,$\pm$\,0.023 & 0.934\,$\pm$\,0.026 \\
+ & Q4\_K\_M & 4.176\,$\pm$\,0.300 & 0.757\,$\pm$\,0.087 & 0.683\,$\pm$\,0.133 & 0.790\,$\pm$\,0.093 & 0.940\,$\pm$\,0.016 & 0.973\,$\pm$\,0.010 & 0.955\,$\pm$\,0.013 \\
+\addlinespace[1pt]
+\rowcolor{gray!10}500 & F16 & 4.010\,$\pm$\,0.272 & 0.715\,$\pm$\,0.080 & 0.659\,$\pm$\,0.129 & 0.767\,$\pm$\,0.086 & 0.898\,$\pm$\,0.005 & 0.954\,$\pm$\,0.004 & 0.922\,$\pm$\,0.004 \\
+\rowcolor{gray!10} & Q4\_K\_M & 4.017\,$\pm$\,0.254 & 0.716\,$\pm$\,0.073 & 0.658\,$\pm$\,0.111 & 0.764\,$\pm$\,0.077 & 0.894\,$\pm$\,0.006 & 0.951\,$\pm$\,0.004 & 0.919\,$\pm$\,0.006 \\
+\addlinespace[1pt]
+1000 & F16 & 4.410\,$\pm$\,0.030 & 0.831\,$\pm$\,0.005 & 0.867\,$\pm$\,0.006 & 0.903\,$\pm$\,0.006 & 0.858\,$\pm$\,0.009 & 0.938\,$\pm$\,0.004 & 0.892\,$\pm$\,0.006 \\
+ & Q4\_K\_M & 4.389\,$\pm$\,0.021 & 0.823\,$\pm$\,0.005 & 0.862\,$\pm$\,0.010 & 0.898\,$\pm$\,0.008 & 0.858\,$\pm$\,0.013 & 0.935\,$\pm$\,0.005 & 0.891\,$\pm$\,0.010 \\
+\addlinespace[1pt]
+\rowcolor{gray!10}2000 & F16 & 4.312\,$\pm$\,0.059 & 0.806\,$\pm$\,0.016 & 0.837\,$\pm$\,0.018 & 0.875\,$\pm$\,0.015 & 0.810\,$\pm$\,0.010 & 0.901\,$\pm$\,0.014 & 0.848\,$\pm$\,0.011 \\
+\rowcolor{gray!10} & Q4\_K\_M & 4.271\,$\pm$\,0.017 & 0.794\,$\pm$\,0.004 & 0.821\,$\pm$\,0.006 & 0.865\,$\pm$\,0.007 & 0.809\,$\pm$\,0.006 & 0.899\,$\pm$\,0.002 & 0.848\,$\pm$\,0.005 \\
+\addlinespace[1pt]
+3000 & F16 & 4.249\,$\pm$\,0.030 & 0.788\,$\pm$\,0.006 & 0.816\,$\pm$\,0.009 & 0.861\,$\pm$\,0.007 & 0.782\,$\pm$\,0.008 & 0.884\,$\pm$\,0.006 & 0.825\,$\pm$\,0.007 \\
+ & Q4\_K\_M & 4.226\,$\pm$\,0.021 & 0.782\,$\pm$\,0.006 & 0.803\,$\pm$\,0.005 & 0.852\,$\pm$\,0.004 & 0.781\,$\pm$\,0.005 & 0.883\,$\pm$\,0.005 & 0.824\,$\pm$\,0.005 \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.95\textwidth}{\vspace{0.1cm}Five-seed mean $\pm$ standard deviation; both arms answer the identical questions over identically chunked documents and share one embedding model, so every column is a paired comparison. Correctness is the 1--5 judge score and Pass@4.0 the fraction scoring $\geq 4$. The elevated standard deviations at sizes 200 and 500 are driven by a single seed (v0) that scores far above the others in \emph{both} arms; it is retained unmodified. BERTScore-recall is omitted: it sits at $\sim$0.85 for every size and both arms (s.d.\ $\leq 0.002$) and discriminates nothing.}
+\end{table*}

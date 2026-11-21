@@ -1,0 +1,12 @@
+=== CROSS-SEED SUMMARY: SQuAD size=3000, model=qwenf16 ===
+Mode: hybrid | Top-K: 5 | Pass threshold: 4.0
+Seeds present: 5/5
+
+v0: avg=4.2518  pass@4.0=2362/3000=0.7873  (skipped=0, failed=0)
+v1: avg=4.2570  pass@4.0=2373/3000=0.7910  (skipped=0, failed=0)
+v2: avg=4.2237  pass@4.0=2347/3000=0.7823  (skipped=0, failed=0)
+v3: avg=4.2990  pass@4.0=2396/3000=0.7987  (skipped=0, failed=0)
+v4: avg=4.2134  pass@4.0=2343/2999=0.7813  (skipped=0, failed=1)
+
+Mean avg correctness: 4.2490 (std 0.0299)
+Mean pass@4.0: 0.7881 (std 0.0063)

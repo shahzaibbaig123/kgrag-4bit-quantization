@@ -1,0 +1,2314 @@
+Evaluation: Frozen SQuAD size=200 v1 (qwenQ4)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b-F16_2
+
+#1
+Q: What Negotiates power draw with the host interface?
+Gold: the 5 V power supply
+Answer: In a standard USB network, USB Devices negotiate power draw with the host interface. Specifically, during the initial connection, USB devices connect in a low-power mode (100 mA maximum) and communicate their current requirements to the host. If a device requires more power, it can switch into high-power mode after negotiating with the host. This negotiation process is managed by the USB Specification, which defines the behavior of USB devices, including power draw and communication protocols.
+
+### References
+
+- [1] USB Specification
+- [2] Low-Power Mode
+- [3] High-Power Mode
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#2
+Q: According to Pirie, conservatives dislike change only when its forced upon them by whom?
+Gold: people in authority who think they know how to run things better
+Answer: According to Madsen Pirie, as discussed in his book "Why F A Hayek is a Conservative," conservatives are not averse to change in principle but are wary of change that is imposed by authority. This perspective suggests that conservatives are more likely to accept change if it comes from within their own volition or through natural evolution rather than being forced upon them by external authorities.
+
+### References
+
+- [1] Why F A Hayek is a Conservative
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#3
+Q: What city became the capital of North Carolina in 1766?
+Gold: New Bern
+Answer: In 1766, New Bern was selected as the capital of North Carolina [1].
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: What state were Johnson and Rayburn from?
+Gold: Texas
+Answer: Sam Rayburn was from Texas. However, the information provided does not specify the state of Johnson. Given the context, it is likely that you are referring to Lyndon B. Johnson, who was also a prominent figure from Texas. Both Johnson and Rayburn played significant roles in Texas politics, with Rayburn serving as the Democratic Speaker in the House from Texas.
+
+### References
+
+- [1] Sam Rayburn
+- [2] Democratic Party
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#5
+Q: How much did the Red Cross collect in donations?
+Gold: $26 million
+Answer: The Red Cross Society of China has collected a total of $26 million in donations so far. This amount includes contributions from various sources such as the Chinese public and multinational firms, as well as individual donors like Yao Ming.
+
+### References
+
+- [1] $26 million is the total amount collected by the Red Cross Society of China so far.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#6
+Q: In what year was the musical Broadway produced?
+Gold: 1929
+Answer: The musical "Broadway" was produced by Universal and included Technicolor sequences. However, the specific year of its production is not mentioned in the provided context. Therefore, I do not have enough information to determine the exact year of its production.
+
+### References
+
+- [1] Broadway is a musical that was produced by Universal and included Technicolor sequences.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#7
+Q: What formative period  produced bitumen?
+Gold: early Cretaceous
+Answer: The bitumen found in the Athabasca Oil Sands, which is the world's largest deposit of natural bitumen located in Northern Alberta, is estimated to be about 110 million years old. This age has been determined through isotopic studies, which provide evidence of the geological period during which the oil deposits formed.
+
+### References
+
+- [1] Isotopic studies attribute the oil deposits in the Athabasca Oil Sands to be about 110 million years old.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#8
+Q: Who doesn't benefit from the predator-prey interaction?
+Gold: the individuals preyed upon
+Answer: In the predator-prey interaction, both the predator and the prey are involved in an evolutionary arms race, where each species adapts to counteract the strategies of the other. This dynamic process results in mutual benefits for both parties. The predator benefits by obtaining food, which is essential for its survival and reproduction. Conversely, the prey benefits through the development of adaptations that enhance its chances of survival, such as better camouflage, faster running, or more effective defense mechanisms.
+
+The only entity that does not directly benefit from this interaction is the prey during the predation process. However, it is important to note that the prey benefits indirectly through the evolutionary adaptations that help it avoid predation in the long term.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#9
+Q: What movement has caused non-Pentecostal churches to accept some Pentecostal beliefs?
+Gold: Charismatic
+Answer: The Charismatic Movement has been a significant factor in causing non-Pentecostal churches, including both Protestant and Catholic churches, to accept some Pentecostal beliefs.
+
+Protestant churches have embraced Pentecostal beliefs through the Charismatic Movement, which has led to the incorporation of practices such as speaking in tongues and other spiritual gifts. Similarly, Catholic churches have also adopted Pentecostal beliefs through the Charismatic Movement, integrating these practices into their worship and ministry.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#10
+Q: According to Michelin, about how many fine dining restaurants exist in New York?
+Gold: one thousand
+Answer: According to Michelin, there are several high-end restaurants, known as Haute Cuisine Restaurants, in New York City. However, the exact number of Michelin-rated fine dining restaurants in New York City is not specified in the provided context. These restaurants are a significant part of New York City's diverse food culture, alongside other types of eateries such as Trattorias and Diners.
+
+### References
+
+- [1] Haute Cuisine Restaurants
+- [2] Trattorias
+- [3] Diners
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#11
+Q: What is the name of the joint venture involving the Victoria and Albert Museum and the Royal Institute of British Architects?
+Gold: the V&A + RIBA Architecture Partnership
+Answer: The joint venture involving the Victoria and Albert Museum (V&A) and the Royal Institute of British Architects (RIBA) is known as the V&A + RIBA Architecture Partnership. This collaboration aims to promote the understanding and enjoyment of architecture.
+
+### References
+
+- [1] V&A + RIBA Architecture Partnership
+- [2] Victoria and Albert Museum
+- [3] Royal Institute of British Architects
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#12
+Q: What is the duration of a New York City councilperson's term?
+Gold: four-year
+Answer: The term of a New York City councilperson is four years, with a three-term limit, which can be resumed after a four-year break. This is similar to the term length and limits for the Mayor and other council members.
+
+### References
+
+- [1] City Council
+- [2] Council Members
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#13
+Q: What 1994 film brought Schwarzenegger back together with director James Cameron?
+Gold: True Lies
+Answer: In 1994, James Cameron directed the film "True Lies," which featured Arnold Schwarzenegger in a starring role, bringing him back together with the director.
+
+### References
+
+- [1] True Lies
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#14
+Q: How many broad types of anti-infective drugs exist?
+Gold: Several
+Answer: There are several broad types of anti-infective drugs. Based on the information provided in the context, the main categories include:
+
+- **Antibacterial**: Drugs that target and inhibit the growth of bacteria.
+- **Antifungal**: Medications that inhibit the growth of fungi.
+- **Antiviral**: Medications that inhibit the replication of viruses.
+- **Antiparasitic**: Drugs that target and inhibit the growth of parasites, which includes:
+  - **Antihelminthic**: A sub-type of antiparasitic used to treat helminth infections.
+  - **Antiprotozoal**: Another sub-type of antiparasitic.
+
+Additionally, **antitubercular** drugs, which are a specific type of antibiotic used to treat tuberculosis, are also mentioned. However, they are a sub-type of antibiotics, which falls under the broader category of antibacterial drugs.
+
+In summary, there are four primary broad types of anti-infective drugs: antibacterial, antifungal, antiviral, and antiparasitic.
+
+### References
+
+- [1] Anti-Infective Drugs
+- [2] Antibacterial
+- [3] Antifungal
+- [4] Antiviral
+- [5] Antiparasitic
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#15
+Q: The Achaemenid Empire expanded into what part of Asia?
+Gold: Central Asia
+Answer: The Achaemenid Empire, a vast ancient Persian empire that controlled numerous territories and is considered the first world government, expanded into various parts of Asia. Specifically, it included territories such as Central Asia, Pakistan, Jordan, Iraq, and ancient Egypt, which extended as far west as Libya. Additionally, the empire also encompassed regions like northern Greece and Macedonia, including Paeonia and Ancient Macedon, and even parts of Turkey and Azerbaijan.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#16
+Q: Where was George I's home?
+Gold: Hanover
+Answer: George I's home was in Hanover. He spent much of his time there and showed little interest in English government affairs, residing in Hanover rather than focusing on his role as king of Great Britain.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#17
+Q: What does Muthappan use for his hunting dog for?
+Gold: mount
+Answer: In Hindu mythology, Muthappan, a hunter god from the North Malabar region of Kerala, uses his hunting dog as a mount. This dog plays a significant role in his association with hunting and is found in and around the Muthappan Temple, where it is also honored with bronze dog figurines as offerings.
+
+### References
+
+- [1] Muthappan Temple
+- [2] Hunting Dog
+- [3] Bronze Dog Figurines
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#18
+Q: Where are quanzhou and Zhangzhou located?
+Gold: Hokkien
+Answer: Quanzhou and Zhangzhou are both located in Fujian province, China. They are main urban centers for the Quanzhang Division of Min Nan, a classification under Min Nan dialects named after these two cities.
+
+### References
+
+- [1] Quanzhou
+- [2] Zhangzhou
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#19
+Q: Which style guide recommends using Vergilius to avoid confusion with Virgilius Maro Grammaticus?
+Gold: Oxford
+Answer: The information provided in the context does not contain any details about a style guide recommending the use of "Vergilius" to avoid confusion with "Virgilius Maro Grammaticus." Therefore, I do not have enough information to answer this query.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#20
+Q: What happened to the French Mediterranean fleet?
+Gold: the Mediterranean fleet under Jean-François de La Clue-Sabran was scattered by a larger British fleet
+Answer: The French Mediterranean Fleet, led by Jean-François de La Clue-Sabran, was involved in the Battle of Lagos. During this battle, which took place in August, the French fleet was scattered, leading to significant losses for the French Mediterranean Fleet.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#21
+Q: How many people lived at Castel Gofolfo during the war?
+Gold: 15,000
+Answer: During the war, the Papal Residence Castel Gandolfo was opened to refugees, housing some 15,000 persons.
+
+### References
+
+- [1] Papal Residence Castel Gandolfo was opened to refugees, housing some 15,000 persons.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#22
+Q: By when did the Portuguese unemployment rate pass the 10% mark?
+Gold: December 2009
+Answer: According to the information provided, the Portuguese unemployment rate surpassed the 10% mark by December 2009. This can be seen from the data indicating that unemployment had exceeded 10% by this time.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: Who became a powerful force after the Norman Conquest?
+Gold: The abbot and monks
+Answer: After the Norman Conquest, both the abbot and the monks became influential figures. The abbot, as a religious leader, and the monks, as religious followers, played significant roles in the political and social landscape following the 11th-century event.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: If communications restrictions have changed how so?
+Gold: The most significant change has come in the form that media organisations will no longer have to submit their content to a censorship board before publication.
+Answer: The easing of media censorship restrictions in August 2012 was a significant change. This occurred following protests by hundreds of demonstrators who demanded that the government "Stop Killing the Press." The government responded to these demands by lifting some of the previously imposed media censorship, allowing for greater freedom of expression and information dissemination.
+
+### References
+
+- [1] Restrictions on Media Censorship
+- [2] Press
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#25
+Q: How many provinces did Zhang Jue's rebellion take place in?
+Gold: eight
+Answer: Zhang Jue's massive rebellion involved eight provinces, making it a significant uprising that spanned a wide geographical area during the Eastern Han dynasty in China.
+
+### References
+
+- [1] Zhang Jue's massive rebellion
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#26
+Q: What does HMMWV stand for?
+Gold: High Mobility Multipurpose Wheeled Vehicle
+Answer: The High Mobility Multipurpose Wheeled Vehicle (HMMWV), commonly called the Humvee, is a versatile vehicle used by the Army for cargo/troop transport, weapons platform, and ambulance roles.
+
+### References
+
+- [1] High Mobility Multipurpose Wheeled Vehicle (HMMWV)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#27
+Q: Who was the latest clubs have won the fa cup as part of a league cup double?
+Gold: Chelsea (2010)
+Answer: Chelsea and Manchester United have won the FA Cup as part of a League and Cup double in recent years. Specifically, Chelsea achieved this feat in 2010 and 2012, while Manchester United did so in 1999 and 2000–01.
+
+### References
+
+- [1] Chelsea is a football club that has won the FA Cup as part of a League and Cup double in 2010 and 2012.
+- [2] Manchester United is a football club that has won the FA Cup as part of a League and Cup double in 1999 and 2000–01.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#28
+Q: In what year was Rome conquered?
+Gold: 1870
+Answer: Rome was not conquered but was captured in 1870, which ended the Papal temporal power. This event marked the capture of Rome by the forces of the Kingdom of Italy, leading to the unification of Italy into a nation state.
+
+### References
+
+- [1] Italy unified into a nation state.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#29
+Q: What contributed greatly to the severity of the financial crisis of 2007?
+Gold: excessive credit growth
+Answer: The financial crisis of 2007 was significantly exacerbated by several factors, one of which was **excessive credit growth**. This phenomenon was identified as a critical factor contributing to the severity of the crisis, as detailed in the context provided. The Federal Reserve's policies influenced this credit growth, which in turn played a significant role in the overall financial instability.
+
+Another contributing factor was the **housing bubble**. Some economists advocated for creating a housing bubble to replace the Nasdaq bubble, which had previously collapsed. This strategy, while intended to stimulate the economy, ultimately led to a significant increase in housing prices and borrowing, setting the stage for a potential collapse.
+
+The **European debt crisis**, which began in late 2009, also played a crucial role. Greece's sovereign default, triggered by the revelation of its true financial situation, ignited the crisis. The reassessment of the creditworthiness of eurozone states by the financial community led to credit rating downgrades and increased borrowing costs, further destabilizing the financial markets.
+
+Additionally, **lower interest rates** encouraged borrowing and were used as a tool to combat economic risks. However, this policy also contributed to the build-up of financial imbalances, as seen during the Nasdaq bubble period. The increase in interest rate spreads during the crisis reflected the heightened risk perceptions among investors, indicating a widening gap between the cost of borrowing and the returns on government bonds.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#30
+Q: The sensation of a knife twisting in the flesh is an example of what type of pain?
+Gold: phantom body
+Answer: The sensation of a knife twisting in the flesh is an example of phantom body pain, which is a symptom experienced by some paraplegics. This type of pain occurs in areas of complete sensory loss and is described as a vivid, often intense sensation that feels as if it is originating from a specific part of the body, even though there is no actual physical damage or injury present.
+
+### References
+
+- [1] Phantom body pain is a symptom experienced by some paraplegics, occurring in areas of complete sensory loss. [Reference ID: 1]
+- [2] Knife twisting in the flesh is a description of phantom body pain. [Reference ID: 2]
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#31
+Q: Iran lost territory in the Caucasus during what wars in the early 1800s?
+Gold: Russo-Persian wars
+Answer: Iran lost significant territory in the Caucasus during the Russo-Persian Wars, which took place from 1804 to 1813 and again from 1826 to 1828. These conflicts resulted in territorial losses for Iran, as the Achaemenid Empire's territories, including parts of the Caucasus, were involved.
+
+### References
+
+- [1] Russo-Persian Wars
+- [2] Achaemenid Empire
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#32
+Q: What ethnice groups did the Qing thin made up China?
+Gold: Han and non-Han peoples
+Answer: The Qing state, ruled by the Manchus, included various ethnic groups within its territory. According to the knowledge provided, the Qing emperors promoted the idea of a multi-ethnic China, which encompassed different ethnicities such as the Chinese, Manchu, and Mongol peoples. The term "China" as used by the Manchus referred to their state, known as "Dulimbai Gurun," which included diverse ethnic groups under their rule.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#33
+Q: What organization discovered that the advertisements Beyoncé did for the soft drink company were 70% positive?
+Gold: NetBase
+Answer: Based on the information provided in the context, there is no specific mention of an organization that discovered that the advertisements Beyoncé did for the soft drink company were 70% positive. The context only mentions that Beyoncé has worked with Pepsi since 2002 [1], but it does not provide details about the sentiment analysis of her advertisements.
+
+### References
+
+- [1] Pepsi is a well-known beverage company that has partnered with Beyoncé since 2002.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#34
+Q: What is a commonly used term for infrared radiation?
+Gold: heat radiation
+Answer: A commonly used term for infrared radiation is "heat radiation." This term is often used because infrared radiation is closely associated with heat, although it is important to note that this term is not strictly accurate, as infrared radiation is a form of electromagnetic radiation and not a separate category of heat (Reference [1]).
+
+### References
+
+- [1] Heat Radiation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#35
+Q: What is London's most popular athletic sport?
+Gold: football
+Answer: London's most popular athletic sport is football. As a city known for its vibrant sporting culture, football is deeply ingrained in the local community and is associated with various clubs, making it the sport of choice for many residents.
+
+### References
+
+- [1] Football
+- [2] London
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#36
+Q: What does the term symbiosis mean?
+Gold: living together
+Answer: Symbiosis is a close living arrangement between organisms where one or both parties benefit. This relationship can be mutualistic, where both organisms gain advantages, or one-sided, where one organism benefits while the other is harmed. For instance, in parasitic relationships, the parasite often reduces the fitness of its host, whereas mutualistic relationships are beneficial to both organisms involved.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#37
+Q: Where did Egyptian plan to get funds to use for reconstruction of infrastructure?
+Gold: newly acquired third mobile license ($3 billion) by Etisalat
+Answer: The Egyptian Government plans to use funds from the Third Mobile License to support major infrastructure reconstruction plans. This license, acquired by Etisalat in 2006, serves as a significant source of funds for these initiatives.
+
+### References
+
+- [1] Third Mobile License
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#38
+Q: Who was elected the first female president of Africa?
+Gold: Ellen Johnson Sirleaf
+Answer: Ellen Johnson Sirleaf was elected the first female president in Africa. She became the first woman to hold the office of president in Africa, marking a significant milestone in the continent's political history. Her election as the first female president in Africa is a historical achievement, reflecting her role as an economist and former Minister of Finance.
+
+### References
+
+- [1] Ellen Johnson Sirleaf
+- [2] First Female President in Africa
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#39
+Q: What were members who did not practice the physical craft known as?
+Gold: accepted or speculative Masons
+Answer: Members who did not practice the physical craft but contributed to the development and continuity of Masonic Lodges were known as **Accepted or Speculative Masons**. These individuals participated in the rituals and practices of Masonic Lodges, which helped shape the modern Masonic tradition.
+
+### References
+
+- [1] Accepted or Speculative Masons
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#40
+Q: What did the Romans use as a means of expanding their rule throughout the empire?
+Gold: Imperial cult
+Answer: The Romans expanded their rule through a combination of military conquest, administrative organization, and religious practices. One significant aspect of Roman expansion was the integration of religious practices, which helped to consolidate power and control over conquered territories. Emperor Worship, a form of religious practice that expanded the traditional veneration of the Genius and ancestral dead to honor the emperors, played a crucial role in this process. By incorporating Emperor Worship into their religious landscape, the Romans were able to reinforce their authority and legitimize their rule over diverse populations.
+
+For instance, Emperor Worship expanded on traditional Roman veneration, as seen in the relationship between "Emperor Worship" and "Roman Religion" in the Knowledge Graph Data. This religious practice was used to legitimize the rule of emperors and integrate conquered peoples into the Roman state, thereby facilitating the expansion and consolidation of Roman power.
+
+### References
+
+- [1] Roman Religion
+- [2] Emperor Worship
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#41
+Q: What types of species are thought to still have been dominate until after the extinction?
+Gold: cycad and ferns
+Answer: After the Cretaceous–Paleogene extinction event, several types of species continued to dominate in terms of biomass. Specifically, both cycads and ferns remained prevalent during this period.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#42
+Q: In what year did the Southern New England Telephone Company, formerly the District Telephone Company of New Haven, establish operations in the area?
+Gold: 1878
+Answer: The Southern New England Telephone Company, which was originally known as the District Telephone Company of New Haven, began its operations in 1878 in New Haven.
+
+### References
+
+- [1] Southern New England Telephone Company
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#43
+Q: What is caldeirada?
+Gold: a potato-based stew that can be made from several types of fish
+Answer: Caldeirada is a popular fish stew in Portuguese cuisine. This dish is known for its rich and hearty composition, often featuring a variety of fish such as cod, sardines, and hake, along with potatoes, onions, and tomatoes. It is a beloved traditional meal that showcases the diverse flavors and ingredients of Portuguese cooking.
+
+### References
+
+- [1] Caldeirada
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#44
+Q: The Luftwaffe dropped how many short tons of bombs?
+Gold: 18,291 short tons
+Answer: Based on the information provided in the context, we do not have specific details about the total amount of short tons of bombs dropped by the Luftwaffe during the Blitz. The context mentions that the Luftwaffe conducted the Blitz, a sustained bombing campaign against British cities, including the City of London. However, it does not provide quantitative data on the total tonnage of bombs dropped.
+
+### References
+
+- [1] The Blitz
+- [2] Luftwaffe
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#45
+Q: Who spoke Russian before the 20th century?
+Gold: the upper noble classes and urban population
+Answer: Before the 20th century, Russian was spoken by various groups, including Russian peasants and urban populations. Russian peasants, who lived in rural areas, spoke in their own dialects, which were regional and often nonstandard. In contrast, the urban population, which consisted of people living in cities, spoke the language of the upper noble classes, which was more standardized and formalized.
+
+### References
+
+- [1] Southern Russian Dialects
+- [2] Russian Peasants
+- [3] Urban Population
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#46
+Q: Where do brushes get their power?
+Gold: external
+Answer: Brushes in a Brushed DC Motor get their power from an external power source. Specifically, the brushes make contact with the commutator, which is a ring segmented into multiple contact points. As the motor rotates, the brushes make contact with different segments of the commutator, effectively connecting the rotating armature to the external power source. This setup ensures that the current direction in the armature windings is reversed periodically, maintaining the motor's rotation.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#47
+Q: What school shooting prompted the creation of Demand A Plan?
+Gold: Sandy Hook Elementary School
+Answer: The Sandy Hook Elementary School Shooting prompted the creation of the "Demand A Plan" campaign. This tragic event led to the formation of a bipartisan effort by 950 US mayors and others, aimed at influencing federal gun control laws.
+
+### References
+
+- [1] Demand A Plan
+- [2] Sandy Hook Elementary School Shooting
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#48
+Q: What happened to Libya right after World War II?
+Gold: Libya was occupied by British and French forces
+Answer: After World War II, Libya was occupied by British and French forces. This occupation marked a significant period in Libya's history, as it followed the end of Italian colonial rule and the Italian invasion of 1911. The occupation by these Allied powers lasted until Libya declared independence in 1951, which was recognized by the United Nations.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#49
+Q: Between what years did Queen and Paul Rodgers first embark on a world tour?
+Gold: Between 2005 and 2006
+Answer: Queen and Paul Rodgers first embarked on a world tour between 2005 and 2006. This tour was Queen's first since 1986 and Paul Rodgers joined the band for this significant musical venture.
+
+### References
+
+- [1] Paul Rodgers joined Queen for their 2005-2006 world tour.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#50
+Q: What period was the Jin kingdom in?
+Gold: Autumn
+Answer: I do not have specific information about the Jin kingdom in the provided context. The context focuses on the Spring and Autumn period, the Restored Toungoo Dynasty, and other historical periods and entities, but does not contain details about the Jin kingdom.
+
+If you could provide more context or details about the Jin kingdom, I would be happy to help you further based on the information available.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#51
+Q: What was Kuruma's former position?
+Gold: vice chief of staff
+Answer: General Mamadu Ture Kuruma assumed control of the country during the transitional period and started negotiations with the opposition parties. However, his former position is not explicitly mentioned in the provided context.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#52
+Q: In November 2008, how many New Yorkers were registered as Democrats?
+Gold: 67%
+Answer: In November 2008, 67% of registered voters in the city were Democrats. This information highlights the significant influence of the Democratic Party in New York City's political landscape.
+
+### References
+
+- [1] Registered voters in the city are Democrats as of November 2008.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#53
+Q: Where is the Walhalla temple located?
+Gold: Bavaria
+Answer: The Walhalla temple is located in Bavaria, specifically east of Regensburg. This temple honors and recognizes distinguished Germans, including scientists.
+
+### References
+
+- [1] Walhalla temple
+- [2] Bavaria
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#54
+Q: What agency provides fire fighting and rescue service in London?
+Gold: The London Fire Brigade
+Answer: The London Fire Brigade is the statutory fire and rescue service for Greater London. It is managed by the London Fire and Emergency Planning Authority.
+
+### References
+
+- [1] London Fire Brigade
+- [2] London Fire and Emergency Planning Authority
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#55
+Q: What is to the east of Lancashire today?
+Gold: West Yorkshire
+Answer: Today, the county that borders Lancashire to the east is West Yorkshire.
+
+### References
+
+- [1] County
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#56
+Q: Who voted to get rid of the special seats?
+Gold: the Supreme Soviet
+Answer: The Supreme Soviet voted to eliminate the special seats for the Communist Party and other official organizations in national and local elections. This decision was made on October 25, 1989, as part of the measures requiring a constitutional amendment to achieve this change.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#57
+Q: Where is the headquarters for the Christial Scientists?
+Gold: Back Bay
+Answer: The headquarters for the Christian Scientists is located at the Mother Church in Back Bay, Boston.
+
+### References
+
+- [1] Mother Church
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#58
+Q: What type of protocol is used for USB 2.0 devices during a reset?
+Gold: a special protocol
+Answer: During a USB reset, USB 2.0 devices use a protocol called chirping to negotiate high bandwidth mode with the host/hub. This process is managed by the host/hub, which drives both the D+ and D− lines during the reset event.
+
+### References
+
+- [1] USB 2.0
+- [2] chirping
+- [3] USB RESET
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#59
+Q: What do they call the bike paths in Mexico City?
+Gold: Ciclovías
+Answer: In Mexico City, the dedicated bike paths/lanes/streets are known as Ciclovías. These paths are part of the city's efforts to promote cycling as a mode of transportation and to reduce traffic congestion. For instance, Ciclovías include a 59 kilometers long path that runs from Polanco to Fierro del Toro, and they also exist along Avenida Chapultepec and Paseo de la Reforma.
+
+### References
+
+- [1] Ciclovías
+- [2] 59 kilometers
+- [3] Avenida Chapultepec
+- [4] Paseo de la Reforma
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#60
+Q: What track did Kanye compose and perform while injured from his accident?
+Gold: Through The Wire
+Answer: Kanye West composed and performed the song "Through The Wire" while he was injured from his accident. He recorded this track at Record Plant Studios with his jaw wired shut, showcasing his resilience and determination to continue creating music despite his physical limitations.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#61
+Q: Where is the basic MP3 decoding and technology patent free?
+Gold: European Union
+Answer: The basic MP3 decoding and encoding technology is patent-free in the European Union. Additionally, by 31 December 2017, this technology will be substantially patent-free in the United States, meaning that the majority of relevant patents will have expired.
+
+### References
+
+- [1] MP3 Decoding and Encoding Technology
+- [2] European Union
+- [3] 31 December 2017
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#62
+Q: How did Avicenna want man to think of themselves as?
+Gold: suspended in the air, isolated from all sensations
+Answer: Avicenna, the renowned philosopher, sought to demonstrate the existence and nature of the soul through his thought experiment known as the "Floating Man." In this experiment, he aimed to illustrate that the soul is an immaterial substance, a perfection, and independent of the body. By placing a man in a state where he is suspended in the air, cut off from all sensory data, and yet still aware of his own existence, Avicenna argued that the soul is self-aware and substantial, existing independently of the physical world.
+
+### References
+
+- [1] The Castle of Fardajan
+- [2] Floating Man
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#63
+Q: What Christian events did Valerian outlaw?
+Gold: assemblies
+Answer: Valerian, a Roman emperor, issued edicts against Christianity, considering it a subversive cult. These edicts were part of his broader efforts to maintain the state religion and suppress what he perceived as a foreign and potentially threatening movement. The Christian Scriptures, which are central to Christian doctrine, were not directly targeted by Valerian's edicts, as they do not contain any negative judgment on instruments, indicating a lack of opposition to their use. However, the Christian Scriptures were not immune to scrutiny and could be seen as part of the broader religious landscape that Valerian sought to control.
+
+### References
+
+- [1] Christian Apologists
+- [2] Christianity
+- [3] Valerian
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#64
+Q: What style of columns did Abbott Suger use when reconstructing Saint Denis?
+Gold: clustered columns
+Answer: Abbot Suger, a significant figure in the 12th century, used clustered columns in the reconstruction of Saint Denis. These columns supported ribs that sprang in different directions, contributing to the innovative architectural design of the time.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#65
+Q: What can threaten endemic species with extinction?
+Gold: genetic pollution
+Answer: Genetic pollution can pose a significant threat to endemic species, leading to their potential extinction. This threat arises from the uncontrolled hybridization, introgression, and genetic swamping by more abundant species (Reference [1]). For instance, abundant species can interbreed with rare species, thereby swamping their gene pool through hybridization (Reference [2]). This process can result in the loss of unique genetic traits and the eventual decline or extinction of the rare species.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#66
+Q: What was difficult to obtain and transport during the Georgian period?
+Gold: brick or stone
+Answer: During the Georgian period, certain building materials were difficult to obtain and transport. For instance, stone and brick became more common in larger cities or where locally available, suggesting that these materials were not always easily accessible or transported over long distances. Additionally, the use of these materials indicates that they were valued for construction, but their availability might have been limited in some areas.
+
+### References
+
+- [1] American Buildings
+- [2] Stone
+- [3] Brick
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#67
+Q: around when did the great plains become productive for crop growing
+Gold: 1950s
+Answer: The Great Plains became a productive agricultural area as a result of the development of agriculture, which allowed for the production of a surplus of food. This surplus of food freed up time for other tasks, enabling early civilizations to develop. In the United States, the Great Plains have become a significant agricultural region, with center pivot irrigation being extensively used for crop growing. This method, while effective, also results in significant water usage in the region.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#68
+Q: How many propositions make up the separationist position on the Establishment Clause?
+Gold: two
+Answer: The separationist position on the Establishment Clause, as argued by Jeffries and Ryan, is composed of several key propositions. According to their analysis, the separationist position includes:
+
+1. **Ban on Religious Observance in Public Education**: This proposition asserts that public schools should not engage in any religious observances or practices.
+2. **Constitutional Ban Against Aid to Religious Schools**: This proposition maintains that the government should not provide financial or other forms of support to religious schools.
+
+These two propositions are central to the separationist interpretation of the Establishment Clause, as they reflect the idea that the government must maintain a strict separation from religious institutions.
+
+### References
+
+- [1] Jeffries and Ryan
+- [2] Jeffries and Ryan
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#69
+Q: Who has abandoned the term Near East?
+Gold: The countries of the former empires of the 19th century
+Answer: Many countries have abandoned the term Near East in favor of Middle East. This shift reflects a change in how the region is perceived and referred to internationally.
+
+### References
+
+- [1] Middle East: A term used by many countries to replace Near East.
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#70
+Q: What major award was given to Padma Vibhushan E. Sreedharan for his contribution the the Delhi Metro?
+Gold: Legion of Honour
+Answer: Padma Vibhushan E. Sreedharan was awarded the prestigious Legion of Honour by the French Government for his significant contribution to the Delhi Metro. This award recognizes his substantial role and achievements in the project.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#71
+Q: What did Martin Luther post on the castle church of Wittenberg?
+Gold: 95 theses
+Answer: Martin Luther posted the 95 theses on the castle church of Wittenberg on October 31, 1517. These theses were a series of propositions intended for an academic debate on the sale of indulgences and other church practices. This act marked the beginning of the German Reformation, a significant religious movement initiated by Martin Luther.
+
+### References
+
+- [1] The 95 theses
+- [2] German Reformation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#72
+Q: When was the Treaty of Alliance with France signed?
+Gold: 1778
+Answer: The Treaty of Alliance with France was signed in 1778. This agreement was between France and the United States, and it was viewed by France as violated by the Jay Treaty.
+
+### References
+
+- [1] 1778 Treaty of Alliance
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#73
+Q: What was the issue date when this superhero team debuted?
+Gold: Nov. 1961
+Answer: The Fantastic Four, a superhero team introduced by Stan Lee, debuted in *The Fantastic Four #1*, which was published in 1961. This debut issue marked a significant moment in comic book history, as it broke conventions with other comic book archetypes.
+
+### References
+
+- [1] The Fantastic Four #1
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#74
+Q: What area did the Hasan-jalalians command?
+Gold: Artsakh and Utik
+Answer: The Hasan-Jalalian family commanded the provinces of Artsakh and Utik, which were part of the Kingdom of Artsakh. These territories were under their control during a specific historical period.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#75
+Q: How many people did the company employ in 1943?
+Gold: 44,000
+Answer: In 1943, the company Douglas had 44,000 employees, which was the highest number of employees it ever had.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#76
+Q: What are some other causes of airway obstruction?
+Gold: foreign body aspiration, tracheal stenosis or laryngotracheomalacia, vascular rings, enlarged lymph nodes or neck masses
+Answer: Airway obstruction can be caused by several conditions, including:
+
+- **Foreign Body Aspiration**: This condition involves the inhalation of a foreign object into the airway, which can lead to significant obstruction and mimic asthma symptoms [1].
+- **Enlarged Lymph Nodes**: Enlarged lymph nodes in the neck can compress the trachea, causing airway obstruction and symptoms similar to asthma [2].
+- **Tracheal Stenosis**: This is a narrowing of the trachea, which can also cause airway obstruction and symptoms that may be mistaken for asthma [3].
+- **Airway Masses**: Growths within the airway can obstruct airflow, leading to symptoms that can be confused with asthma, particularly in adults [4].
+- **Laryngotracheomalacia**: This condition involves the softening and collapse of the trachea and larynx, which can cause airway obstruction and symptoms similar to asthma, especially in infants and young children [5].
+
+### References
+
+- [1] Foreign Body Aspiration
+- [2] Enlarged Lymph Nodes
+- [3] Tracheal Stenosis
+- [4] Airway Masses
+- [5] Laryngotracheomalacia
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#77
+Q: What hospitals partner with the Washington University School of Medicine?
+Gold: St. Louis Children's Hospital and Barnes-Jewish Hospital
+Answer: Several hospitals partner with the Washington University School of Medicine. Notably, Barnes-Jewish Hospital, which is part of BJC HealthCare, and St. Louis Children's Hospital are partners. These collaborations facilitate medical research, training, and education.
+
+### References
+
+- [1] BJC HealthCare is an organization that includes Barnes-Jewish Hospital.
+- [2] St. Louis Children's Hospital is a partner of Washington University School of Medicine.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#78
+Q: What accounted for 1.1% of browser use in April 2011?
+Gold: Opera-mini version
+Answer: According to the data tracked by Net Applications, Opera accounted for 1.1% of browser usage in April 2011. This information is directly supported by the document that Net Applications tracks browser usage shares.
+
+### References
+
+- [1] Document Title: Net Applications Browser Usage Share Data - April 2011
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#79
+Q: WHich independent music company was founded by Geoff Travis?
+Gold: Rough Trade
+Answer: Geoff Travis, a record shop owner involved in the punk music scene, founded Rough Trade, an independent record label that reflects the DIY Imperatives of the Initial Punk Era.
+
+### References
+
+- [1] Rough Trade
+- [2] Initial Punk Era
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#80
+Q: Along with the Mongolian People's Republic and the People's Republic of China, what country did the RSFSR border to its southeast?
+Gold: Democratic People's Republic of Korea
+Answer: The RSFSR bordered the People's Republic of China to its southeast. Additionally, it also shared a border with the Mongolian People's Republic on the southeast side.
+
+### References
+
+- [1] People's Republic of China
+- [2] Mongolian People's Republic
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#81
+Q: Eventually safety locks were used to guarantee what?
+Gold: that the inner and outer doors were closed before the elevator was allowed to move
+Answer: Safety locks were used to guarantee that both the outer and inner doors of the elevator are closed before the elevator can move. Specifically, safety interlocks ensure that the outer doors (part of the elevator shaft) and the inner doors (part of the elevator cab) are closed, preventing the elevator from operating with open doors, which is crucial for safety.
+
+### References
+
+- [1] Safety Interlocks
+- [2] Outer Doors
+- [3] Inner Doors
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#82
+Q: What advancement aided in spreading knowledge across generations?
+Gold: The development of writing
+Answer: The development of writing significantly aided in spreading knowledge across generations. Writing allowed for the storage and communication of information with greater fidelity, enabling knowledge to be preserved and transmitted beyond the immediate context of its creation (Reference [1]).
+
+### References
+
+- [1] Development Of Writing
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#83
+Q: When did Greece join the Eurozone?
+Gold: 2001
+Answer: Greece joined the Eurozone in 2001. This membership is part of Greece's involvement in the European Union, an institution where Greece has been a member since 2001.
+
+### References
+
+- [1] European Union
+- [2] Eurozone
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#84
+Q: Poetry was considered to need lines and meter until when?
+Gold: the nineteenth century
+Answer: Poetry was commonly understood to be something set in metrical lines before the nineteenth century. This understanding was influenced by Aristotle's *Poetics*, which discussed the nature and structure of poetry, emphasizing the importance of metrical lines and rhythm in creating aesthetic and rhythmic qualities.
+
+### References
+
+- [1] Poetics
+- [2] Nineteenth Century
+- [3] Metrical Lines
+- [4] Rythm
+- [5] Poetry
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#85
+Q: What is the level of copper in the human body?
+Gold: 1.4 to 2.1 mg per kg of body mass
+Answer: The human body contains copper at a level of about 1.4 to 2.1 mg per kg of body mass. Copper is an essential trace element involved in various physiological processes, and it undergoes enterohepatic circulation, where about 5 mg of copper is processed daily, with 1 mg being absorbed and excreted.
+
+### References
+
+- [1] Human Body
+- [2] Enterohepatic Circulation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#86
+Q: What language has one of the most phonemic orthographies of all European languages?
+Gold: Czech
+Answer: Czech is known for having one of the most phonemic orthographies among European languages. In Czech, each grapheme (the smallest unit of written language) typically represents a single sound, making its writing system highly phonemic. This characteristic is further emphasized by the fact that thirty-one graphemes correspond to thirty sounds, ensuring a close alignment between spelling and pronunciation.
+
+### References
+
+- [1] Czech
+- [2] Phonemic Orthography
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#87
+Q: What research centre at the University of Southampton is abbreviated NOCS?
+Gold: National Oceanography Centre, Southampton
+Answer: The research centre at the University of Southampton that is abbreviated NOCS is the National Oceanography Centre, Southampton (NOCS). NOCS is a research facility focused on marine research.
+
+### References
+
+- [1] National Oceanography Centre, Southampton (NOCS)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#88
+Q: Which baseball stadium is found at Notre Dame?
+Gold: Frank Eck Stadium
+Answer: Notre Dame does not have a baseball stadium; however, it does have a dedicated outdoor field for baseball. This field is known as Frank Eck Stadium.
+
+### References
+
+- [1] Frank Eck Stadium
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#89
+Q: What is the name of the a cappella musical that debuted Off-Broadway in the same year as Perfect Harmony?
+Gold: In Transit
+Answer: The a cappella musical that debuted Off-Broadway in 2010, the same year as "Perfect Harmony," is "In Transit."
+
+### References
+
+- [1] In Transit is a fourth a cappella musical that premiered Off-Broadway on 5 October 2010.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#90
+Q: Who studied the history of science?
+Gold: interested scientists and physicians
+Answer: The history of science has been studied by various scholars over time. Notable figures include William Whewell, who published "History of the Inductive Sciences" in 1837, marking the beginning of the history of science as an academic field. Additionally, George Sarton's work, including his book "Introduction to the History of Science" published in 1927, and the founding of the Isis journal in 1912, further developed the history of science as an independent discipline. At the University of Southampton, research is conducted in both engineering sciences and chemistry, reflecting the ongoing study of scientific history within academic institutions.
+
+### References
+
+- [1] History of the Inductive Sciences
+- [2] Introduction to the History of Science
+- [3] Isis Journal
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#91
+Q: Who currently holds the record for the most league clean sheets during a season?
+Gold: Tim Howard
+Answer: Tim Howard currently holds the record for the most league clean sheets in a season. This record was set during the 2008–09 season while he was playing for Everton.
+
+### References
+
+- [1] Tim Howard
+- [2] 2008–09 season
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#92
+Q: At what point did instruments begin to receive condemnation from Christians?
+Gold: the 2nd century
+Answer: By the end of the 2nd century, the use of instruments for Christian worship began to receive condemnation from Church Fathers, marking a shift in Christian practice.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#93
+Q: Who did Greeks look down upon?
+Gold: non-Greeks
+Answer: According to the information provided, Greeks, particularly the Greco-Macedonian Elites, looked down upon non-Greeks. The Greco-Macedonian Elites maintained their Greek identity and showed disdain towards non-Greeks, even though they themselves were part of a broader process of Hellenization that spread Greek culture and language to other regions.
+
+### References
+
+- [1] Greco-Macedonian Elites
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#94
+Q: In 2003 Queen performed for what Nelson Mandela hosted benefit?
+Gold: the 46664 Concert
+Answer: In 2003, Queen performed at the 46664 Concert, which was hosted by Nelson Mandela to raise awareness about HIV/AIDS in South Africa. This concert also featured other performers such as May and Taylor, who performed alongside Queen.
+
+### References
+
+- [1] 46664 Concert
+- [2] Nelson Mandela
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#95
+Q: Who was featured in the most well-known part of Burke's Reflections?
+Gold: Marie-Antoinette
+Answer: In Burke's Reflections, Marie-Antoinette is a central figure. Burke's work includes a detailed description of her role in the events of 1789, particularly the October Days, which symbolized revolutionary sentiment. Both Edward Gibbon, who praised Burke's description of Marie-Antoinette, and Philip Francis, who criticized it, highlighted her significance.
+
+### References
+
+- [1] Burke's Reflections
+- [2] Duchesse de Biron provided Burke with information about Marie-Antoinette's reaction to his writing.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#96
+Q: What is souvlaki?
+Gold: pork and chicken cooked over charcoal
+Answer: Souvlaki is a traditional delicacy made from pork and chicken cooked over charcoal. This dish is a popular street food in Greece and other Mediterranean countries, known for its smoky flavor and portability.
+
+### References
+
+- [1] Souvlaki
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#97
+Q: Which US State did not  enact reception statues?
+Gold: Louisiana
+Answer: Louisiana is the exception to the reception of English common law through reception statutes. This means that Louisiana did not enact reception statutes to formalize the adoption of English common law into its legal system.
+
+### References
+
+- [1] Louisiana
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#98
+Q: What digestions begin in the mouth?
+Gold: Mechanical and chemical digestion
+Answer: Digestions that begin in the mouth include the enzymatic breakdown of starches and the mechanical breakdown of food through chewing.
+
+Saliva, a liquid produced in the mouth, plays a crucial role in the initial digestion of food. Specifically, saliva contains enzymes that break down starches into simpler sugars. This process is facilitated by the presence of amylase, an enzyme that catalyzes the hydrolysis of starches into maltose and other sugars [1].
+
+Additionally, the act of chewing, or mastication, is a mechanical process that breaks down food into smaller pieces, increasing the surface area for further enzymatic action and facilitating swallowing [2].
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#99
+Q: What is the oldest piece of Qutb Shahi architecture in Hyderabad?
+Gold: the ruins of Golconda fort
+Answer: The oldest piece of Qutb Shahi architecture in Hyderabad is Golconda Fort, which was built in the 16th century. This fort is one of the oldest surviving Qutb Shahi structures and is considered a monument of national importance in India.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#100
+Q: What caused Latin America's right-wing authorities to support coup o'etats?
+Gold: in the 1970s, leftists acquired a significant political influence
+Answer: The support for coup d'états by Latin America's right-wing authorities can be attributed to several factors, including the perceived communist threat and the desire to maintain conservative policies and social order.
+
+### Supporting Factors
+
+1. **Perceived Communist Threat**: The right-wing authorities in Latin America viewed the spread of communism as a significant threat to their political and economic systems. Coup d'états were often seen as necessary to counteract this perceived threat and to protect the existing order. [1]
+
+2. **Political Polarization**: The involvement of the United States and Cuba in Latin American politics contributed to the political polarization in the region. This polarization further fueled the right-wing's support for coups to prevent leftist influence and maintain their dominance. [2]
+
+3. **Ecclesiastical Authorities**: Religious leaders and institutions, known as Ecclesiastical Authorities, also played a role in supporting coups. They saw coups as a means to counter leftist ideologies and maintain their influence over the political landscape. [3]
+
+4. **Upper Class Support**: The upper class in Latin America supported coups to protect their social and economic status. Coup d'états often promised to restore stability and order, which was crucial for the upper class's interests. [4]
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+Score: 4.5 | Pass: True
+--------------------------------------------------------------------------------
+#101
+Q: What does GBAD stand for?
+Gold: Ground Based AD
+Answer: Ground Based AD (GBAD) is a term from the late 20th century for air defence systems based on the ground. This term encompasses various systems designed to protect against airborne threats using ground-based platforms.
+
+### References
+
+- [1] Ground Based AD (GBAD) is a term from the late 20th century for air defence systems based on the ground.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#102
+Q: What did Whitehead believe regarding factors that limit people's understanding of his concepts?
+Gold: should not prevent people from realizing that "material substances" or "essences" are a convenient generalized description of a continuum
+Answer: Whitehead believed that the limitations of language significantly impact people's understanding of his concepts. He critiqued the materialistic way of thinking, which is maintained by the limitations of language, as discussed in his works. For instance, he used the example of a person's life, such as a ten-year-old or a thirty-year-old, to illustrate how language can constrain our understanding of change over time. Additionally, Whitehead acknowledged the difficulty of giving each moment of a person's life a different proper name, further emphasizing the limitations of language in capturing the continuous nature of existence.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#103
+Q: Due to Guam being so close to Anatahan, what dod they have to worry about?
+Gold: volcanic smog
+Answer: Guam, being close to Anatahan, a volcano in the Northern Mariana Islands, has to worry about vog, which is a mixture of water vapor, sulfur dioxide, and other volcanic gases. Vog can affect the air quality and health of the inhabitants on Guam.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#104
+Q: How many home in Detroit need minor repairs?
+Gold: 9%
+Answer: According to the 2009 parcel survey, a minority (9%) of the city's homes are in fair condition and need only minor repairs. This indicates that about 9% of the homes in Detroit require only minor repairs.
+
+### References
+
+- [1] 2009 Parcel Survey
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#105
+Q: Damaged aircraft can be out of action for days or what?
+Gold: permanently
+Answer: Damaged aircraft can be out of action for days or permanently.
+
+This information is directly supported by the knowledge graph data, which states that "Damaged aircraft may be forced to abort their mission and may be out of action for days or permanently." [1]
+
+### References
+
+- [1] Aircraft
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#106
+Q: How were the Portuguese expelled from Myanmar?
+Gold: The dynasty regrouped and defeated the Portuguese
+Answer: The Portuguese were expelled from Myanmar by the Restored Toungoo Dynasty. According to historical records, the Restored Toungoo Dynasty defeated the Portuguese in 1613, effectively expelling them from the region.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#107
+Q: Nagarjuna said that sentient beings are empty of what?
+Gold: ātman
+Answer: Nagarjuna, a key figure in the Mahayana tradition, argued that sentient beings are empty of inherent existence or intrinsic nature (śūnyatā). His primary contribution was the systematic exposition of this concept, which is widely attested in the Prajñāpāramitā sutras. According to Nagarjuna, the notion of an inherent self or essence is ultimately untenable, as all phenomena are interdependent and lack independent existence.
+
+### References
+
+- [1] Nagarjuna
+- [2] Śūnyatā
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#108
+Q: How many subscribers had access to TCM upon it launch?
+Gold: one million
+Answer: Upon its launch, TCM was available to approximately one million cable television subscribers.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#109
+Q: What system, like Saturn, does Neptune have?
+Gold: planetary ring system
+Answer: Neptune, similar to Saturn, possesses a planetary ring system. This ring system is composed of ice particles, with some of the main rings including the Le Verrier Ring, located approximately 53,000 km from the center of Neptune. The rings may also be coated with silicates or carbon-based material, giving them a reddish hue.
+
+### References
+
+- [1] Planetary Ring System
+- [2] Neptune
+- [3] Le Verrier Ring
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#110
+Q: What is the May Forth Movement?
+Gold: to completely abolish the old imperial institutions and practices of China
+Answer: The May Fourth Movement was a student protest that took place in 1919. This movement called for the abolition of old imperial institutions and practices, reflecting a desire for modernization and reform in China during that period.
+
+### References
+
+- [1] May Fourth Movement
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#111
+Q: In what year was the Order of the Garter established?
+Gold: 1348
+Answer: The Order of the Garter was established in 1348 by Edward III.
+
+### References
+
+- [1] Order of the Garter
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#112
+Q: What is one reason for the decline in growth around the world in 2009?
+Gold: recession in the U.S.
+Answer: The decline in global growth in 2009, particularly in countries like the United States, the United Kingdom, Japan, and Germany, was significantly influenced by the U.S. economic situation. The U.S. had a substantial impact on global consumption and economic growth, and its economic downturn led to a chain reaction affecting other countries.
+
+For instance, the United Kingdom experienced a 7.4% annualized rate of decline in GDP in the first quarter of 2009, which was notably influenced by the U.S. economic situation. Similarly, Japan and Germany also saw significant declines in their GDP, with annualized rates of 15.2% and 14.4%, respectively, in the same period, largely due to the U.S. economic context.
+
+Moreover, the U.S. was also linked to the European debt crisis, which began in late 2009. The revelation of Greece's true financial situation triggered the crisis, and the financial community reassessed the creditworthiness of eurozone states, leading to credit rating downgrades and increased borrowing costs. This reassessment was influenced by the U.S. economic situation, as the decline in the U.S. economy had a ripple effect on global financial markets.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#113
+Q: The weatern part of North Carolina is part of what mountain range?
+Gold: Appalachian Mountain range
+Answer: The western part of North Carolina is part of the Appalachian Mountain range. Specifically, this region includes the Black Mountains, which are a subrange of the Appalachian Mountains and are the highest in the eastern United States.
+
+### References
+
+- [1] Appalachian Mountain Range
+- [2] Black Mountains
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#114
+Q: When were the Belavezha Accords ratified?
+Gold: December 12
+Answer: The Belavezha Accords were ratified on December 12, 1991, by the Supreme Soviet of the Russian SFSR. This date marks a significant step in the dissolution of the Soviet Union, as the accords signed on December 8, 1991, by the leaders of Belarus, Ukraine, and Russia, effectively dissolved the Soviet Union.
+
+### References
+
+- [1] Belavezha Accords
+- [2] Supreme Soviet of the Russian SFSR
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#115
+Q: Which book did Feynman decline to be listed in?
+Gold: The Laureates: Jewish Winners of the Nobel Prize
+Answer: Feynman declined to be included in "Tina Levitan's The Laureates: Jewish Winners of the Nobel Prize." This book specifically lists Jewish Nobel Prize winners, and Feynman, an atheist who was born to and raised by Ashkenazi parents but refused to be labeled Jewish, chose not to be part of such classifications.
+
+### References
+
+- [1] Tina Levitan's The Laureates: Jewish Winners of the Nobel Prize
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#116
+Q: When did Massalia side with Pompey?
+Gold: 49 BCE
+Answer: Massalia sided with Pompey in 49 BCE. This alignment occurred after Pompey had become an ally of Massalia, and eventually, Massalia chose to support him over Julius Caesar, leading to the forces of Caesar taking control of Massalia in the same year.
+
+### References
+
+- [1] Massalia
+- [2] Pompey
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#117
+Q: On what media was most of these work released?
+Gold: Compact Disks
+Answer: The information provided in the context does not specify the media on which the work from the "Reimagining Aid Design and Delivery" grant program was released. The grant program focuses on producing white papers on ideas for changing the current system of federal financial aid for college students, but it does not mention the specific media through which these white papers were distributed.
+
+### References
+
+- [1] Reimagining Aid Design and Delivery
+- [2] White Papers
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#118
+Q: What was the Secretariat for non-believers eventually renamed?
+Gold: Pontifical Council for Interreligious Dialogue
+Answer: The Secretariat for non-Christians, created by Pope Paul VI, was later renamed to the Pontifical Council for Interreligious Dialogue.
+
+### References
+
+- [1] Paul VI created the Secretariat for non-Christians, which was later renamed to Pontifical Council for Interreligious Dialogue.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#119
+Q: One way to increase college graduation by the foundation is
+Gold: One of the ways the foundation has sought to increase the number of college graduates is to get them through college faster
+Answer: One way to increase college graduation rates by the foundation is through the implementation of ideas proposed in the white papers generated by the "Reimagining Aid Design and Delivery" grants. These white papers aim to change the current system of federal financial aid, potentially making it more efficient and effective in supporting college students. By addressing the needs and challenges faced by college students, the foundation hopes to reduce dropout rates and increase the number of college graduates, ultimately contributing to the reduction of poverty in the United States.
+
+### References
+
+- [1] White Papers
+- [2] Reimagining Aid Design and Delivery
+- [3] Graduation Rates
+- [4] College Graduates
+- [5] Foundation
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#120
+Q: What do followers of Jesus call themselves in the Indian subcontinent?
+Gold: Isaai
+Answer: In the Indian subcontinent, followers of Jesus call themselves Isaai. This term is derived from the name Isa Masih, which is how Christians in the Indian Subcontinent refer to Jesus.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#121
+Q: Who was the Malbork Castle built for?
+Gold: the master of the Teutonic order
+Answer: Malbork Castle was built for the Teutonic Order. This castle is an example of Brick Gothic architecture and served as a residence for the master of the Teutonic Order.
+
+### References
+
+- [1] Malbork Castle
+- [2] Teutonic Order
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#122
+Q: What do students do during the traditional Primal Scream event held before finals week every quarter?
+Gold: scream
+Answer: During the traditional Primal Scream event held at 9 p.m. on the Sunday before finals week every quarter, students at Northwestern University gather to scream from windows or congregate in courtyards. This event is a well-known tradition among undergraduates, providing a moment of collective noise and release before the academic pressures of finals week begin.
+
+### References
+
+- [1] Primal Scream
+- [2] Undergraduates
+- [3] Northwestern
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#123
+Q: Where is Velenje located?
+Gold: Slovenia
+Answer: Velenje is a city in Slovenia, where Tito Square is located.
+
+### References
+
+- [1] Velenje
+- [2] Tito Square
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#124
+Q: In what year did Lobund at Notre Dame become an Institute?
+Gold: 1950
+Answer: Lobund at Notre Dame became an Institute in 1950.
+
+### References
+
+- [1] Lobund Institute
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#125
+Q: Which English city had a population greater than 40,000 in 1500?
+Gold: London
+Answer: Based on the information provided, there is no specific English city mentioned that had a population greater than 40,000 in 1500. The knowledge graph data focuses on cities in France, the Empire, Italy, the Low Countries, and the Iberian Peninsula, but does not include any English cities. Therefore, I do not have enough information to answer which English city had a population greater than 40,000 in 1500.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#126
+Q: What designation did the EPA give to the site of GE's Hudson River pollution
+Gold: superfund
+Answer: The EPA designated the site of General Electric's Hudson River pollution as a superfund site, requiring extensive cleanup due to the severe pollution caused by the release of PCBs.
+
+### References
+
+- [1] Superfund Sites
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#127
+Q: When was ale first served at the site of The Old Ferryboat Inn?
+Gold: 560
+Answer: According to the historical evidence, ale was being served at the site of The Old Ferryboat Inn as early as AD 560. This information is based on archaeological findings that suggest parts of the building's foundations date back to this period, and there is evidence that ale was served during that time.
+
+### References
+
+- [1] AD 560 is the approximate date when ale was being served at The Old Ferryboat Inn.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#128
+Q: How long is the Port of Nanjing?
+Gold: 98 kilometres (61 mi) in length
+Answer: The Port of Nanjing, being an inland port, does not have a length in the traditional sense as it is a port area along the Yangtze River rather than a linear structure. However, it is known for its significant cargo tonnage and container capacity, making it the largest inland port in China. For more specific details on its dimensions or layout, you may refer to the relevant documents or reports.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#129
+Q: What was the foremost dynasty of the the Golden Age period?
+Gold: Gupta
+Answer: Based on the provided context, there is no specific mention of a "Golden Age period" or its foremost dynasty. The context includes historical periods such as the Spring and Autumn period and the Age of Empire, but does not provide details about a "Golden Age period" or its associated dynasties.
+
+If you could provide more information or clarify the period you are referring to, I would be happy to help further.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#130
+Q: When was the main entrance constructed?
+Gold: beginning of the 18th century
+Answer: The main entrance of the cathedral was constructed in the 18th century by Conrad Rudolphus, who built the façade of the main entrance during this period.
+
+### References
+
+- [1] Façade
+- [2] Conrad Rudolphus
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#131
+Q: Where did Catalan experience defeat?
+Gold: War of Spanish Succession
+Answer: Catalan experienced defeat during the War of Spanish Succession, which concluded in 1714 with their defeat. This defeat initiated the decline of the Catalan language, as mentioned in the context provided.
+
+### References
+
+- [1] The War of Spanish Succession was a conflict that ended with the Catalan defeat in 1714.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#132
+Q: Which river touches the major shopping district near 181st Street?
+Gold: Harlem
+Answer: The major shopping district near 181st Street is defined by the commercial nature of 181st Street east of Fort Washington Avenue, and this district ends at the Harlem River.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#133
+Q: What is the mandolin usually tuned to for Indian music?
+Gold: E-B-E-B.
+Answer: The mandolin is typically tuned in a way that maintains relative pitch intervals, which is particularly important for Indian Classical Music, including its subset, Carnatic Classical Music. This tuning method ensures that the intervals between the notes remain consistent, even if the absolute pitch may vary. For specific styles like Indian Carnatic Music, the mandolin is adapted with a particular tuning that aligns with the requirements of this genre. Additionally, the mandolin is also used in Indian Light Music, but with a different tuning practice.
+
+In the context of Bhangra, a dance music genre popular in Punjabi culture, the mandolin is used, and its tuning would be adapted to fit the musical requirements of this genre as well.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#134
+Q: Along what major road are most hotels located?
+Gold: Champs-Élysées
+Answer: Many hotels in Paris are located close to the Champs-Élysées, a famous avenue known for its proximity to numerous hotels. This makes Champs-Élysées a significant location for accommodations in the city.
+
+### References
+
+- [1] Champs-Élysées is a famous avenue in Paris, known for its proximity to many hotels.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#135
+Q: What is a group with a common evolutionary ancestor population called?
+Gold: a clade
+Answer: A group with a common evolutionary ancestor population is called a clade. Clades are often used in evolutionary biology to describe populations that share a common ancestor and can be considered distinct evolutionary groups.
+
+### References
+
+- [1] Clade
+- [2] Phylogenetic Analysis
+- [3] Monophyletic Groups
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#136
+Q: What did renaissance writers question?
+Gold: the medieval and classical understanding of knowledge acquisition
+Answer: During the Renaissance, writers like Niccolò Machiavelli and Francesco Guicciardini questioned the traditional views on knowledge acquisition that were prevalent before the Renaissance. Specifically, they challenged the Medieval Understanding and the Classical Understanding.
+
+Niccolò Machiavelli, a key figure of the Late Renaissance, initiated a new realistic style of writing that reevaluated knowledge acquisition. He was critical of the Medieval Understanding, which was rooted in traditional and often religious views, and sought to introduce a more pragmatic and empirical approach to understanding the world and governance. Similarly, Francesco Guicciardini also contributed to this new realistic style of writing, further challenging the established norms of knowledge acquisition.
+
+These writers aimed to move away from the rigid frameworks of the Medieval and Classical Understandings, which were heavily influenced by religion and tradition, towards a more secular and empirical approach to knowledge. Their works reflected a broader cultural and intellectual shift during the Renaissance, emphasizing the importance of observation, experience, and practicality in understanding the world.
+
+### References
+
+- [1] Niccolò Machiavelli
+- [2] Francesco Guicciardini
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#137
+Q: What is another name for videophone calls?
+Gold: video chat
+Answer: Videophone calls are also known as video calls or video chat. These terms refer to communication methods that allow for visual and auditory interaction between individuals, enabling users to see and hear each other in real-time.
+
+### References
+
+- [1] Videophone Calls
+- [2] Video Chat
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#138
+Q: To what did the term magi originally refer?
+Gold: Persian priests
+Answer: The term "magi" originally referred to practitioners of magic in the Graeco-Roman world, often associated with Persian priests. These individuals were known for their magical and divinatory skills, which were highly valued in their societies.
+
+### References
+
+- [1] Magi
+- [2] Philostratus
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#139
+Q: MP3Gain is important because it allows players without what capability to have adjusted playback?
+Gold: ReplayGain capability
+Answer: MP3Gain is important because it allows players without ReplayGain-compliant capabilities to have adjusted playback. Specifically, ReplayGain-compliant players can automatically adjust the overall playback volume for each file, ensuring a consistent listening experience. MP3Gain can be used to modify MP3 files based on ReplayGain measurements, thereby achieving the same effect on non-compliant players.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#140
+Q: Which country was the first to be at risk for soverign default?
+Gold: Greece
+Answer: The country that initiated the European debt crisis by openly communicating its financial troubles was Greece. Greece's sovereign default triggered the European debt crisis due to the revelation of its true financial situation.
+
+### References
+
+- [1] Greece
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#141
+Q: Norfolk Island became a territory of what country?
+Gold: Australia
+Answer: Norfolk Island became a territory of Australia. This was established through the Norfolk Island Act 1913 (Cth), which was passed to make Norfolk Island a territory of Australia.
+
+### References
+
+- [1] Norfolk Island Act 1913 (Cth)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#142
+Q: When did Ramanuja live?
+Gold: c. 1037–1137
+Answer: Ramanuja, a proponent of the philosophy of Viśiṣṭādvaita, lived during the period around 1017–1110 CE. He saw Vishnu as a personification of Brahman and was a significant figure in the development of Vaishnavism within Hinduism.
+
+### References
+
+- [1] Ramanuja
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#143
+Q: What award did Madonna receive for her role in the film Shanghai Surprise?
+Gold: Golden Raspberry Award
+Answer: Madonna received a Golden Raspberry Award for her role in the film Shanghai Surprise. This satirical film award highlights her performance in the movie, which was not well-received critically.
+
+### References
+
+- [1] Golden Raspberry Award
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#144
+Q: When did the Gempei War end?
+Gold: 1185
+Answer: The Gempei War, a civil war between the Taira and Minamoto clans, concluded in 1185. This conflict, which lasted from 1180 to 1185, marked a significant turning point in Japanese history, with the Minamoto clan emerging victorious over the Taira.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#145
+Q: Where can alleles be located in order to be either dominant or recessive?
+Gold: at a locus
+Answer: Alleles can be located in the germ cells, which are the cells that can develop into a new organism and are involved in the production of gametes (sperm or egg cells). During the formation of gametes, alleles assort independently, as demonstrated by Mendel's work, leading to the potential for dominance or recessiveness in the resulting phenotype.
+
+In the context of germ cells, if a dominant allele is present, it will give rise to the corresponding phenotype when paired with any other allele for the same trait. Conversely, a recessive allele will only give rise to its corresponding phenotype when paired with another copy of the same allele.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#146
+Q: In what city is the École Polytechnique de Montréal located?
+Gold: Quebec
+Answer: The École Polytechnique de Montréal is located in the city of Quebec. 
+
+### References
+
+- [1] École Polytechnique de Montréal is a university-affiliated school located in Quebec that offers graduate and postgraduate programs.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#147
+Q: When were the approved algorithms finalized?
+Gold: 1992
+Answer: The approved algorithms for MPEG-1 Audio Layer I were finalized in 1991. This algorithm was part of the MPEG-1 standard, which was approved in the same year.
+
+### References
+
+- [1] ISO/IEC 11172-3
+- [2] MPEG-1 Audio Layer I was approved as part of MPEG-1 in 1991.
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#148
+Q: What do parallel capacitors do to fluctuating current in order to deliver "clean" power for control circuits?
+Gold: conceal current fluctuations
+Answer: Parallel capacitors play a crucial role in managing and stabilizing fluctuating currents within control circuits, ensuring that the power delivered is "clean" and consistent. Capacitors are designed to shunt away and conceal current fluctuations, thereby protecting the control circuits from potential damage caused by voltage spikes or drops. When a fluctuation occurs in the power supply, the capacitors quickly absorb the excess charge, acting as a local reserve. This action helps to maintain a steady voltage level, which is essential for the proper operation of control circuits.
+
+### References
+
+- [1] Capacitors are used in electronic devices to manage power circuits.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#149
+Q: Who was the main opponent that began to argue that the flat canvas did not support Cubism?
+Gold: Clement Greenberg.
+Answer: The main opponent who began to argue that the flat canvas did not support Cubism was Christopher Green. He argued that the terms proposed by Douglas Cooper were undermined by the interpretations of the works of Picasso, Braque, Gris, and Léger. This challenge to the flatness of the canvas as a defining characteristic of Cubism came from scholars reinterpreting the works of key figures in the movement.
+
+### References
+
+- [1] Christopher Green
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#150
+Q: Who was the first person to carry the torch?
+Gold: Alexandros Nikolaidis
+Answer: The first person to carry the torch was Alexandros Nikolaidis, a Greek silver medalist in taekwondo. He was the first torchbearer in the relay that started in Athens, Greece, and carried the Olympic Flame.
+
+### References
+
+- [1] Alexandros Nikolaidis
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#151
+Q: What is the backbone of a DNA double helix made of?
+Gold: phosphate-sugar
+Answer: The backbone of a DNA double helix is composed of the phosphate-sugar component. This structure spirals around the outside of the double helix, with the nitrogen-containing bases (adenine, thymine, guanine, and cytosine) pointing inward and forming specific base pairs. Adenine pairs with thymine through two hydrogen bonds, while guanine pairs with cytosine through three hydrogen bonds, ensuring the two strands are complementary and their sequences match.
+
+### References
+
+- [1] Two chains of DNA twist around each other to form a DNA double helix with the phosphate-sugar backbone spiralling around the outside, and the bases pointing inwards with adenine base pairing to thymine and guanine to cytosine. The specificity of base pairing occurs because adenine and thymine align form two hydrogen bonds, whereas cytosine and guanine form three hydrogen bonds. The two strands in a double helix must therefore be complementary, with their sequence of bases matching such that the adenines of one strand are paired with the thymines of the other strand, and so on.:4.1
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#152
+Q: Why did the Chinese ultimately fail in its counter offensives?
+Gold: low military-industrial capacity
+Answer: The Chinese forces, particularly the Chinese Nationalist Forces, faced significant challenges in their counter-offensives against the Japanese army. These challenges were exacerbated by several factors, including the Japanese military's superior tactics and the geographical constraints of southwestern China.
+
+The Japanese Army, which defeated Chinese nationalist forces in the 1st Battle of Changsha and the Battle of Suixian-Zaoyang, demonstrated effective military strategies and organizational capabilities. Despite launching counter-offensives in early 1940, the Chinese Nationalist Forces were ultimately repulsed. This failure can be attributed to the Japanese Army's ability to adapt and exploit the terrain, as well as their superior military technology and training.
+
+Moreover, the mountainous terrain in southwestern China played a crucial role in stalling Japanese aggression. However, the Japanese Army's strategic and tactical advantages over the Chinese forces were significant enough to overcome these natural barriers. The "Three Alls Policy" instituted by Japan in response to Chinese Communist offensives in August 1940 further highlighted the Japanese military's determination to suppress any resistance, regardless of the cost.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#153
+Q: What belief system began in the 15th century?
+Gold: Sikhism
+Answer: Based on the provided context, there is no specific belief system that is mentioned as beginning in the 15th century. The context primarily discusses various religions, philosophical concepts, and historical figures such as Napoleon and the Qing emperors, but does not provide information about a belief system starting in the 15th century.
+
+If you have additional information or context that could help identify the belief system, please provide it, and I will be happy to assist further.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#154
+Q: What religion was at the center of education in the Ottoman Empire?
+Gold: Islam
+Answer: The religion at the center of education in the Ottoman Empire was Islam. The Ottoman madaris, which were part of the Ottoman Empire's educational system, primarily served as Islamic centers for spiritual learning. These institutions focused on religious and intellectual studies, with subjects like logic, philosophy, and mathematics being studied to confirm the doctrines of Islam. The goal of all knowledge, especially spiritual sciences, was to gain knowledge of God, which was directly influenced by the religious context of the Ottoman Empire.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#155
+Q: How many Russians troops were sent to the Bosphorus shores?
+Gold: 10 000
+Answer: Based on the information provided, the context does not specify the exact number of Russian troops that were sent to the Bosphorus shores in 1833. It only mentions that Russian army corps landed there, but the specific troop count is not detailed.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#156
+Q: Whose name was added to the name for every town or city with historical signiciance from the World War II period?
+Gold: Tito's
+Answer: During World War II, several cities, including Titograd, were renamed to include Tito's name due to his historical significance. Titograd, which is now known as Podgorica, was one of the cities that underwent such a renaming.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#157
+Q: What year did East Prussia become an official province of Russia?
+Gold: 1946
+Answer: Based on the information provided in the context, there is no specific year mentioned for when East Prussia became an official province of Russia. The context does not contain explicit details regarding the annexation of East Prussia by Russia. Therefore, I do not have enough information to provide a precise answer to your query.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#158
+Q: Where did Queen record their 1982 album?
+Gold: Munich
+Answer: Queen recorded most of their 1982 album, Hot Space, in Munich. This information is directly supported by the knowledge graph data, which states that "Most of the album Hot Space was recorded in Munich."
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#159
+Q: When did a huge deficit and rising inflation place pressure on Estonia's currency?
+Gold: 2007
+Answer: A significant current account deficit and rising inflation placed pressure on Estonia's currency in 2007. The current account deficit, combined with the rising inflation, created economic pressures that affected Estonia's currency stability. Specifically, the rising inflation in 2007 put particular pressure on Estonia's currency, as it was pegged to the Euro (Reference [1]).
+
+### References
+
+- [1] Document Title: Economic Pressures in Estonia: 2007 Inflation and Currency Peg to the Euro
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#160
+Q: In what year did Pope Julius die?
+Gold: 352
+Answer: According to the information provided, Pope Julius died in April 352. This date is not explicitly stated in the document chunks, but it is mentioned in the knowledge graph data.
+
+### References
+
+- [1] Pope Julius was the Pope who died in April 352.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#161
+Q: When was Nazi Germany in a one-party system?
+Gold: 1934 and 1945
+Answer: Nazi Germany operated as a one-party system between 1934 and 1945. During this period, the Nazi Party held effective power, with other political parties being suppressed.
+
+### References
+
+- [1] Nazi Germany is an example of a one-party system during the period between 1934 and 1945.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#162
+Q: What do six of the questions asses?
+Gold: sexual attraction
+Answer: Six of the questions in the SASO (Sexual Attraction and Sexual Orientation Scale) assess sexual attraction. Specifically, the SASO is designed to measure various aspects of sexual orientation, including sexual attraction, alongside sexual behavior, sexual orientation identity, and heterosexuality and homosexuality.
+
+### References
+
+- [1] SASO: Sexual Attraction and Sexual Orientation Scale
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#163
+Q: What group was responsible for recognizing Paul Vi's miracle?
+Gold: Congregation for the Causes of Saints
+Answer: The recognition of the miracle attributed to the late pontiff, Paul VI, was confirmed by consulting Vatican theologians. These theologians evaluated the case and recognized the miracle, which is a crucial step in the process of canonization.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#164
+Q: Who supposedly had a vison of Saint Peter on the River Thames?
+Gold: Aldrich
+Answer: Aldrich, a young fisherman, reportedly saw a vision of Saint Peter near the River Thames. This vision occurred close to the site of the abbey.
+
+### References
+
+- [1] Aldrich: A young fisherman who saw a vision of Saint Peter near the site of the abbey on the River Thames.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#165
+Q: What US Secretary of Defense accepted resignations of top US Air Force officials in June of 2009?
+Gold: Robert Gates
+Answer: Robert Gates, the Secretary of Defense at the time, accepted the resignations of several high-ranking officials, including T. Michael Moseley, the Chief of Staff of the Air Force, and Michael Wynne, the Secretary of the Air Force, in response to the 2007 United States Air Force Nuclear Weapons Incident.
+
+### References
+
+- [1] 2007 United States Air Force Nuclear Weapons Incident
+- [2] Robert Gates
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#166
+Q: Which disciple is known as "the Disciple whom Jesus loved?"
+Gold: John the Evangelist
+Answer: The Disciple whom Jesus loved is identified as John the Evangelist. According to the Gospel of John, this disciple is mentioned as someone Mary lived with (Reference [1]).
+
+### References
+
+- [1] The Gospel of John
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#167
+Q: What service was able to search and play youtube videos as of 2008?
+Gold: TiVo
+Answer: As of 2008, TiVo was the service that received an update to allow searching and playing YouTube videos. This update was implemented in July 2008, enabling TiVo users to access YouTube content directly through the TiVo service.
+
+### References
+
+- [1] TiVo is a service that received an update in July 2008 to allow searching and playing YouTube videos.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#168
+Q: What do other Western dialects sometimes  offer?
+Gold: further reduction
+Answer: The term "Western dialects" is somewhat ambiguous, but it could refer to various regional or language variants within a specific linguistic family. In the context provided, Western Catalan is mentioned as a dialect of Catalan spoken in the western part of Catalonia. Western Catalan, like other Romance languages, often exhibits certain linguistic features.
+
+One notable feature is the T–V distinction, which is common among Romance languages. This distinction involves the use of different pronouns for formal and informal contexts. For example, Catalan pronouns use different forms for addressing someone formally or informally, similar to how Italian, another Romance language, uses different pronouns in formal and informal situations.
+
+Another feature that some Western dialects might offer is vowel reduction patterns. These patterns can be observed in Western Catalan, which shares vowel reduction patterns with Italian, inherited from Proto-Romance. This means that in certain phonetic environments, vowels might be reduced or shortened, a feature that can be found in various Romance languages.
+
+In the case of Southern Russian Dialects, while they are not Western dialects, they do offer nonstandard features like the fricative [ɣ], which persists in colloquial speech despite the formalization of Standard Russian. This feature, however, is not directly related to the T–V distinction or vowel reduction patterns found in Western Catalan and other Romance languages.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#169
+Q: Which German divisison did MacMahon engage?
+Gold: German 3rd Army
+Answer: General MacMahon engaged with the German 3rd Army during the Battle of Wörth. This engagement was a significant part of the conflict between the French and German armies.
+
+### References
+
+- [1] Battle of Wörth
+- [2] German 3rd Army
+- [3] French Army
+- [4] General MacMahon
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#170
+Q: what is another word for availability of telephone lines?
+Gold: tele-density
+Answer: The availability of telephone lines can also be referred to as the "telecommunication infrastructure" or "telecommunication services" in the context of a region or country. In the specific case of Somalia, Somali telecommunication companies like Hormuud Telecom, Somtel Network, Golis Telecom Group, and others provide services that ensure the availability of telephone lines across the country, making it possible for residents and businesses to communicate effectively.
+
+### References
+
+- [1] Somali Telecommunication Companies
+- [2] Hormuud Telecom
+- [3] Somtel Network
+- [4] Golis Telecom Group
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#171
+Q: Why was NBC criticized over its Olympic coverage?
+Gold: tape delaying events to air in primetime
+Answer: NBC's Olympic Games coverage faced criticism for tape delaying events to air during primetime. This practice led to complaints from viewers who felt they were missing live coverage of important moments in the games.
+
+### References
+
+- [1] NBC's Olympic Games coverage was criticized for tape delaying events to air in primetime.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#172
+Q: How was the Spectre acronym originally written?
+Gold: Spectre
+Answer: The Spectre acronym was originally an abbreviation representing an organization in the James Bond series. After the acquisition of the full copyright film rights, the organization was reimagined as "Spectre," replacing the SPECTRE acronym. This reimagining was part of the settlement involving Danjaq, LLC, which was a sister company of Eon Productions.
+
+### References
+
+- [1] Spectre
+- [2] SPECTRE
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#173
+Q: What were European homes constructed from?
+Gold: wattle and daub
+Answer: During the Georgian period, European homes, particularly those in larger cities or areas where locally available, were constructed from various materials. In America, these homes were often built using wood with clapboards and timber columns. Additionally, brick and stone became more common as building materials in larger cities or regions where they were locally available.
+
+### References
+
+- [1] American Buildings
+- [2] Brick
+- [3] Stone
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#174
+Q: Who crowned Napoleon Emperor?
+Gold: Pope Pius VII
+Answer: Napoleon Bonaparte was crowned Emperor Napoleon I by Pope Pius VII at Notre Dame de Paris. This event was significant in legitimizing Napoleon's rule and establishing his image as a divine leader.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#175
+Q: What does one need to remember about  the date of February 29 in the Julian calendar?
+Gold: February 29 is discounted
+Answer: When dealing with the date of February 29 in the Julian calendar, it is important to remember that this date is discounted when converting to the Gregorian calendar. Specifically, in years that are not leap years according to the Gregorian calendar, February 29 is not recognized, and February 28 is used instead. This adjustment is necessary because the Julian calendar does not accurately account for the length of a solar year, leading to a discrepancy that the Gregorian calendar corrects by omitting certain February 29 dates.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#176
+Q: What was the artificially low limit on bulb life placed by the cartel?
+Gold: 1000 hours
+Answer: In 1924, the cartel agreed to limit the life of bulbs to 1000 hours. This decision was made to maintain control over the market and ensure consistent profits by setting a standard that would limit the longevity of light bulbs.
+
+### References
+
+- [1] Cartel
+- [2] Bulb
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#177
+Q: Who opened the first Chinese-owned department store?
+Gold: Ma Ying Piu
+Answer: The first Chinese-owned department store was opened by Ma Ying Piu, who founded Sincere Department Store in 1900.
+
+### References
+
+- [1] Sincere Department Store
+- [2] Ma Ying Piu
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#178
+Q: When was the UN General Assembly of the International Covenant on Economic, Social and Cultural Rights enacted?
+Gold: 1966
+Answer: The International Covenant on Economic, Social and Cultural Rights was adopted in 1966 by the UN General Assembly. This document aimed to limit child labor and establish certain rights related to economic, social, and cultural matters.
+
+### References
+
+- [1] International Covenant on Economic, Social and Cultural Rights
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#179
+Q: What party was Gorbachev in charge of?
+Gold: Communist
+Answer: Mikhail Gorbachev was in charge of the Communist Party, which he led in seeking support for expanded liberties. The Communist Party was a significant political organization in the Soviet Union, where Gorbachev served as its leader. [1]
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#180
+Q: Who referred to Gaddafi as a populist?
+Gold: Blundy and Lycett
+Answer: The information provided in the context does not contain any direct references to someone referring to Gaddafi as a populist. The knowledge graph and document chunks do not include any statements or analyses that label Gaddafi with this term. Therefore, based on the given context, I cannot provide a specific answer to who referred to Gaddafi as a populist.
+
+If you have additional information or context that could help identify who made such a reference, please provide it, and I will be happy to assist further.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#181
+Q: How is data accessed?
+Gold: by a "database management system" (DBMS)
+Answer: Data access is facilitated through various systems and protocols designed to manage and retrieve information from databases. A Database Management System (DBMS) is a software tool that allows users to interact with one or more databases and manage access to the data. For example, both Oracle [1] and MySQL [2] are popular DBMSs that use the Relational Model to organize and manage data.
+
+### References
+
+- [1] Oracle
+- [2] MySQL
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#182
+Q: What percentage of India's total area is Rajasthan?
+Gold: 10.4%
+Answer: Rajasthan is India's largest state by area, but the exact percentage of India's total area that Rajasthan occupies is not directly provided in the given context. However, it is known that Rajasthan covers a significant portion of the country, particularly in the western region.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#183
+Q: What is an acceptable grounds for divorce for a Jehovah Witness?
+Gold: adultery
+Answer: In the context of Jehovah's Witnesses, a specific type of divorce known as "Scriptural Divorce" may be recognized based on scriptural grounds. According to the teachings of Jehovah's Witnesses, grounds for divorce can include situations such as adultery, physical abuse, or willful non-support, among others. These grounds are interpreted through the lens of biblical teachings and are intended to protect the spiritual well-being of the individuals involved.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#184
+Q: What historian wrote that banks were the single greatest threat to mid-east independence?
+Gold: Eugene Rogan
+Answer: According to the provided context, the statement that "banks from Europe posed a significant threat to the independence of the Middle East" is attributed to a historian. This information is directly stated in the Knowledge Graph Data under the entity "European Banks," which describes the threat banks from Europe posed to the independence of the Middle East.
+
+### References
+
+- [1] European Banks
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#185
+Q: What is used to haul passengers cars?
+Gold: electric locomotives
+Answer: In electric railways, passenger cars are typically hauled by electric locomotives. These locomotives use electric power to transport the passenger cars and their passengers.
+
+### References
+
+- [1] Electric Locomotives
+- [2] Electric Railways
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#186
+Q: Where is the Christial Science Monitor headquarters?
+Gold: Boston
+Answer: The Christian Science Monitor is headquartered in Boston.
+
+### References
+
+- [1] The Christian Science Monitor
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#187
+Q: What does this imply the use an extra group of pronouns for?
+Gold: formality
+Answer: The use of an extra group of pronouns, as seen in the T–V distinction, implies that different sets of second person pronouns are used for formal and informal contexts. This linguistic feature is common among Romance languages, including Catalan, where it helps to convey the level of formality in communication.
+
+In Catalan, for example, the T–V distinction is evident in the use of different pronouns for formal and informal situations. This distinction is a way to show respect or informality, depending on the social context or relationship between the speakers.
+
+### References
+
+- [1] Catalan Pronouns
+- [2] T–V Distinction
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#188
+Q: At what pub did Ronnie Kray kill someone in 1966?
+Gold: The Blind Beggar
+Answer: Ronnie Kray committed a murder at The Blind Beggar pub in Whitechapel in 1966.
+
+### References
+
+- [1] The Blind Beggar
+- [2] Ronnie Kray
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#189
+Q: Napoleon's propaganda plan was aimed at showing him as attempting to bring peace and stability to what country?
+Gold: France
+Answer: Napoleon's propaganda efforts were primarily focused on France, aiming to legitimize his rule and establish his image as a leader who brought peace and stability to the country. His early propaganda efforts highlighted his role as a general in the army, emphasizing his military achievements and his ability to maintain order and security.
+
+### References
+
+- [1] Napoleon, a historical figure known for his use of propaganda to legitimize his rule and establish his image.
+- [2] Napoleon's propaganda efforts were focused on France.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#190
+Q: Why must High-power LEDs be mounted on a heat sink?
+Gold: to allow for heat dissipation
+Answer: High-power LEDs (HP-LEDs) must be mounted on a heat sink to dissipate the heat generated during operation and prevent failure. HP-LEDs are designed to emit a high amount of light and are driven at higher currents than regular LEDs, which increases their heat output. If this heat is not properly managed, it can lead to reduced efficiency, decreased lifespan, and even damage to the LED. The heat sink helps to transfer the heat away from the LED, ensuring optimal performance and longevity.
+
+### References
+
+- [1] HP-LEDs must be mounted on a heat sink to dissipate heat and prevent failure.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#191
+Q: During what event was Legalism abolished?
+Gold: the Cultural Revolution
+Answer: Legalism, a philosophical school of thought that emphasizes strict laws and harsh punishments, was largely abandoned during the Han dynasty, which followed the Qin dynasty where Legalism was the dominant ideology. The Han dynasty, founded by Emperor Gaozu in 202 BC, shifted towards a more lenient and inclusive governance approach, moving away from the harsh legalistic policies of the Qin dynasty.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#192
+Q: Which movie previously had the highest earnings for its first seven days?
+Gold: Harry Potter and the Prisoner of Azkaban
+Answer: The movie that previously held the record for the highest earnings during its first seven days is *Harry Potter and the Prisoner of Azkaban*. This film set a UK record for the highest first-week opening, grossing £23.88 million ($36.9 million) in its first seven days of release.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#193
+Q: Where is the Lost Barrio?
+Gold: just East of downtown
+Answer: Lost Barrio is located East of downtown. This neighborhood is situated in a part of the city that is eastward from the central business district.
+
+### References
+
+- [1] Lost Barrio
+- [2] downtown
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#194
+Q: Instead of using links, how was information found in a relational model?
+Gold: by content
+Answer: In the context of the relational model, information was found through structured and organized data stored in tables. The relational model, proposed by Edgar F. Codd in 1970, introduced a way to manage data using sets of ledger-style tables. Each table represented a relation (or a set of tuples), and the relationships between tables were established through common attributes.
+
+To find information, queries were formulated using a language like SQL (Structured Query Language), which is closely associated with the relational model. SQL allowed users to search for data by content, manipulate data, and perform various operations on the data stored in the relational database.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#195
+Q: In what century was One Thousand and One Nights completed?
+Gold: 14th century
+Answer: One Thousand and One Nights is a compilation of folk tales from Sanskrit, Persian, and Arabian fables, with its origins tracing back to the pre-Islamic period. However, the exact century when it was completed is not clearly defined due to its oral tradition and the gradual accumulation of stories over time. The compilation as we know it today began to take shape in the 14th century, with significant contributions from Persian and Arabic sources. Notably, the French translator Antoine Galland published the first European version of the tales in the early 18th century (1706-1717), which helped to popularize the collection in the Western world.
+
+### References
+
+- [1] Hezār Afsān
+- [2] One Thousand and One Nights
+- [3] Antoine Galland
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#196
+Q: What happened when a tag was made?
+Gold: the other team had to automatically switch their legal wrestler as well
+Answer: In professional wrestling, when a "tag" was made, it referred to the act of switching out a legal wrestler for an illegal one. This action had specific rules and implications. Typically, a wrestler would tag their opponent out of the ring, allowing them to be replaced by a partner who might be hiding in the corner. This switch had to be done quickly and discreetly to avoid disqualification, as the rules of the match dictated that only legal wrestlers could compete. The illegal wrestler would then be allowed to re-enter the match, often with the goal of gaining an advantage or avoiding penalties.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#197
+Q: What is the name of the final studio album from Destiny's Child?
+Gold: Destiny Fulfilled.
+Answer: The final studio album from Destiny's Child is titled "Destiny Fulfilled," released on November 15, 2004.
+
+### References
+
+- [1] Destiny Fulfilled
+- [2] Destiny's Child
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#198
+Q: What is subjective idealism closely related to?
+Gold: Phenomenalism
+Answer: Subjective idealism is closely related to phenomenalism. Phenomenalism is an extreme empiricist theory suggesting that physical objects are reducible to mental experiences. This relationship indicates that both concepts emphasize the role of mental perceptions in understanding reality, although they may differ in their specific formulations and implications.
+
+### References
+
+- [1] Phenomenalism
+- [2] Subjective Idealism
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#199
+Q: What was Canada's date for the switch between analog and digital transmission?
+Gold: August 31, 2011
+Answer: The switch between analog and digital transmission in Canada, which is also the date of CBC's decision not to extend its association with its private affiliates, occurred on August 31, 2011. This transition was a significant event in Canada, coinciding with CBC's strategic decision.
+
+### References
+
+- [1] CBC is a Canadian public broadcaster that has decided not to extend its association with its private affiliates beyond August 31, 2011.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#200
+Q: What does schlacht mean?
+Gold: battle
+Answer: The term "schlacht" is a German word that means "battle" in English. This word has been suggested as a possible origin for the term "szlachta," which refers to the noble class in Poland and Lithuania.
+
+### References
+
+- [1] Schlacht is a German word meaning "battle," also suggested as a possible origin of "szlachta."
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 200
+Processed successfully: 200
+Skipped: 0
+Failed: 0
+Average correctness: 4.0800
+Pass@4.0: 145/200 = 0.7250

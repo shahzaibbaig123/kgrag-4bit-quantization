@@ -1,0 +1,29 @@
+size 200 (5 seeds):
+  nodes  F16=2219  Q4=2123  (Q4/F16=0.957)
+  edges  F16=1694  Q4=1673  (Q4/F16=0.988)
+  node_jaccard=0.552  edge_jaccard=0.226  hub_jaccard@50=0.370
+  mean_degree F16=1.53 Q4=1.58  giant%% F16=0.091 Q4=0.089
+
+size 500 (5 seeds):
+  nodes  F16=5209  Q4=4981  (Q4/F16=0.956)
+  edges  F16=4176  Q4=4056  (Q4/F16=0.971)
+  node_jaccard=0.563  edge_jaccard=0.230  hub_jaccard@50=0.403
+  mean_degree F16=1.60 Q4=1.63  giant%% F16=0.291 Q4=0.285
+
+size 1000 (5 seeds):
+  nodes  F16=9718  Q4=9399  (Q4/F16=0.967)
+  edges  F16=8120  Q4=8091  (Q4/F16=0.997)
+  node_jaccard=0.615  edge_jaccard=0.269  hub_jaccard@50=0.569
+  mean_degree F16=1.67 Q4=1.72  giant%% F16=0.430 Q4=0.428
+
+size 2000 (5 seeds):
+  nodes  F16=17845  Q4=17376  (Q4/F16=0.974)
+  edges  F16=15845  Q4=15796  (Q4/F16=0.997)
+  node_jaccard=0.611  edge_jaccard=0.259  hub_jaccard@50=0.636
+  mean_degree F16=1.78 Q4=1.82  giant%% F16=0.563 Q4=0.568
+
+size 3000 (5 seeds):
+  nodes  F16=24949  Q4=24230  (Q4/F16=0.971)
+  edges  F16=22852  Q4=22795  (Q4/F16=0.997)
+  node_jaccard=0.618  edge_jaccard=0.261  hub_jaccard@50=0.679
+  mean_degree F16=1.83 Q4=1.88  giant%% F16=0.607 Q4=0.624

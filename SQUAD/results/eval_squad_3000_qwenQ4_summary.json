@@ -1,0 +1,63 @@
+{
+  "size": 3000,
+  "model": "qwenQ4",
+  "mode": "hybrid",
+  "top_k": 5,
+  "pass_threshold": 4.0,
+  "per_version": [
+    {
+      "version": 0,
+      "n": 3000,
+      "processed": 3000,
+      "skipped": 0,
+      "failed": 0,
+      "avg": 4.2415,
+      "pass_rate": 0.787,
+      "passed": 2361
+    },
+    {
+      "version": 1,
+      "n": 3000,
+      "processed": 3000,
+      "skipped": 0,
+      "failed": 0,
+      "avg": 4.2476666666666665,
+      "pass_rate": 0.7896666666666666,
+      "passed": 2369
+    },
+    {
+      "version": 2,
+      "n": 3000,
+      "processed": 3000,
+      "skipped": 0,
+      "failed": 0,
+      "avg": 4.212,
+      "pass_rate": 0.776,
+      "passed": 2328
+    },
+    {
+      "version": 3,
+      "n": 3000,
+      "processed": 3000,
+      "skipped": 0,
+      "failed": 0,
+      "avg": 4.2396666666666665,
+      "pass_rate": 0.7846666666666666,
+      "passed": 2354
+    },
+    {
+      "version": 4,
+      "n": 3000,
+      "processed": 3000,
+      "skipped": 0,
+      "failed": 0,
+      "avg": 4.1915,
+      "pass_rate": 0.7753333333333333,
+      "passed": 2326
+    }
+  ],
+  "mean_avg": 4.226466666666665,
+  "std_avg": 0.021361803918833102,
+  "mean_pass_rate": 0.7825333333333333,
+  "std_pass_rate": 0.0058294272636531036
+}

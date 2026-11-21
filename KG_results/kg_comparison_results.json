@@ -1,0 +1,1037 @@
+{
+  "200": {
+    "version": 200,
+    "documents_used_f16": 41,
+    "documents_used_q4": 41,
+    "comparison_name": "200_q4_vs_200_f16",
+    "basic_f16": {
+      "nodes": 440,
+      "edges": 379,
+      "relation_types": 0
+    },
+    "basic_q4": {
+      "nodes": 435,
+      "edges": 369,
+      "relation_types": 0
+    },
+    "degree_f16": {
+      "mean_degree": 1.7227272727272727,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 83
+    },
+    "degree_q4": {
+      "mean_degree": 1.696551724137931,
+      "median_degree": 1.0,
+      "p95_degree": 4.0,
+      "max_degree": 96
+    },
+    "connectivity_f16": {
+      "num_components": 93,
+      "giant_component_size": 306,
+      "giant_component_pct": 0.6954545454545454,
+      "second_component_size": 10
+    },
+    "connectivity_q4": {
+      "num_components": 91,
+      "giant_component_size": 299,
+      "giant_component_pct": 0.6873563218390805,
+      "second_component_size": 13
+    },
+    "motif_f16": {
+      "triangles": 13
+    },
+    "motif_q4": {
+      "triangles": 17
+    },
+    "hub_overlap_top50": 0.5625,
+    "node_overlap": {
+      "jaccard": 0.5709156193895871,
+      "precision": 0.7310344827586207,
+      "recall": 0.7227272727272728,
+      "only_in_orig": 122,
+      "only_in_quant": 117
+    },
+    "edge_overlap": {
+      "jaccard": 0.34290843806104127,
+      "precision": 0.5176151761517616,
+      "recall": 0.503957783641161
+    },
+    "topological_similarity": {
+      "clustering_coef_diff": 0.007895260589414886,
+      "assortativity_diff": 0.013554155736755169
+    },
+    "top_hubs_f16": [
+      [
+        "Notre Dame",
+        83
+      ],
+      [
+        "University",
+        62
+      ],
+      [
+        "College of Science",
+        13
+      ],
+      [
+        "University of Notre Dame",
+        12
+      ],
+      [
+        "Library System",
+        12
+      ],
+      [
+        "The Review of Politics",
+        11
+      ],
+      [
+        "College of Engineering",
+        10
+      ],
+      [
+        "Main Building",
+        9
+      ],
+      [
+        "Lobund Institute",
+        9
+      ],
+      [
+        "Notre Dame University",
+        9
+      ]
+    ],
+    "top_hubs_q4": [
+      [
+        "Notre Dame",
+        96
+      ],
+      [
+        "University",
+        53
+      ],
+      [
+        "Rev. John J. Cavanaugh, C.S.C.",
+        16
+      ],
+      [
+        "College of Engineering",
+        14
+      ],
+      [
+        "Notre Dame University",
+        14
+      ],
+      [
+        "College of Science",
+        13
+      ],
+      [
+        "Library System",
+        13
+      ],
+      [
+        "The Review of Politics",
+        11
+      ],
+      [
+        "Lobund Institute",
+        9
+      ],
+      [
+        "University of Notre Dame",
+        8
+      ]
+    ],
+    "comprehensive_kg_comparison": {
+      "basic": {
+        "nodes": 440,
+        "edges": 379,
+        "relation_types": 0
+      },
+      "basic_quant": {
+        "nodes": 435,
+        "edges": 369,
+        "relation_types": 0
+      },
+      "connectivity": {
+        "num_components": 93,
+        "giant_component_size": 306,
+        "giant_component_pct": 0.6954545454545454,
+        "second_component_size": 10
+      },
+      "connectivity_quant": {
+        "num_components": 91,
+        "giant_component_size": 299,
+        "giant_component_pct": 0.6873563218390805,
+        "second_component_size": 13
+      },
+      "degree": {
+        "mean_degree": 1.7227272727272727,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 83
+      },
+      "degree_quant": {
+        "mean_degree": 1.696551724137931,
+        "median_degree": 1.0,
+        "p95_degree": 4.0,
+        "max_degree": 96
+      },
+      "node_overlap": {
+        "jaccard": 0.5709156193895871,
+        "precision": 0.7310344827586207,
+        "recall": 0.7227272727272728,
+        "only_in_orig": 122,
+        "only_in_quant": 117
+      },
+      "edge_overlap": {
+        "jaccard": 0.34290843806104127,
+        "precision": 0.5176151761517616,
+        "recall": 0.503957783641161
+      },
+      "hub_overlap_top50": 0.5625,
+      "topology": {
+        "clustering_coef_diff": 0.007895260589414886,
+        "assortativity_diff": 0.013554155736755169
+      }
+    },
+    "semantic_node_overlap": {
+      "semantic_precision": 0.8298850574712644,
+      "semantic_recall": 0.8204545454545454,
+      "matches_count": 361,
+      "threshold_used": 0.85
+    },
+    "degree_plot_path": "KG_results/degree_distribution_200_q4_vs_f16.png"
+  },
+  "500": {
+    "version": 500,
+    "documents_used_f16": 74,
+    "documents_used_q4": 74,
+    "comparison_name": "500_q4_vs_500_f16",
+    "basic_f16": {
+      "nodes": 796,
+      "edges": 671,
+      "relation_types": 0
+    },
+    "basic_q4": {
+      "nodes": 740,
+      "edges": 681,
+      "relation_types": 0
+    },
+    "degree_f16": {
+      "mean_degree": 1.685929648241206,
+      "median_degree": 1.0,
+      "p95_degree": 4.0,
+      "max_degree": 150
+    },
+    "degree_q4": {
+      "mean_degree": 1.8405405405405406,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 110
+    },
+    "connectivity_f16": {
+      "num_components": 178,
+      "giant_component_size": 591,
+      "giant_component_pct": 0.742462311557789,
+      "second_component_size": 5
+    },
+    "connectivity_q4": {
+      "num_components": 127,
+      "giant_component_size": 431,
+      "giant_component_pct": 0.5824324324324325,
+      "second_component_size": 156
+    },
+    "motif_f16": {
+      "triangles": 29
+    },
+    "motif_q4": {
+      "triangles": 40
+    },
+    "hub_overlap_top50": 0.5873015873015873,
+    "node_overlap": {
+      "jaccard": 0.606694560669456,
+      "precision": 0.7837837837837838,
+      "recall": 0.7286432160804021,
+      "only_in_orig": 216,
+      "only_in_quant": 160
+    },
+    "edge_overlap": {
+      "jaccard": 0.34930139720558884,
+      "precision": 0.5139500734214391,
+      "recall": 0.5216095380029806
+    },
+    "topological_similarity": {
+      "clustering_coef_diff": 0.010684528997686817,
+      "assortativity_diff": 0.008627052846393035
+    },
+    "top_hubs_f16": [
+      [
+        "Notre Dame",
+        150
+      ],
+      [
+        "Beyonc\u00e9",
+        105
+      ],
+      [
+        "University",
+        43
+      ],
+      [
+        "University of Notre Dame",
+        40
+      ],
+      [
+        "Notre Dame Alumni",
+        30
+      ],
+      [
+        "Library System",
+        16
+      ],
+      [
+        "Men's Basketball Team",
+        14
+      ],
+      [
+        "Destiny's Child",
+        14
+      ],
+      [
+        "College of Science",
+        13
+      ],
+      [
+        "The Review of Politics",
+        13
+      ]
+    ],
+    "top_hubs_q4": [
+      [
+        "Notre Dame",
+        110
+      ],
+      [
+        "Beyonc\u00e9",
+        92
+      ],
+      [
+        "University",
+        52
+      ],
+      [
+        "Destiny's Child",
+        30
+      ],
+      [
+        "University of Notre Dame",
+        28
+      ],
+      [
+        "Alumni",
+        27
+      ],
+      [
+        "Men's Basketball Team",
+        16
+      ],
+      [
+        "Library System",
+        15
+      ],
+      [
+        "College of Engineering",
+        14
+      ],
+      [
+        "College of Science",
+        13
+      ]
+    ],
+    "comprehensive_kg_comparison": {
+      "basic": {
+        "nodes": 796,
+        "edges": 671,
+        "relation_types": 0
+      },
+      "basic_quant": {
+        "nodes": 740,
+        "edges": 681,
+        "relation_types": 0
+      },
+      "connectivity": {
+        "num_components": 178,
+        "giant_component_size": 591,
+        "giant_component_pct": 0.742462311557789,
+        "second_component_size": 5
+      },
+      "connectivity_quant": {
+        "num_components": 127,
+        "giant_component_size": 431,
+        "giant_component_pct": 0.5824324324324325,
+        "second_component_size": 156
+      },
+      "degree": {
+        "mean_degree": 1.685929648241206,
+        "median_degree": 1.0,
+        "p95_degree": 4.0,
+        "max_degree": 150
+      },
+      "degree_quant": {
+        "mean_degree": 1.8405405405405406,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 110
+      },
+      "node_overlap": {
+        "jaccard": 0.606694560669456,
+        "precision": 0.7837837837837838,
+        "recall": 0.7286432160804021,
+        "only_in_orig": 216,
+        "only_in_quant": 160
+      },
+      "edge_overlap": {
+        "jaccard": 0.34930139720558884,
+        "precision": 0.5139500734214391,
+        "recall": 0.5216095380029806
+      },
+      "hub_overlap_top50": 0.5873015873015873,
+      "topology": {
+        "clustering_coef_diff": 0.010684528997686817,
+        "assortativity_diff": 0.008627052846393035
+      }
+    },
+    "semantic_node_overlap": {
+      "semantic_precision": 0.8608108108108108,
+      "semantic_recall": 0.800251256281407,
+      "matches_count": 637,
+      "threshold_used": 0.85
+    },
+    "degree_plot_path": "KG_results/degree_distribution_500_q4_vs_f16.png"
+  },
+  "2000": {
+    "version": 2000,
+    "documents_used_f16": 266,
+    "documents_used_q4": 266,
+    "comparison_name": "2000_q4_vs_2000_f16",
+    "basic_f16": {
+      "nodes": 2506,
+      "edges": 2284,
+      "relation_types": 0
+    },
+    "basic_q4": {
+      "nodes": 2492,
+      "edges": 2277,
+      "relation_types": 0
+    },
+    "degree_f16": {
+      "mean_degree": 1.8228252194732641,
+      "median_degree": 1.0,
+      "p95_degree": 4.0,
+      "max_degree": 355
+    },
+    "degree_q4": {
+      "mean_degree": 1.8274478330658106,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 332
+    },
+    "connectivity_f16": {
+      "num_components": 432,
+      "giant_component_size": 1836,
+      "giant_component_pct": 0.7326416600159616,
+      "second_component_size": 17
+    },
+    "connectivity_q4": {
+      "num_components": 428,
+      "giant_component_size": 1853,
+      "giant_component_pct": 0.7435794542536116,
+      "second_component_size": 15
+    },
+    "motif_f16": {
+      "triangles": 124
+    },
+    "motif_q4": {
+      "triangles": 110
+    },
+    "hub_overlap_top50": 0.5151515151515151,
+    "node_overlap": {
+      "jaccard": 0.6953867028493894,
+      "precision": 0.8226324237560193,
+      "recall": 0.8180367118914605,
+      "only_in_orig": 456,
+      "only_in_quant": 442
+    },
+    "edge_overlap": {
+      "jaccard": 0.43427672955974844,
+      "precision": 0.6064997804128239,
+      "recall": 0.6046409807355516
+    },
+    "topological_similarity": {
+      "clustering_coef_diff": 0.004744599123545849,
+      "assortativity_diff": 0.02214454357902132
+    },
+    "top_hubs_f16": [
+      [
+        "Beyonc\u00e9",
+        355
+      ],
+      [
+        "Chopin",
+        215
+      ],
+      [
+        "Montana",
+        202
+      ],
+      [
+        "Notre Dame",
+        159
+      ],
+      [
+        "Genocide",
+        52
+      ],
+      [
+        "University",
+        47
+      ],
+      [
+        "Convention",
+        25
+      ],
+      [
+        "Missouri River",
+        24
+      ],
+      [
+        "Antibiotics",
+        21
+      ],
+      [
+        "Notre Dame University",
+        17
+      ]
+    ],
+    "top_hubs_q4": [
+      [
+        "Beyonc\u00e9",
+        332
+      ],
+      [
+        "Chopin",
+        223
+      ],
+      [
+        "Montana",
+        173
+      ],
+      [
+        "Notre Dame",
+        119
+      ],
+      [
+        "University",
+        54
+      ],
+      [
+        "Genocide",
+        48
+      ],
+      [
+        "Alumni",
+        28
+      ],
+      [
+        "Antibiotics",
+        27
+      ],
+      [
+        "Destiny's Child",
+        23
+      ],
+      [
+        "CPPCG",
+        22
+      ]
+    ],
+    "comprehensive_kg_comparison": {
+      "basic": {
+        "nodes": 2506,
+        "edges": 2284,
+        "relation_types": 0
+      },
+      "basic_quant": {
+        "nodes": 2492,
+        "edges": 2277,
+        "relation_types": 0
+      },
+      "connectivity": {
+        "num_components": 432,
+        "giant_component_size": 1836,
+        "giant_component_pct": 0.7326416600159616,
+        "second_component_size": 17
+      },
+      "connectivity_quant": {
+        "num_components": 428,
+        "giant_component_size": 1853,
+        "giant_component_pct": 0.7435794542536116,
+        "second_component_size": 15
+      },
+      "degree": {
+        "mean_degree": 1.8228252194732641,
+        "median_degree": 1.0,
+        "p95_degree": 4.0,
+        "max_degree": 355
+      },
+      "degree_quant": {
+        "mean_degree": 1.8274478330658106,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 332
+      },
+      "node_overlap": {
+        "jaccard": 0.6953867028493894,
+        "precision": 0.8226324237560193,
+        "recall": 0.8180367118914605,
+        "only_in_orig": 456,
+        "only_in_quant": 442
+      },
+      "edge_overlap": {
+        "jaccard": 0.43427672955974844,
+        "precision": 0.6064997804128239,
+        "recall": 0.6046409807355516
+      },
+      "hub_overlap_top50": 0.5151515151515151,
+      "topology": {
+        "clustering_coef_diff": 0.004744599123545849,
+        "assortativity_diff": 0.02214454357902132
+      }
+    },
+    "semantic_node_overlap": {
+      "semantic_precision": 0.8804173354735152,
+      "semantic_recall": 0.8754988028731046,
+      "matches_count": 2194,
+      "threshold_used": 0.85
+    },
+    "degree_plot_path": "KG_results/degree_distribution_2000_q4_vs_f16.png"
+  },
+  "4000": {
+    "version": 4000,
+    "documents_used_f16": 615,
+    "documents_used_q4": 615,
+    "comparison_name": "4000_q4_vs_4000_f16",
+    "basic_f16": {
+      "nodes": 5095,
+      "edges": 4723,
+      "relation_types": 0
+    },
+    "basic_q4": {
+      "nodes": 4938,
+      "edges": 4658,
+      "relation_types": 0
+    },
+    "degree_f16": {
+      "mean_degree": 1.8539744847890087,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 361
+    },
+    "degree_q4": {
+      "mean_degree": 1.8865937626569462,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 349
+    },
+    "connectivity_f16": {
+      "num_components": 1053,
+      "giant_component_size": 3532,
+      "giant_component_pct": 0.6932286555446516,
+      "second_component_size": 13
+    },
+    "connectivity_q4": {
+      "num_components": 912,
+      "giant_component_size": 3590,
+      "giant_component_pct": 0.7270149858242203,
+      "second_component_size": 15
+    },
+    "motif_f16": {
+      "triangles": 351
+    },
+    "motif_q4": {
+      "triangles": 344
+    },
+    "hub_overlap_top50": 0.639344262295082,
+    "node_overlap": {
+      "jaccard": 0.6019479482676033,
+      "precision": 0.7634669906844876,
+      "recall": 0.7399411187438666,
+      "only_in_orig": 1325,
+      "only_in_quant": 1168
+    },
+    "edge_overlap": {
+      "jaccard": 0.3182967959527825,
+      "precision": 0.4862601975096608,
+      "recall": 0.4795680711412238
+    },
+    "topological_similarity": {
+      "clustering_coef_diff": 0.0013909018483362831,
+      "assortativity_diff": 0.013960709728748966
+    },
+    "top_hubs_f16": [
+      [
+        "Beyonc\u00e9",
+        361
+      ],
+      [
+        "Chopin",
+        326
+      ],
+      [
+        "Montana",
+        205
+      ],
+      [
+        "Notre Dame",
+        140
+      ],
+      [
+        "iPod",
+        136
+      ],
+      [
+        "Spectre",
+        97
+      ],
+      [
+        "Apple",
+        65
+      ],
+      [
+        "University",
+        63
+      ],
+      [
+        "Tibet",
+        54
+      ],
+      [
+        "Twilight Princess",
+        54
+      ]
+    ],
+    "top_hubs_q4": [
+      [
+        "Chopin",
+        349
+      ],
+      [
+        "Beyonc\u00e9",
+        332
+      ],
+      [
+        "Montana",
+        173
+      ],
+      [
+        "Notre Dame",
+        119
+      ],
+      [
+        "Spectre",
+        109
+      ],
+      [
+        "iPod",
+        94
+      ],
+      [
+        "Apple",
+        72
+      ],
+      [
+        "University",
+        54
+      ],
+      [
+        "Genocide",
+        48
+      ],
+      [
+        "Tibet",
+        45
+      ]
+    ],
+    "comprehensive_kg_comparison": {
+      "basic": {
+        "nodes": 5095,
+        "edges": 4723,
+        "relation_types": 0
+      },
+      "basic_quant": {
+        "nodes": 4938,
+        "edges": 4658,
+        "relation_types": 0
+      },
+      "connectivity": {
+        "num_components": 1053,
+        "giant_component_size": 3532,
+        "giant_component_pct": 0.6932286555446516,
+        "second_component_size": 13
+      },
+      "connectivity_quant": {
+        "num_components": 912,
+        "giant_component_size": 3590,
+        "giant_component_pct": 0.7270149858242203,
+        "second_component_size": 15
+      },
+      "degree": {
+        "mean_degree": 1.8539744847890087,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 361
+      },
+      "degree_quant": {
+        "mean_degree": 1.8865937626569462,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 349
+      },
+      "node_overlap": {
+        "jaccard": 0.6019479482676033,
+        "precision": 0.7634669906844876,
+        "recall": 0.7399411187438666,
+        "only_in_orig": 1325,
+        "only_in_quant": 1168
+      },
+      "edge_overlap": {
+        "jaccard": 0.3182967959527825,
+        "precision": 0.4862601975096608,
+        "recall": 0.4795680711412238
+      },
+      "hub_overlap_top50": 0.639344262295082,
+      "topology": {
+        "clustering_coef_diff": 0.0013909018483362831,
+        "assortativity_diff": 0.013960709728748966
+      }
+    },
+    "semantic_node_overlap": {
+      "semantic_precision": 0.8592547590117456,
+      "semantic_recall": 0.8327772325809617,
+      "matches_count": 4243,
+      "threshold_used": 0.85
+    },
+    "degree_plot_path": "KG_results/degree_distribution_4000_q4_vs_f16.png"
+  },
+  "8000": {
+    "version": 8000,
+    "documents_used_f16": 1420,
+    "documents_used_q4": 1420,
+    "comparison_name": "8000_q4_vs_8000_f16",
+    "basic_f16": {
+      "nodes": 10617,
+      "edges": 10340,
+      "relation_types": 0
+    },
+    "basic_q4": {
+      "nodes": 10395,
+      "edges": 10444,
+      "relation_types": 0
+    },
+    "degree_f16": {
+      "mean_degree": 1.9478195347084863,
+      "median_degree": 1.0,
+      "p95_degree": 5.0,
+      "max_degree": 350
+    },
+    "degree_q4": {
+      "mean_degree": 2.0094276094276093,
+      "median_degree": 1.0,
+      "p95_degree": 6.0,
+      "max_degree": 363
+    },
+    "connectivity_f16": {
+      "num_components": 1965,
+      "giant_component_size": 7606,
+      "giant_component_pct": 0.7163982292549684,
+      "second_component_size": 23
+    },
+    "connectivity_q4": {
+      "num_components": 1704,
+      "giant_component_size": 7585,
+      "giant_component_pct": 0.7296777296777297,
+      "second_component_size": 30
+    },
+    "motif_f16": {
+      "triangles": 874
+    },
+    "motif_q4": {
+      "triangles": 923
+    },
+    "hub_overlap_top50": 0.6949152542372882,
+    "node_overlap": {
+      "jaccard": 0.6210461348557321,
+      "precision": 0.7744107744107744,
+      "recall": 0.7582179523405859,
+      "only_in_orig": 2567,
+      "only_in_quant": 2345
+    },
+    "edge_overlap": {
+      "jaccard": 0.3237373415706006,
+      "precision": 0.48669092301800077,
+      "recall": 0.4915860735009671
+    },
+    "topological_similarity": {
+      "clustering_coef_diff": 0.0027168186094993357,
+      "assortativity_diff": 0.022833769129821546
+    },
+    "top_hubs_f16": [
+      [
+        "Chopin",
+        350
+      ],
+      [
+        "Beyonc\u00e9",
+        343
+      ],
+      [
+        "Portugal",
+        315
+      ],
+      [
+        "New York City",
+        303
+      ],
+      [
+        "West",
+        276
+      ],
+      [
+        "Montana",
+        242
+      ],
+      [
+        "American Idol",
+        163
+      ],
+      [
+        "iPod",
+        162
+      ],
+      [
+        "New York",
+        145
+      ],
+      [
+        "Notre Dame",
+        136
+      ]
+    ],
+    "top_hubs_q4": [
+      [
+        "Chopin",
+        363
+      ],
+      [
+        "Beyonc\u00e9",
+        358
+      ],
+      [
+        "West",
+        297
+      ],
+      [
+        "New York City",
+        292
+      ],
+      [
+        "Portugal",
+        261
+      ],
+      [
+        "American Idol",
+        159
+      ],
+      [
+        "Montana",
+        158
+      ],
+      [
+        "Spectre",
+        121
+      ],
+      [
+        "Notre Dame",
+        110
+      ],
+      [
+        "Buddhism",
+        108
+      ]
+    ],
+    "comprehensive_kg_comparison": {
+      "basic": {
+        "nodes": 10617,
+        "edges": 10340,
+        "relation_types": 0
+      },
+      "basic_quant": {
+        "nodes": 10395,
+        "edges": 10444,
+        "relation_types": 0
+      },
+      "connectivity": {
+        "num_components": 1965,
+        "giant_component_size": 7606,
+        "giant_component_pct": 0.7163982292549684,
+        "second_component_size": 23
+      },
+      "connectivity_quant": {
+        "num_components": 1704,
+        "giant_component_size": 7585,
+        "giant_component_pct": 0.7296777296777297,
+        "second_component_size": 30
+      },
+      "degree": {
+        "mean_degree": 1.9478195347084863,
+        "median_degree": 1.0,
+        "p95_degree": 5.0,
+        "max_degree": 350
+      },
+      "degree_quant": {
+        "mean_degree": 2.0094276094276093,
+        "median_degree": 1.0,
+        "p95_degree": 6.0,
+        "max_degree": 363
+      },
+      "node_overlap": {
+        "jaccard": 0.6210461348557321,
+        "precision": 0.7744107744107744,
+        "recall": 0.7582179523405859,
+        "only_in_orig": 2567,
+        "only_in_quant": 2345
+      },
+      "edge_overlap": {
+        "jaccard": 0.3237373415706006,
+        "precision": 0.48669092301800077,
+        "recall": 0.4915860735009671
+      },
+      "hub_overlap_top50": 0.6949152542372882,
+      "topology": {
+        "clustering_coef_diff": 0.0027168186094993357,
+        "assortativity_diff": 0.022833769129821546
+      }
+    },
+    "semantic_node_overlap": {
+      "semantic_precision": 0.8687830687830688,
+      "semantic_recall": 0.8506169351040783,
+      "matches_count": 9031,
+      "threshold_used": 0.85
+    },
+    "degree_plot_path": "KG_results/degree_distribution_8000_q4_vs_f16.png"
+  }
+}

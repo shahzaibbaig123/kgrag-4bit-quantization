@@ -1,0 +1,465 @@
+Evaluation: Frozen TriviaQA size=75 (qwenQ4)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b
+
+#1
+Q: Beatrix became queen of which European nation in 1980?
+Gold: The Netherlands
+Answer: The query about Beatrix becoming queen in 1980 does not directly relate to the information provided in the context. The context focuses on various locations, historical events, and entities such as San Pedro Beach in Ambergris Caye, Belize, and the political and historical developments in Europe, Asia, and other regions. There is no specific mention of Beatrix or her becoming queen in 1980.
+
+However, based on general historical knowledge, Beatrix became the Queen of the Netherlands in 1980. She succeeded her mother, Queen Juliana, upon the latter's abdication.
+
+### References
+
+- [1] Netherlands (Amsterdam)
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#2
+Q: What did the Winklevoss twins try to take credit for creating?
+Gold: Facebook
+Answer: The Winklevoss twins, Cameron and Tyler, tried to take credit for creating ConnectU, a social networking website. According to the information provided, in 2004, the Winklevoss brothers sued Facebook founder Mark Zuckerberg, accusing him of stealing their ConnectU idea to create the popular social networking site. This lawsuit ultimately led to a settlement where the Winklevoss brothers received $65 million.
+
+### References
+
+- [1] Winklevoss twins
+- [2] ConnectU
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#3
+Q: Poet W H Auden died in which European city in 1973?
+Gold: Vienna
+Answer: Poet W. H. Auden died in Vienna in 1973. This information is directly supported by the document chunk where it states, "Auden died in Vienna and was buried in Kirchstetten." [1]
+
+### References
+
+- [1] Document Title: W. H. Auden
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: Who claimed to be a direct descendant of King Solomon and the Queen of Sheba, and worked to achieve the independence of Abyssinia?
+Gold: Menelek II
+Answer: Haile Selassie, the Emperor of Ethiopia, claimed direct descent from King Solomon and the Queen of Sheba. He worked to achieve the independence of Abyssinia, which was the historical name for Ethiopia, from Italian colonial rule. Haile Selassie's lineage traced back to the Solomonic Dynasty, which he used to legitimize his rule and connect his reign to a long and prestigious history. His efforts to maintain and eventually achieve the independence of Ethiopia were significant, especially during the Second Italo-Abyssinian War when Italy invaded and occupied the country. Haile Selassie's leadership and advocacy played a crucial role in Ethiopia's struggle for independence and its eventual recognition as a sovereign nation.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#5
+Q: What 2013 film is the highest-grossing animated movie of all-time?
+Gold: Frozen
+Answer: The 2013 film that is the highest-grossing animated movie of all-time is "Frozen". It grossed over $1.2 billion and is the highest-grossing animated film of all time, surpassing other notable animated films like "Toy Story 3" which grossed $1 billion in 2010.
+
+### References
+
+- [1] 2013 in film
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#6
+Q: What is the largest country by land area in Central America?
+Gold: Nicaragua
+Answer: Based on the information provided, Nicaragua is described as a central country in Central America, but there is no explicit mention of it being the largest country by land area in the region. The document does not provide specific land area measurements for each Central American country. Therefore, I cannot definitively state which country is the largest by land area in Central America.
+
+However, we can infer that Nicaragua is one of the larger countries in the region, as it is noted to be the second poorest country in the western hemisphere and has a significant population and diverse geography, including cloud forests and areas suitable for coffee cultivation. For a precise answer, we would need specific land area data for each country in Central America.
+
+### References
+
+- [1] Central America
+- [2] Nicaragua
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#7
+Q: What is missing in the sequence: French Guiana, the Republic of Suriname, and the Bolivarian Republic of Venezuela?
+Gold: The Co-operative Republic of Guyana
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#8
+Q: What is the famous weaponry invention of Israeli army officer Uziel Gal (1923-2002)?
+Gold: Uzi submachine gun
+Answer: Uziel Gal, an Israeli army officer born in 1923 and passed away in 2002, is best known for his invention of the Uzi submachine gun. This firearm was officially adopted by the Israel Defense Forces (IDF) in 1951 and has since become a significant part of the IDF's arsenal. Gal's work on the Uzi submachine gun earned him recognition and awards, including the Israel Security Award, which he was the first recipient of in 1958.
+
+### References
+
+- [1] Uziel Gal
+- [2] Uzi
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#9
+Q: Name the famous naval base and natural port on Oahu island, Hawaii, which featured in the US entry to World War II?
+Gold: Pearl Harbor
+Answer: The famous naval base and natural port on Oahu, Hawaii, which played a crucial role in the United States' entry into World War II, is Pearl Harbor. This location was the site of a surprise attack by the Imperial Japanese Navy on December 7, 1941, which led to the United States declaring war on Japan. Pearl Harbor not only served as a significant naval base but also as a strategic point that shaped the course of World War II.
+
+### References
+
+- [1] Pearl Harbor, a significant location on the island of Oahu where the USS Arizona Memorial is located.
+- [2] Imperial Japan carried out a surprise attack on Pearl Harbor, Oahu on the morning of December 7, 1941, bringing the United States into World War II.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#10
+Q: Which English town or city lies on the rivers, Eden, Caldew, and Petteril?
+Gold: CARLISLE
+Answer: The city of Carlisle lies on the rivers Eden, Caldew, and Petteril. Specifically, the River Caldew flows through the city of Carlisle, and the River Petteril runs through the south-east of Carlisle, dividing the suburbs of Harraby, Upperby, and Botcherby before joining the River Eden on its journey to the Solway Firth. Additionally, the River Eden flows through Carlisle, making Carlisle a town where these three rivers meet.
+
+### References
+
+- [1] River Petteril
+- [2] River Caldew
+- [3] River Eden
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#11
+Q: In which city is the novel and film 'Saturday Night and Sunday Morning' set?
+Gold: NOTTINGHAM
+Answer: The novel and film 'Saturday Night and Sunday Morning' are set in Nottingham. The story revolves around Arthur Seaton, a young machinist working at a factory in Nottingham, who spends his weekends drinking and partying while having an affair with a married woman. This setting is crucial to the narrative, as it provides the backdrop for Arthur's life and the conflicts he faces.
+
+### References
+
+- [1] Saturday Night and Sunday Morning (film)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#12
+Q: In which TV series might Lieutenant Green say Spectrum is green?
+Gold: Captain Scarlet
+Answer: In the 1960s British Supermarionation television series *Captain Scarlet and the Mysterons*, Lieutenant Green might say that Spectrum is green. In this series, Lieutenant Green is described as a fictional character who serves as the personal assistant to Spectrum's commander-in-chief, Colonel White. The color green is mentioned in the context of Lieutenant Green's character, suggesting it could be a reference to Spectrum's color or nature. Additionally, in the 2000s computer-animated remake, *Gerry Anderson's New Captain Scarlet*, Lieutenant Green is re-imagined as an African-American woman, and the original Green is noted as the only black male character to be given a substantial role in a Gerry Anderson series, further emphasizing his unique position within the organization.
+
+### References
+
+- [1] Lieutenant Green
+- [2] Captain Scarlet and the Mysterons
+- [3] Gerry Anderson's New Captain Scarlet
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#13
+Q: Which King was born at Dunfermline Palace in November 1600?
+Gold: Charles I
+Answer: King Charles II was born at Dunfermline Palace in November 1600. According to the information provided, Charles II was the son of King James VI of Scotland and Anne of Denmark, and he was born in Dunfermline Palace, Fife. [1]
+
+### References
+
+- [1] Dunfermline Palace
+- [2] Charles II
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#14
+Q: STS-135, the last planned mission for NASA's space shuttle fleet, launched which shuttle on a 13 day trip to international space station?
+Gold: Atlantis
+Answer: STS-135 was the last planned mission for NASA's space shuttle fleet and was conducted using the Space Shuttle Atlantis. This 13-day mission involved a trip to the International Space Station (ISS).
+
+The mission launched on July 8, 2011, and Atlantis carried the Multi-Purpose Logistics Module (MPLM) Raffaello and a Lightweight Multi-Purpose Carrier (LMC) to the ISS. The primary cargo delivered during this mission included supplies and equipment to provision the space station through 2012, following the end of NASA's space shuttle program.
+
+### References
+
+- [1] STS-135
+- [2] STS-135 (ISS assembly flight ULF7) was the 135th and final mission of the American Space Shuttle program.
+- [3] STS-135 delivered supplies and equipment to the International Space Station (ISS).
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#15
+Q: What mathematical instrument was invented by William Oughtred in 1622?
+Gold: Slide Rule
+Answer: William Oughtred invented the slide rule in 1622. This instrument is used for performing direct multiplication and division, and it was a significant innovation in mathematical computation during Oughtred's time.
+
+### References
+
+- [1] Slide Rule
+- [2] Clavis Mathematicae
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#16
+Q: What is either a type of tree or an expensive ski resort in Colorado?
+Gold: Aspen
+Answer: Based on the information provided, there is no explicit mention of a type of tree or an expensive ski resort in Colorado. The context discusses various locations, resources, and facilities but does not specify a particular expensive ski resort in Colorado or a type of tree.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#17
+Q: "Who played headmistress Miss Fritton and her brother in the 2007 film 'St. Trinians""?"
+Gold: Rupert Everett
+Answer: In the 2007 film "St. Trinians," Alastair Sim played the role of headmistress Miss Fritton. Additionally, Sim also portrayed his brother, who took on the role of the headmistress in the first two films. This dual role highlights the comedic and eccentric nature of Miss Fritton's character.
+
+### References
+
+- [1] The Belles of St Trinian's
+- [2] St Trinian's 2: The Legend of Fritton's Gold
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#18
+Q: In which US state was the Harley-Davidson motorcycle company founded
+Gold: Wisconsin
+Answer: Harley-Davidson was founded in the state of Wisconsin.
+
+### References
+
+- [1] Wisconsin
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#19
+Q: Who is currently the Prime Minister of Eire?
+Gold: BRIAN COWEN
+Answer: The current Taoiseach of Ireland, which is the equivalent position to Prime Minister in a parliamentary system, is Enda Kenny, TD. He was appointed on 9 March 2011 and has been serving in this role.
+
+### References
+
+- [1] Enda Kenny, TD
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#20
+Q: Which singer/songwriter wrote the musical ‘9 to 5’?
+Gold: Dolly Parton
+Answer: The musical '9 to 5' was adapted from the film of the same name, and Dolly Parton wrote 20 additional songs for this adaptation. However, it's important to note that the original concept of '9 to 5' as a song was also written by Dolly Parton. Therefore, Dolly Parton is the singer-songwriter who wrote both the original song and the musical adaptation.
+
+### References
+
+- [1] 9 to 5 (Dolly Parton song)
+- [2] 9 to 5 (Musical)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#21
+Q: Nephrology is the study of which organs?
+Gold: Kidneys
+Answer: Nephrology primarily focuses on the study and treatment of the kidneys, which are organs involved in filtering blood, maintaining fluid and electrolyte balance, and producing urine. The kidneys are part of the excretory system, which also includes other organs such as the ureters, bladder, and urethra, each with specific roles in urine production and excretion (Reference: [1]).
+
+### References
+
+- [1] Document Title One
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#22
+Q: Which chemical element, not found as a free element on Earth, has the atomic number 9 and the symbol F?
+Gold: Fluorine
+Answer: The chemical element with the atomic number 9 and the symbol F is Fluorine. Fluorine is a halogen known for its high reactivity and toxicity. It is not found as a free element on Earth due to its reactivity with atmospheric water vapor, which prevents its natural occurrence. Instead, it is found in compounds such as fluorite and fluorapatite.
+
+### References
+
+- [1] Fluorine
+- [2] Elemental Fluorine
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: REM is a term sometimes applied to what?
+Gold: A stage of sleep
+Answer: REM is a term sometimes applied to Rapid Eye Movement (REM) Sleep, a distinct stage of sleep characterized by rapid eye movements, desynchronized brain waves, and increased muscle tone, although most muscles remain paralyzed. REM sleep is crucial for brain development and memory processing, and it is associated with vivid dreaming. This stage typically occurs in the latter half of the sleep cycle and is noted for increased occurrences after learning trials. [1]
+
+### References
+
+- [1] Rapid Eye Movement (REM) Sleep
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: What is the name of the Japanese verse form of 17 syllables arranged in 3 lines?
+Gold: Haiku
+Answer: The Japanese verse form consisting of 17 syllables arranged in 3 lines is known as a haiku. Haiku is traditionally characterized by its 5-7-5 syllable pattern across three lines, making it a concise yet evocative form of poetry often focused on capturing moments of nature and life (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#25
+Q: Which creature is best qualified to serve as a model for the mythical unicorn, having its the main distinguishing characteristic?
+Gold: Rhinoceros
+Answer: The creature that is often cited as a potential model for the mythical unicorn is the Elasmotherium, an extinct rhinoceros species known for its large single horn in the forehead. This horn, similar to the unicorn's single horn, has led to speculation that Elasmotherium could have inspired unicorn depictions (Reference [1]).
+
+### References
+
+- [1] Elasmotherium
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#26
+Q: Who was the lead singer with the group Amen Corner?
+Gold: Andy Fairweather Low
+Answer: Based on the information provided, the lead singer of Amen Corner is not explicitly mentioned. However, Amen Corner was known for their blues and jazz-oriented style, and later for a more commercial sound. The band members included guitarists, a drummer, and a bass player, among others. Notably, Andy Fairweather Low was a guitarist and vocalist who was a member of Amen Corner and later led a new band. Given that Fairweather Low was both a guitarist and vocalist, it is reasonable to infer that he may have been the lead singer. However, without explicit confirmation, this is the most accurate conclusion we can draw from the given data.
+
+### References
+
+- [1] If Paradise Was Half as Nice: The Immediate Anthology includes Amen Corner's Immediate work.
+- [2] Greatest Hits (1977) is an album by Amen Corner.
+- [3] MS023 Amen Corner (If Paradise Is Half As Nice and More Hits) is an album by Amen Corner.
+- [4] Amen Corner appeared as themselves in the 1969 horror film, Scream and Scream Again.
+- [5] Andy Fairweather Low was a guitarist and vocalist who was a member of Amen Corner and later led a new band.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#27
+Q: What position/title comes between apprentice and master craftsman/master tradesman?
+Gold: Journeyman
+Answer: The position that comes between apprentice and master craftsman/master tradesman is the journeyman. In the guild system, a journeyman is a skilled worker who has completed their apprenticeship and is working towards becoming a master craftsman. This intermediate stage involves gaining further experience and often includes supervising apprentices and providing training. The journeyman is considered competent and authorized to work in their field as a fully qualified employee, capable of performing all tasks of their trade and working independently.
+
+### References
+
+- [1] Journeyman
+- [2] Apprentice-Journeyman-Master Model
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#28
+Q: By what common name is Hydrated Magnesium Sulphate better known
+Gold: Epsom salts
+Answer: Hydrated Magnesium Sulphate is better known by the common name **Epsom Salt**.
+
+### References
+
+- [1] Epsom Salt
+- [2] Magnesium Sulfate
+- [3] Epsomite
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#29
+Q: Who won the Women’s Singles at the 2015 Australian Open Tennis Championships?
+Gold: Serena Williams
+Answer: The 2015 Australian Open Men's Singles title was won by Novak Djokovic, who defeated Andy Murray in the final. However, the information provided does not specify who won the Women's Singles title at the 2015 Australian Open. Therefore, based on the given context, I cannot determine the winner of the Women's Singles at the 2015 Australian Open.
+
+### References
+
+- [1] The Australian Open is a prestigious Grand Slam tennis tournament held annually in Melbourne Park. It is one of the four major tennis championships, alongside Wimbledon, the US Open, and the French Open. The tournament features players competing for rankings and points, with several notable winners throughout its history. The Australian Open is known for its hard court surface and the inclusion of wildcard places, which are filled through various competitions. The event has a rich history dating back to 1905, making it a significant and highly regarded part of the tennis calendar. Tie-breaks are played in the final sets of the tournament, adding excitement and drama to the matches.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#30
+Q: On a standard typewriter keyboard, over which number on the top row, is a circumflex positioned?
+Gold: 6
+Answer: On a standard typewriter keyboard, the circumflex (ˆ) is positioned over the number 6 on the top row. This arrangement is consistent with the design of the QWERTY keyboard layout, which was adapted for use on typewriters and remains a standard in many modern keyboards.
+
+### References
+
+- [1] Typewriter
+- [2] QWERTY Keyboard
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#31
+Q: Which famous Netherlands writer and philosopher came to lecture at Oxford in 1498?
+Gold: ERASMUS
+Answer: The information provided does not contain a specific reference to a famous Netherlands writer and philosopher who came to lecture at Oxford in 1498. The knowledge graph mentions Descartes as a famous philosopher associated with the Netherlands, but there is no direct mention of his visit to Oxford in 1498. Given the available data, we do not have enough information to answer the query accurately.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#32
+Q: In which US state will you find 'The Everglades'?
+Gold: Florida
+Answer: None
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#33
+Q: Which European Country's flag is an upside-down version of Monaco's flag?
+Gold: Poland
+Answer: The Polish flag is an upside-down version of Monaco's flag. Monaco's national flag features a horizontal bicolor of red above white, while the Polish flag has a similar design but with white above red.
+
+### References
+
+- [1] Monaco
+- [2] Polish Flag
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#34
+Q: In which sport is Tracey Neville the coach of the England team?
+Gold: NETBALL
+Answer: Tracey Neville has held coaching roles in netball, a sport in which she has made significant contributions. Specifically, she was appointed as the interim coach of the England Netball Team in March 2015.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#35
+Q: The ‘Osborne Bull’ is the unofficial national symbol of which European country?
+Gold: Spain
+Answer: The Osborne Bull is not an official national symbol of any European country. However, it is closely associated with Spain, particularly the region of Andalusia, where the Osborne brand is headquartered in El Puerto de Santa María. The bull is used as a symbol in advertisements for the Osborne brand and is embedded in the Flag of Spain in the manner of a coat of arms, as seen in the "Flag of Spain with Osborne's Bull" artifact (Reference ID: Flag_of_Spain_with_Osborne's_Bull).
+
+### References
+
+- [1] Flag of Spain with Osborne's Bull
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#36
+Q: Who won the Booker Prize twice for his novels 'Oscar and Lucinda' and 'True History of the Kelly Gang'?
+Gold: Peter Carey
+Answer: Peter Carey won the Booker Prize twice, once for his novel "Oscar and Lucinda" in 1988 and again for "True History of the Kelly Gang" in 2001.
+
+### References
+
+- [1] True History of the Kelly Gang is a novel by Peter Carey that won the Booker Prize in 2001.
+- [2] Oscar and Lucinda is a novel by Peter Carey, which won several prestigious awards, including the 1988 Booker Prize.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#37
+Q: Which car manufacturer make the Megane
+Gold: Renault
+Answer: The Renault brand is the manufacturer of the Mégane. Specifically, the Mégane I and Mégane II models were produced by Renault, with variants produced by Renault Colombia and Renault Argentina. Additionally, the Mégane saloon is also manufactured by Renault.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#38
+Q: Which 1993 film is based on the story of the Guildford Four, wrongly accused of a 1974 pub bombing?
+Gold: In The Name Of The Father
+Answer: The 1993 film "In the Name of the Father" is based on the story of the Guildford Four, who were wrongly accused of involvement in the 1974 Guildford pub bombings. This film, an Oscar and Bafta award-nominated drama, depicts their wrongful conviction and subsequent exoneration.
+
+### References
+
+- [1] In the Name of the Father
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#39
+Q: In the NATO phonetic alphabet which month is mentioned?
+Gold: November
+Answer: In the NATO phonetic alphabet, the month **November** is mentioned. November is assigned the phonetic code word "November" and is also correlated with the letter 'N' in the NATO Phonetic Alphabet.
+
+### References
+
+- [1] NATO Phonetic Alphabet
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#40
+Q: In which novel is 'Nick Carroway' the narrator?
+Gold: 'THE GREAT GATSBY'
+Answer: Nick Carraway is the first-person narrator in *The Great Gatsby*. He provides insights into the narrative and its themes, serving as a supporting viewpoint character in the story.
+
+### References
+
+- [1] The Great Gatsby
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#41
+Q: Which animal is the offspring of a male Ass and a mare?
+Gold: MULE
+Answer: The offspring of a male donkey (ass) and a mare (female horse) is a mule. Mules are known for being strong and more easily handled than hinnies, which are the offspring of a female donkey and a male horse.
+
+### References
+
+- [1] Donkey, also known as an ass, is a domesticated member of the horse family, Equidae, with the wild ancestor being the African wild ass. Donkeys are a type of equine, often smaller in size and used for pack work, draught work, and agriculture. They are adapted to marginal desert lands and are known for their braying, large ears, and ability to defend themselves. Donkeys are often used as a beast of burden and are significant in various cultural, religious, and mythological contexts.
+- [2] Mule is the offspring of a male donkey (jack) and a female horse (mare). Mule is a hybrid between a jack and a mare, valued as a working and riding animal.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#42
+Q: Habib Bourguiba became the first President of which North African country in 1957?
+Gold: Tunisia
+Answer: Habib Bourguiba became the first President of Tunisia in 1957. He played a crucial role in Tunisia's independence and modernization, serving as the country's leader from 1956 to 1987. Initially, he served as Prime Minister and later as President, often referred to as the "Supreme Commander" and later as the "President for life." His leadership was marked by significant reforms, including the enactment of the Code of Personal Status, which aimed to modernize and reform Tunisian society.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 42
+Processed successfully: 42
+Skipped: 0
+Failed: 0
+Average correctness: 3.8214
+Pass@4.0: 29/42 = 0.6905

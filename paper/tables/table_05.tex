@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{TriviaQA generalization check (single seed)}
+\label{tab:trivia}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lccccccccc}
+\toprule
+& & \multicolumn{2}{c}{\textbf{Correct.}} & \multicolumn{2}{c}{\textbf{Pass@4}} & & & \multicolumn{2}{c}{\textbf{KG ovl.}} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(lr){9-10}
+\textbf{Docs} & $n$ & F16 & Q4 & F16 & Q4 & $p$ & $d_z$ & exact & sem. \\
+\midrule
+25 & 14 & 2.750 & 3.393 & 0.429 & 0.571 & 0.22 & -0.29 & 0.528 & 0.801 \\
+\rowcolor{gray!10}50 & 28 & 3.179 & 3.804 & 0.500 & 0.643 & 0.12 & -0.30 & 0.592 & 0.841 \\
+75 & 42 & 3.750 & 3.821 & 0.643 & 0.691 & 0.82 & -0.04 & 0.529 & 0.812 \\
+\rowcolor{gray!10}100 & 58 & 4.086 & 3.922 & 0.724 & 0.690 & 0.47 & +0.09 & 0.556 & 0.823 \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.485\textwidth}{\vspace{0.1cm}\textbf{Underpowered by construction}: a single seed and 14--58 questions per size. No size reaches significance and the effect sizes alternate in sign, so this establishes only that a second, harder corpus does not \emph{contradict} the SQuAD result; it cannot confirm it. \emph{Docs} counts indexed Wikipedia articles ($\sim$29 chunks each), not paragraphs. KG overlap columns are exact and semantic node overlap.}
+\end{table}

@@ -1,0 +1,2321 @@
+Evaluation: Frozen SQuAD size=200 v3 (qwenQ4)
+Mode: hybrid
+Top-K: 5
+Judge: gpt-oss-20b-F16_2
+
+#1
+Q: Whom found Wente-style condenser microphones helpful?
+Gold: P. G. A. H. Voigt
+Answer: Wente-style condenser microphones contributed to a 4 to 6 dB midrange brilliance or pre-emphasis in the recording chain, which was beneficial for the overall quality of recordings. While specific individuals or groups are not mentioned in the provided context as directly benefiting from these microphones, it can be inferred that producers, engineers, and recording artists who utilized this technology in their work would have found it helpful for achieving better sound quality.
+
+For instance, producers like West, who worked extensively in the late-1990s and early 2000s, likely benefited from the enhanced midrange brilliance provided by Wente-style condenser microphones in their recording processes.
+
+### References
+
+- [1] Wente-Style Condenser Microphones
+- [2] Recording Chain
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#2
+Q: How many miles was Shima's fleet behind Nishimura?
+Gold: 22
+Answer: Based on the information provided, Shima and Nishimura were long-time rivals and failed to coordinate their plans. However, the exact distance between Shima's fleet and Nishimura's fleet is not specified in the given context. The closest relevant information is that Nishimura's force had to pass through the Surigao Strait to reach the landings at Leyte, but the distance between the two fleets is not mentioned.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#3
+Q: What state-owned organization operates New Delhi's bus transport system?
+Gold: Delhi Transport Corporation (DTC)
+Answer: The state-owned organization that operates New Delhi's bus transport system is the Delhi Transport Corporation (DTC). DTC is known for operating the largest fleet of CNG-fueled buses in the world, which are a significant part of New Delhi's bus transport system.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#4
+Q: What type of aircraft was first used by the Delhi Flying Club after its founding?
+Gold: de Havilland Moth aircraft
+Answer: The Delhi Flying Club, established in 1928, initially used de Havilland Moth aircraft. These aircraft were named Delhi and Roshanara, forming part of the club's early fleet.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#5
+Q: What are some time periods that family communication study looks at?
+Gold: marriage, parenthood or divorce
+Answer: Family communication study often examines specific time periods to understand how communication dynamics evolve within families. These time periods can include:
+
+- **Early Childhood**: This period focuses on the initial interactions between parents and children, setting the foundation for future communication patterns.
+- **Adolescence**: During this stage, family communication often shifts as teenagers develop their own identities and seek independence from their parents.
+- **Adulthood**: This time period includes various stages of adulthood, such as young adulthood, middle adulthood, and later adulthood, each presenting unique communication challenges and opportunities.
+- **Parenthood**: The transition into parenthood and the subsequent phases of parenting, including early parenthood, midlife parenthood, and later life parenthood, are crucial time periods in family communication studies.
+
+These time periods are analyzed to identify how communication behaviors and family dialectics change over the course of a family's life.
+
+### References
+
+- [1] Family Communication Study
+- [2] Time Periods
+- [3] Communication Behaviors
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#6
+Q: In which direction did the French troops who did not surrender head?
+Gold: westward
+Answer: The French troops who did not surrender and retreated westward headed westward. This group of soldiers is referred to as the French Troops in the context provided.
+
+### References
+
+- [1] French Troops
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#7
+Q: Who discovered Hydralazine?
+Gold: researchers at Ciba
+Answer: Hydralazine, the first orally available vasodilator, was discovered and developed by Ciba in 1952. This discovery marked a significant advancement in the treatment of hypertension.
+
+### References
+
+- [1] Ciba is a pharmaceutical company that discovered the first orally available vasodilator, hydralazine, in 1952.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#8
+Q: The largest sector of Greece's economy is what?
+Gold: the service sector
+Answer: The largest sector of Greece's economy is the service sector, which constitutes 85.0% of the country's economy.
+
+### References
+
+- [1] Service Sector
+- [2] Greece
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#9
+Q: What percentage of college-age citizens attend a higher education institution in Portugal?
+Gold: Over 35%
+Answer: According to the data provided, 35% of college-age citizens (20 years old) in Portugal attend higher education institutions. This percentage is consistent with the information given for both Portugal specifically and OECD countries in general.
+
+### References
+
+- [1] 35% of college-age citizens (20 years old) in Portugal attend higher education institutions.
+- [2] 35% of college-age citizens (20 years old) in OECD countries attend higher education institutions.
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#10
+Q: Of what did Lord Altrincham say Elizabeth's speeches resembled?
+Gold: "priggish schoolgirl"
+Answer: Lord Altrincham criticized Elizabeth's speeches in 1957, describing them as "priggish schoolgirl" speeches. This characterization reflects his view that her addresses lacked the gravitas and maturity expected from a monarch.
+
+### References
+
+- [1] Lord Altrincham is a figure who criticized Elizabeth's speeches in 1957, calling them "priggish schoolgirl".
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#11
+Q: What is a symptom of LED failure?
+Gold: loss of efficiency
+Answer: A symptom of LED failure can be the sudden stoppage of functioning, which is referred to as a sudden failure. Additionally, LEDs may experience a gradual lowering of light output over time, which is a measure known as light output. These issues can lead to a variety of symptoms in devices that use LEDs, such as the Nintendo Entertainment System (NES).
+
+### References
+
+- [1] Sudden Failures
+- [2] Light Output
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#12
+Q: About how many public schools are there in New York City?
+Gold: 1,700
+Answer: The New York City Public Schools system operates over 1,700 separate primary and secondary schools, serving a large number of students.
+
+### References
+
+- [1] New York City Public Schools System
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#13
+Q: Who released 7" microgrooved records in the 1950s?
+Gold: Bell Records
+Answer: In the 1950s, Bell Records released 7" microgrooved records at 78 rpm. These records were part of Bell Records' budget pricing strategy, making high-quality audio more accessible to a broader audience.
+
+### References
+
+- [1] Bell Records
+- [2] microgroove records
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#14
+Q: What biblical passage was the name Jehovah's witnesses based on?
+Gold: Isaiah 43:10
+Answer: The name "Jehovah's Witnesses" was based on the biblical verse found in Isaiah 43:10, which states: "You are my witnesses," declares the Lord. This verse was used as the basis for the new name introduced by Rutherford for his group of Bible Students.
+
+### References
+
+- [1] Isaiah 43:10
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#15
+Q: The $900 million Forbes said Castro took may only be what of his total assets?
+Gold: a portion
+Answer: According to the information provided, Forbes magazine suggested that Fidel Castro might be the beneficiary of up to $900 million. However, this amount is only mentioned as potentially being controlled by Castro and does not specify what proportion of his total assets it represents. Therefore, the $900 million could be a part of his total assets, but the exact extent of his total wealth is not specified in the given context.
+
+### References
+
+- [1] Forbes magazine published an article suggesting that Fidel Castro is the beneficiary of up to $900 million.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#16
+Q: What state university is located in New Haven?
+Gold: Southern Connecticut State University
+Answer: Southern Connecticut State University is a public university located in New Haven.
+
+### References
+
+- [1] Southern Connecticut State University is located in New Haven.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#17
+Q: How can the performance of a solar chimney be improved?
+Gold: by using glazing and thermal mass materials in a way that mimics greenhouses
+Answer: The performance of a solar chimney can be enhanced through several methods, including the use of glazing, thermal mass materials, and optimizing the design of the vertical shaft.
+
+Glazing, which mimics the effect of a greenhouse, can significantly improve the performance of a solar chimney by reducing heat loss and increasing the temperature difference between the interior and exterior of the building. This enhanced temperature difference creates a stronger updraft, thereby improving the chimney's ability to pull air through the building (Reference [1]).
+
+Thermal mass materials, such as those used in greenhouses, can also be employed to improve the solar chimney's efficiency. These materials absorb and store heat during the day and release it slowly at night, maintaining a more stable temperature within the building. This stabilization helps to maintain a consistent updraft, even when external temperatures fluctuate (Reference [2]).
+
+Additionally, the design of the vertical shaft is crucial for the performance of a solar chimney. By optimizing the size and shape of the shaft, engineers can ensure that the air flow is maximized, leading to better ventilation and improved overall performance (Reference [3]).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#18
+Q: How did the BeiDou system begin transitioning to global coverage?
+Gold: with the first launch of a new-generation of satellites
+Answer: The transition of the BeiDou system to global coverage began through the launch of new-generation satellites. Specifically, the 17th satellite within the new system is part of this transition, contributing to the overall goal of achieving global coverage.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#19
+Q: What type of climate are Benjamin Gunnels's Prime seedless grapes specifically cultivated for?
+Gold: cold
+Answer: Benjamin Gunnels's Prime seedless grapes are specifically cultivated for hardiness and quality in cold climates. This variety is known to thrive in regions with cooler temperatures, such as the northeastern United States and southern Ontario, where the climate conditions are suitable for its growth.
+
+### References
+
+- [1] Benjamin Gunnels's Prime seedless grapes
+- [2] northeastern United States
+- [3] southern Ontario
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#20
+Q: Under US law, what primarily distinguishes treaties, executive agreements, congressional-executive agreements, and sole executive agreements?
+Gold: their method of approval
+Answer: In the United States, treaties, executive agreements, congressional-executive agreements, and sole executive agreements are distinct types of international agreements, each with its own characteristics and requirements for formation and implementation.
+
+### Treaties
+Treaties are formal agreements between nations or entities. In the United States, treaties are a form of international agreement that requires both presidential and congressional approval. Once ratified by the Senate, treaties become part of the federal law and are published as Presidential Decrees in the Federal Register (Reference [1]).
+
+### Executive Agreements
+Executive agreements are another type of agreement in U.S. law. Unlike treaties, executive agreements are made by the President without the need for congressional approval. They are distinct from treaties and congressional-executive agreements and are used to manage international relations (Reference [2]).
+
+### Congressional-Executive Agreements
+Congressional-executive agreements are a type of agreement that requires approval from both the House and the Senate. These agreements are distinct from treaties and executive agreements and are used to manage international relations in a manner that requires legislative oversight (Reference [3]).
+
+### Sole Executive Agreements
+Sole executive agreements are agreements made by the President alone, without the need for congressional approval. These agreements are distinct from treaties and congressional-executive agreements and are used to manage international relations in a manner that does not require legislative oversight (Reference [4]).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#21
+Q: To whom did Chopin reveal in letters which parts of his work were about the singing student he was infatuated with?
+Gold: Tytus Woyciechowski
+Answer: Chopin did not explicitly reveal in letters which parts of his work were about the singing student Konstancja Gładkowska. However, it is known that Konstancja Gładkowska had a significant influence on Chopin's works, as evidenced by the relationship described in the knowledge graph. The influence of Konstancja Gładkowska on Chopin's compositions is reflected in his Preludes (Op. 28) and other works, though the specific parts of these works that were inspired by her are not detailed in the provided context.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#22
+Q: When did the Sweet Adelines change their name to acknowledge their international reach?
+Gold: 1991
+Answer: Sweet Adelines changed its name to Sweet Adelines International in 1991 to acknowledge its international reach. This change reflects the organization's expansion beyond its original focus in the United States.
+
+### References
+
+- [1] Sweet Adelines International is the international version of the women's barbershop organization that was renamed in 1991.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#23
+Q: Mrigavyadha destroys animal instinct in who?
+Gold: human beings
+Answer: Mrigavyadha, symbolized by Mriga (deer) in many Indian languages, is associated with Shiva, the god who represents the destruction of animal instincts in humans. This concept is rooted in Hindu mythology and philosophy, where Shiva is often depicted as the deer hunter, embodying the idea of self-discipline and the control of primal urges.
+
+### References
+
+- [1] Mrigavyadha
+- [2] Shiva
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#24
+Q: what year was house music first used as a genre?
+Gold: 1985
+Answer: House music emerged as a genre in the 1960s, initially serving as a regional catch-all term for dance music and once being synonymous with older disco music. The exact year when house music was first used as a distinct genre is not explicitly stated in the provided context, but it is clear that it began to take shape during this decade.
+
+### References
+
+- [1] House
+- [2] older disco music
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#25
+Q: What two types of education does BYU strive to excel in while combining?
+Gold: religious and secular
+Answer: Brigham Young University (BYU) strives to excel in both religious and secular education, integrating these two types to achieve its mission. This dual focus is central to BYU's identity as a religious institution, as recognized by its leaders. The university aims to assist individuals in their quest for perfection and eternal life, while also providing a comprehensive secular education. This approach ensures that students receive a well-rounded education that combines spiritual and academic pursuits.
+
+### References
+
+- [1] BYU is considered a religious institution by its leaders, focusing on the integration of religious and secular education.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#26
+Q: From what language does Universitas come from?
+Gold: Latin
+Answer: The term "Universitas" comes from Latin. It refers to a general term for a number of persons associated into one body, such as a society, company, community, guild, or corporation. This term was used historically to describe associations of students and teachers that were self-regulating and had collective legal rights.
+
+### References
+
+- [1] Universitas
+- [2] Guilds
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#27
+Q: Where were stone-paste ceramics invented?
+Gold: 9th century Iraq
+Answer: Stone-paste ceramics originated in Iraq in the 9th century. This information is supported by the knowledge that Iraq is mentioned as the location where stone-paste ceramics first appeared.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#28
+Q: In practice the Brazilian president must get the prior approval of what body in order to negotiate and sign a treaty?
+Gold: Congress
+Answer: In practice, the Brazilian President must obtain the prior approval of the Congress in order to negotiate and sign a treaty. According to the Brazilian Federal Constitution, treaties require both presidential and congressional approval before they can be ratified. This ensures that the legislative body has a say in the international agreements that the country enters into.
+
+### References
+
+- [1] Brazilian Federal Constitution
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#29
+Q: How many people died as a result of the fighting betwen Armenia and Azerbaijan?
+Gold: 30,000
+Answer: The exact number of casualties from the conflict between Armenia and Azerbaijan, specifically the Karabakh War, is not explicitly stated in the provided context. The context mentions that the Karabakh War involved significant fighting, but it does not provide specific details on the number of deaths. The conflict resulted in substantial territorial changes and ongoing tensions, but precise casualty figures are not available here.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#30
+Q: Which conquistador from Spain conquered the Aztec Empire?
+Gold: Hernán Cortés
+Answer: Hernán Cortés, a Spanish conquistador, led the conquest of the Aztec Empire. He is known for his successful campaign against the Aztec Empire, where he discovered the cochineal insect and sent the first shipment of cochineal to Spain.
+
+### References
+
+- [1] Hernán Cortés
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#31
+Q: When did Saint Helena change the amount of digits in their phone numbers?
+Gold: 1 October 2013
+Answer: Saint Helena changed the amount of digits in their phone numbers on 1 October 2013. This change increased the number of digits from 4 to 5.
+
+### References
+
+- [1] 1 October 2013
+- [2] Saint Helena
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#32
+Q: Who was the mayor for the city in the late 90s?
+Gold: John DeStefano, Jr
+Answer: In the late 1990s, John DeStefano, Jr. was the mayor of New Haven. He initiated a plan to transform the city into a cultural and arts center during his tenure.
+
+### References
+
+- [1] New Haven
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#33
+Q: What face buttons do SNES controllers have that NES controllers didn't?
+Gold: X and Y
+Answer: The SNES Controller introduced two additional face buttons, labeled "X" and "Y," which were not present on the NES Controller. These extra buttons expanded the functionality and gameplay options available to players.
+
+### References
+
+- [1] SNES Controller
+- [2] NES Controller
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#34
+Q: What was a major Pipil settlement in western El Salvador?
+Gold: Cuzcatlan
+Answer: A major Pipil settlement in western El Salvador was Cuzcatlan. This settlement was known for being a significant center where the Pipil had many settlements. Today, the area continues to be inhabited by descendants of the Pipil and other indigenous peoples, including in towns like Izalco, Panchimalco, Sacacoyo, and Nahuizalco.
+
+### References
+
+- [1] Izalco, Panchimalco, Sacacoyo, Nahuizalco
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#35
+Q: In what year did the king demand ale-sellers post signage on pain of forfeiture?
+Gold: 1393
+Answer: King Richard II mandated the hanging of signs outside alehouses to be visible to inspectors. This requirement was likely enacted during his reign, which spanned from 1377 to 1399. While the exact year is not specified in the provided context, it is clear that this law was in place during his rule.
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#36
+Q: Why were women eventually allowed to serve at sea in the CAF?
+Gold: the Department changed its policies
+Answer: Women were eventually allowed to serve at sea in the Canadian Armed Forces (CAF) as part of a broader expansion of their roles within the military. This change occurred in the 1980s, when women were permitted to serve in various units including military police platoons, army service battalions, and air squadrons. The Department within the CAF reviewed and changed its policies to permit women to serve in these roles, reflecting a broader trend towards greater inclusion and diversity in the military.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#37
+Q: What was the "ugliest street in America" in the 1970s?
+Gold: Speedway Boulevard
+Answer: In the early 1970s, Speedway Boulevard in central Tucson was named the "ugliest street in America" by Life magazine. This designation was made by quoting Tucson Mayor James Corbett, highlighting the street's perceived aesthetic shortcomings at that time.
+
+### References
+
+- [1] Tucson's largest park, Reid Park, is located in midtown and includes Reid Park Zoo and Hi Corbett Field. Speedway Boulevard, a major east-west arterial road in central Tucson, was named the "ugliest street in America" by Life magazine in the early 1970s, quoting Tucson Mayor James Corbett.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#38
+Q: What was the name of Destiny Child's third album?
+Gold: Survivor
+Answer: Destiny's Child's third album was titled *Survivor*, released in May 2001.
+
+### References
+
+- [1] Destiny's Child - Survivor (Album)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#39
+Q: When was the Cork County Cricket Club established?
+Gold: 1874
+Answer: Cork County Cricket Club was formed in 1874.
+
+### References
+
+- [1] Cork County Cricket Club
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#40
+Q: What do environmentalists want enacted?
+Gold: stricter regulations
+Answer: Environmentalists are advocating for the enactment of strict regulations to control the impact of tourism on the natural environment, as proposed by the Antarctic Treaty Parties. These regulations are aimed at protecting the unique ecosystems of Antarctica, ensuring sustainable tourism, and minimizing human impact.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#41
+Q: What does ATC stand for?
+Gold: air traffic control
+Answer: Air Traffic Control (ATC) is a system that manages and controls aircraft traffic, especially at busy airports. This system ensures the safe and efficient operation of aircraft during takeoff, landing, and navigation through designated airspace.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#42
+Q: Data made public who is available to estimate the cost of an incident?
+Gold: the organizations involved
+Answer: The cost of a security breach, often referred to as "serious financial damage," can be estimated based on publicly disclosed data. According to the information provided, the only available data for estimating the cost of security breaches comes from public disclosures. For instance, the 2003 Loss Estimates range from $13 billion (for worms and viruses only) to $226 billion (for all forms of covert attacks), which are derived from public sources.
+
+### References
+
+- [1] 2003 Loss Estimates
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#43
+Q: Which player may not be tackled immediately after they have thrown a pass?
+Gold: quarterback
+Answer: According to the rules of football, the quarterback may not be hit or tackled after having already thrown the ball. This rule ensures that the quarterback has time to move away from the line of scrimmage and avoid injury.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#44
+Q: What graphic belonging to the local lord was sometimes incorporated on the pub sign?
+Gold: the coat of arms
+Answer: Local lords who owned the lands upon which the pub stood sometimes had their heraldry, including their coat of arms, incorporated into pub signs. This practice was a way to honor the local lord and reflect the connection between the pub and the land it stood on.
+
+### References
+
+- [1] Local Lords
+- [2] Pub
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#45
+Q: When was this writing penned?
+Gold: afterlife
+Answer: I understand that you are asking about the time when this writing was created. However, the provided context does not contain any specific information regarding the date or time when the writing was penned. Therefore, I do not have enough information to provide a precise answer.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#46
+Q: Which room is named for visit of Tsar Nicolas I of Russia?
+Gold: 1844 Room
+Answer: The 1844 Room is named and decorated for the State visit of Tsar Nicholas I of Russia.
+
+### References
+
+- [1] 1844 Room
+- [2] State visit of Tsar Nicholas I of Russia
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#47
+Q: How were opportunities limited in the principate for the citizens of Rome?
+Gold: by law
+Answer: During the principate, opportunities for the citizens of Rome were significantly limited, particularly in terms of political and religious roles. The consolidation of priestly and political power in the person of the princeps under the principate led to a reduction in the autonomy and influence of the common citizens. This period marked a shift from the earlier republican era, where political and religious roles were more distributed among various officials and groups.
+
+### References
+
+- [1] Priestly and Political Power
+- [2] Princeps
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#48
+Q: What two fields began to grow apart?
+Gold: architecture and engineering
+Answer: The two fields that began to grow apart are **Biotechnology** and **Information Technology**. Biotechnology is a field within information technology supported by Silicon Alley's entrepreneurship ecosystem, indicating that while they are related, they have distinct areas of focus and development.
+
+### References
+
+- [1] Biotechnology is a field within information technology supported by Silicon Alley's entrepreneurship ecosystem.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#49
+Q: What campaign did she contribute to?
+Gold: Ban Bossy
+Answer: Based on the information provided, there is no specific campaign mentioned or directly linked to any individual in the context. The knowledge graph and document chunks do not contain details about a particular campaign that she (presumably a political candidate) contributed to. Therefore, I cannot provide a definitive answer to your question.
+
+If you have additional context or details about the individual in question, please provide more information so I can assist you better.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#50
+Q: How many days of sunshine does Tucson get each year?
+Gold: over 300
+Answer: The provided context does not contain specific information about the number of days of sunshine Tucson receives each year. The document chunk focuses on the history and naming of Speedway Boulevard in Tucson and does not address climate or weather conditions.
+
+### References
+
+- [1] Tucson's largest park, Reid Park, is located in midtown and includes Reid Park Zoo and Hi Corbett Field. Speedway Boulevard, a major east-west arterial road in central Tucson, was named the "ugliest street in America" by Life magazine in the early 1970s, quoting Tucson Mayor James Corbett.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#51
+Q: When do intestinal microbiota develop?
+Gold: Early life
+Answer: Intestinal microbiota development begins during early life. This critical period is essential for the establishment of the gut microbiota, which is subsequently altered by factors such as antibiotic treatment (STAT) (Reference [1]).
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#52
+Q: What can zinc cause damage to in the nose?
+Gold: nerve receptors
+Answer: Zinc can cause damage to nerve receptors in the nose, leading to anosmia, which is the loss of the sense of smell. This damage can occur due to the interaction of zinc with these receptors, impairing their function.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#53
+Q: Who felt that humanism would surely be a major "religion" today?
+Gold: Ernest Renan
+Answer: Ernest Renan, a French historian and philosopher, believed that pure humanism would be the religion of the future. He expressed this view in his works, emphasizing the importance of humanism over traditional religious dogmas.
+
+### References
+
+- [1] Ernest Renan: "Pure humanism would be the religion of the future."
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#54
+Q: In what year did American air attacks on the Marshalls begin?
+Gold: 1943
+Answer: American air attacks on the Marshalls began in mid-1943. This period marked the start of significant military operations in the Pacific theater of World War II.
+
+### References
+
+- [1] U.S. Attacks
+- [2] Pacific War
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#55
+Q: Intraguild species may try to consume each other because they are?
+Gold: potential competitors
+Answer: Intraguild species may try to consume each other because they are at the same trophic level and are predators of different species. This interaction is known as intraguild predation, which involves both predation and competition. Predators at the same trophic level compete for the same prey, leading to potential conflicts and consumption of competitors.
+
+### References
+
+- [1] Intraguild Predation
+- [2] Competition
+- [3] Predation
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#56
+Q: When did the Arsenal Ladies team become semi-professional?
+Gold: 2002
+Answer: The information provided in the context does not explicitly state when Arsenal Ladies became semi-professional. The details given include the founding year of the team (1987), their affiliation with Arsenal, and their achievements such as winning the FA Women's Premier League, FA Women's Cup, and UEFA Women's Cup. However, there is no mention of the team's status regarding professionalism.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#57
+Q: How is our experience of time at the macro level?
+Gold: not time-reversal invariant
+Answer: Our experience of time at the macro level is characterized by a clear direction from the past to the future, which contrasts with the time-reversal invariance of fundamental physical laws. This directionality is evident in various aspects of our daily lives and can be illustrated through common experiences such as the breaking of glasses.
+
+For instance, when a glass falls and breaks, it does not spontaneously reassemble itself or fly back up onto the table. This non-time-reversal invariant nature of macroscopic processes is a manifestation of the direction of time. The past is the time that has already occurred and is remembered, while the future is the time that has not yet occurred and is not remembered. These distinctions are fundamental to our understanding of time and are rooted in the irreversible processes described by fundamental physical laws.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#58
+Q: Why did the Nicaraguans come to America?
+Gold: political instability during the end of the 1970s and the 1980s
+Answer: Nicaraguans came to America, particularly to the United States, due to political instability and economic collapse in their home country. This migration was significantly influenced by the Contra War, a conflict supported by the United States against the Sandinista government from 1980 to 1988, which further displaced many Nicaraguans (Contra War -> Spanish-Speaking Nicaraguans).
+
+The United States emerged as the primary destination for these migrants, with significant numbers settling in states such as Florida, California, and Texas (Spanish-Speaking Nicaraguans -> United States; California -> United States; Florida -> United States; Texas -> United States). The political unrest and economic challenges in Nicaragua pushed many to seek better opportunities and safety in the United States.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#59
+Q: What was the console's most common problem?
+Gold: blinking red power light
+Answer: The most common problem with the console was the **blinking red power light**. Users attempted various methods to resolve this issue, including **pushing the ZIF up and down repeatedly** and **holding the ZIF down lower than it should have been**. These symptoms often indicated that there were issues with the connection between the lockout chip and the game cartridge, which could be caused by **dirty, aging, and bent connectors**.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#60
+Q: UCL Partners is the largest type of what facility in Europe?
+Gold: academic health science centres
+Answer: UCL Partners is the largest academic health science centre in Europe and is based in London. This means UCL Partners is the largest type of academic health science centre in Europe.
+
+### References
+
+- [1] UCL Partners is the largest academic health science centre in Europe and is based in London.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#61
+Q: What was the name of the purity law that regulated beer in 1516, and is still in use today?
+Gold: Reinheitsgebot
+Answer: The purity law that regulated beer in 1516 and is still in use today is known as the Reinheitsgebot. This law, adopted by William IV, Duke of Bavaria, stipulated that beer could only be made from water, hops, and barley-malt. As of the 21st century, the Reinheitsgebot continues to influence the production of beer in many regions.
+
+### References
+
+- [1] Reinheitsgebot
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#62
+Q: Who was frustrated in Whitehead's books but still interested?
+Gold: Mathews
+Answer: Mathews was frustrated with Whitehead's books but maintained an interest in his thought. This indicates a complex relationship where Mathews found Whitehead's works challenging yet engaging.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#63
+Q: How much value did the U.S. dollar lose between 1965 and 1981?
+Gold: two thirds
+Answer: Between 1965 and 1981, the U.S. dollar lost two-thirds of its value. This period saw significant economic changes, including the impact of stagflation in the 1970s, which contributed to the decline in the dollar's value.
+
+### References
+
+- [1] Inflation
+- [2] Stagflation
+- [3] U.S. Dollar
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#64
+Q: Small missiles were designed that could be mounted on what?
+Gold: armored cars and tank chassis
+Answer: Small missiles were designed to be mounted on armored cars and tank chassis. These adaptations allowed for the integration of missile systems into various military vehicles, enhancing their tactical flexibility and effectiveness.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#65
+Q: What is the purpose of intermetallic phases?
+Gold: to reinforce the crystals internally
+Answer: Intermetallic phases play a significant role in the formation and properties of certain alloys. These phases are initially crystallized as homogeneous structures, contributing to the overall structure and performance of the alloy. Specifically, intermetallic alloys are used to form precipitation hardening alloys, which enhance the strength and durability of materials by precipitating secondary constituents over time. This process leads to a more robust and stable microstructure, making intermetallic phases crucial for applications requiring high strength and resistance to deformation.
+
+### References
+
+- [1] Intermetallic Alloys
+- [2] Homogeneous Phase
+- [3] Intermetallic Alloys
+- [4] Precipitation Hardening Alloys
+Score: 4.5 | Pass: True
+--------------------------------------------------------------------------------
+#66
+Q: In what year did apple release the special U2 model of the iPod?
+Gold: 2006
+Answer: Based on the information provided, the specific year when Apple released the special U2 model of the iPod is not mentioned. The knowledge base indicates that Apple released a special edition of the iPod 5G with U2 signatures, but it does not specify the exact year of this release.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#67
+Q: Who did Victoria stay with in Normandy?
+Gold: King Louis Philippe I
+Answer: Victoria and Albert stayed with King Louis Philippe I at the château d'Eu in Normandy.
+
+### References
+
+- [1] château d'Eu
+- [2] King Louis Philippe I
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#68
+Q: Which type of craft were two astronauts to fly in during Zond?
+Gold: Soyuz 7K-L1
+Answer: During the Circumlunar Program (Zond), two cosmonauts were to fly in a modified Soyuz 7K-L1 spacecraft. This spacecraft was specifically designed for the mission and was a stripped-down version of the standard Soyuz 7K-L1 used in the program.
+
+### References
+
+- [1] Soyuz 7K-L1
+- [2] Circumlunar Program (Zond)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#69
+Q: What is the CIA's main focus?
+Gold: overseas intelligence gathering
+Answer: The Central Intelligence Agency (CIA) is primarily focused on overseas intelligence gathering and limited domestic collection. It serves as the national manager for coordination and deconfliction of HUMINT (human intelligence) activities, which involve gathering information through human sources. Additionally, the CIA's Special Activities Division can exert foreign political influence, further emphasizing its role in international intelligence operations.
+
+### References
+
+- [1] CIA
+- [2] HUMINT
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#70
+Q: After amending the joint agreement, who received the larger portion of Lithuania?
+Gold: Germany
+Answer: After the joint agreement between the German Reich and the Soviet Union, the Soviet Union received the larger portion of Lithuania, except for the "Lithuanian Strip." This transfer of territory occurred as part of the division of Poland and Lithuania between the two powers in 1939.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#71
+Q: What are some of the other terms for zinc?
+Gold: Indian tin, tutanego, calamine, and spinter.
+Answer: Zinc has several alternative terms and names used throughout history and across different languages. Some of these include:
+
+- **Zincum**: Used by Paracelsus, a 16th-century Swiss physician and alchemist.
+- **Tutanego**: Another term used to refer to zinc.
+- **Zinken**: A German term meaning "tooth-like, pointed, or jagged," which describes the appearance of metallic zinc crystals.
+- **Indian Tin**: This term might refer to zinc, possibly due to its properties or origin.
+- **Calamine**: A term used to refer to zinc, often in the context of its use in medical applications.
+- **Spinter**: Also used to refer to zinc.
+
+These terms highlight the diverse nomenclature associated with zinc across different historical and linguistic contexts.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#72
+Q: On what aspects of Vedic did the Vedanta understanding focus?
+Gold: jnana
+Answer: The Vedanta understanding primarily focused on the jnana-driven aspects of the Vedic religion and Upanishads. This includes metaphysical concepts and abstract spirituality, which are central to the Vedanta school. The Upanishads, ancient texts interpreted by Vedanta scholars, played a crucial role in shaping these concepts. The Vedanta school emphasizes practices such as self-knowledge, self-discipline, and meditation, which are integral to its understanding of the Vedic tradition.
+
+### References
+
+- [1] Upanishads
+- [2] Vedanta School
+- [3] Jnana
+- [4] Self-knowledge
+- [5] Meditation
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#73
+Q: Who discovered carbon dioxide or fixed air?
+Gold: chemist Joseph Black
+Answer: Joseph Black, a chemist, is credited with the discovery of carbon dioxide, which he referred to as "fixed air." His work contributed significantly to scientific progress during the Enlightenment.
+
+### References
+
+- [1] Joseph Black
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#74
+Q: What is the biggest ethnic group in Somalia?
+Gold: Somalis
+Answer: The largest ethnic group in Somalia is the Somalis, who constitute approximately 85% of the population. They are traditionally nomadic but are also found in urban areas. Somalis are paternally closely related to other Afro-Asiatic-speaking groups in Northeast Africa.
+
+### References
+
+- [1] Somalia
+- [2] Somalis
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#75
+Q: What political strategy only allowed major parts of of Estonia to be accessed by the Soviets?
+Gold: Militarization
+Answer: The political strategy that allowed major parts of Estonia to be accessed by the Soviets involved the division of Poland and Lithuania by the Soviet Union and Nazi Germany. Specifically, the Soviet Union invaded Poland and divided its territory with Germany, which included parts of Estonia. This division was formalized through the Molotov–Ribbentrop Pact, which included a secret protocol dividing Eastern Europe into spheres of influence.
+
+### References
+
+- [1] The Soviet Union and German Reich issued a joint declaration on 28 September 1939.
+- [2] The Soviet Union invaded Poland and divided its territory with Germany.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#76
+Q: Who did the Macedoniankings claim Mithridates IV descended from?
+Gold: Herakles
+Answer: I apologize, but the information provided in the context does not contain details about the Macedonian kings or Mithridates IV's claimed ancestry. The context focuses on Mithridates VI and his conflicts with Rome, as well as his expansion of the kingdom. There is no mention of Mithridates IV or his claimed lineage.
+
+If you have additional information or context regarding Mithridates IV and his claimed ancestry, please provide it, and I will be happy to assist you further.
+
+### References
+
+* [1] Mithridates VI
+* [2] Mithridatic wars
+* [3] Pontus
+* [4] Rome
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#77
+Q: Why did the use of "African" become an issue?
+Gold: the majority of black people in the United States were native-born
+Answer: The term "African" initially served as a source of pride for Black people, reflecting their heritage and connection to the continent of Africa. However, over time, its usage became problematic, particularly due to its association with repatriation movements and ideologies that sought to return African diaspora individuals to the continent of their ancestors. This shift in connotation led to the term being seen as problematic, as it was often linked to ideas that were not aligned with the experiences and identities of Black people in the United States.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#78
+Q: The technology sector of work in NYC has how many employees in its service?
+Gold: 300,000
+Answer: As of 2014, New York City hosted 300,000 employees in the tech sector.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#79
+Q: When was the George Warren Brown School of Social Work founded?
+Gold: 1925
+Answer: The George Warren Brown School of Social Work was founded in 1925. However, it originated from the School of Social Economy, which dates back to 1909.
+
+### References
+
+- [1] School of Social Economy
+- [2] George Warren Brown School of Social Work
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#80
+Q: What is the longest championship drought in all four of the major North American professional sports leagues?
+Gold: 107 seasons
+Answer: The longest championship drought in all four of the major North American professional sports leagues is that of the Chicago Cubs, which spans 107 seasons. This drought is notably the longest in baseball, basketball, football, and hockey.
+
+### References
+
+- [1] 107 seasons
+- [2] Chicago Cubs
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#81
+Q: How many doctors saw Frédéric by the 3rd of December?
+Gold: Three
+Answer: I do not have enough information to answer how many doctors saw Frédéric by the 3rd of December. The provided context does not contain any details about Frédéric or the number of doctors who attended him on that date.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#82
+Q: What materials were discs made of in 1889-1894?
+Gold: hard rubber
+Answer: In the period from 1889 to 1894, disc records were primarily made from hard rubber. Hard rubber was one of the earliest materials used for making disc records, serving as the initial medium for audio recordings during this era.
+
+### References
+
+- [1] Disc Records
+- [2] Hard Rubber
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#83
+Q: What sport has been gaining steam as more and more women play?
+Gold: gaelic football
+Answer: Camogie, a women's version of hurling, has been gaining popularity in Cork City. This trend reflects the increasing participation of women in various sports, including traditional Irish games.
+
+### References
+
+- [1] Camogie is a women's version of hurling that is gaining popularity in Cork City.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#84
+Q: By what name is the era in the 3rd millennium around 1500 BC known?
+Gold: The Bronze Age
+Answer: The era around 1500 BC is known as the Bronze Age. This period is characterized by the use of bronze and marked significant advancements in agriculture, metallurgy, and the development of early settlements.
+
+### References
+
+- [1] The Bronze Age
+- [2] The Bronze Age
+- [3] The Bronze Age
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#85
+Q: What is the chain guided by in a compensation system that uses chains?
+Gold: a bar mounted between the counterweight railway lines
+Answer: In a compensation system that uses chains, the chain is guided by the sheave. The sheave, which is a wheel with a grooved rim, ensures that the chain operates smoothly within the elevator system. This guidance is crucial for the proper functioning of the compensation system, which balances the weight difference between the elevator cab and the counterweight, thereby reducing the power required to operate the elevator.
+
+### References
+
+- [1] Compensation System
+- [2] Sheave
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#86
+Q: What native tribe lived in the New York area?
+Gold: Lenape
+Answer: The Lenape were a native tribe that lived in the area before the arrival of settlers. They were displaced from the Bronx by settlers in 1643, as indicated by the relationship between the Lenape and the Bronx in the Knowledge Graph Data.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#87
+Q: What type of music did the electric five-string mandolin help popularize?
+Gold: Western Swing music
+Answer: The electric five-string mandolin helped popularize Western Swing music. Tiny Moore, an influential figure in the development of this instrument, played a significant role in promoting the electric five-string mandolin within the context of Western Swing music.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#88
+Q: What is the maximum amount of video a SVCD can properly hold?
+Gold: 100 minutes
+Answer: SVCD (Super Video CD) is a video format with a resolution two-thirds that of DVD and over 2.7 times that of VCD. However, it is usually difficult to fit more than 100 minutes of video onto one SVCD without incurring significant quality loss. Additionally, one CD-R disc can hold up to 60 minutes of standard quality SVCD-format video. This limitation is due to the need to balance video duration with quality, as many hardware players require a minimum video bit rate of 300 to 600 kilobits per second to play the video.
+
+### References
+
+- [1] SVCD
+- [2] CD-R
+- [3] video quality
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#89
+Q: How many U.S. aircrews were lost?
+Gold: 76
+Answer: During the battle in the Marshall Islands, 76 U.S. aircrew members were lost, along with 130 U.S. planes. This information is directly supported by the data provided in the context.
+
+### References
+
+- [1] U.S. Planes
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#90
+Q: Who did not want to participate in the relay as 'caged woman'?
+Gold: Kiran Bedi
+Answer: The information provided does not specify who did not want to participate in a relay as 'caged woman'. The only person mentioned in the context who refused to participate in an event is Kiran Bedi, but there is no mention of her participating in a relay or being referred to as 'caged woman'. Therefore, I do not have enough information to answer your question.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#91
+Q: The successful mixing of dogs with hunting is often given as a primary reason for what?
+Gold: the domestication of the wolf
+Answer: The successful mixing of dogs with hunting is often given as a primary reason for the hypothesis that cooperative hunting was an important factor in wolf domestication. Anthropologists support this hypothesis, suggesting that dogs' robust sense of smell could have been beneficial in hunting, thereby fostering a cooperative relationship that eventually led to domestication.
+
+### References
+
+- [2] A 2004 study provided quantitative support for the hypothesis that cooperative hunting was an important factor in wolf domestication.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#92
+Q: What was the RIBA Library's first address?
+Gold: 9 Conduit Street
+Answer: The RIBA Library's first address was 9 Conduit Street. This location was the original address of the RIBA before they moved to their new location at 66 Portland Place.
+
+### References
+
+- [1] RIBA moved from 9 Conduit Street to 66 Portland Place.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#93
+Q: What branch of gevernment is responsible for ratifing treaties?
+Gold: Senate
+Answer: In Brazil, the ratification of treaties is a responsibility shared between the executive and legislative branches of government. Specifically, the President, as the head of the executive branch, negotiates and signs treaties. However, for a treaty to be officially ratified and incorporated into domestic law, it must be approved by the Congress, which is the legislative body. This process ensures that treaties are subject to the scrutiny and consent of the legislative branch before they can be fully implemented.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#94
+Q: While we call bamboo "wood," what botanical family does it belong to?
+Gold: grass
+Answer: Bamboo, despite being referred to as "wood," belongs to the grass family. This classification is evident from the knowledge that bamboo is a member of the grass family, which is a significant economic plant used in building and construction.
+
+### References
+
+- [1] Bamboo, a member of the grass family, is a significant economic plant used in building and construction.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#95
+Q: MBS and CDO derive their value from?
+Gold: mortgage payments and housing prices
+Answer: Mortgage-backed securities (MBS) and collateralized debt obligations (CDO) derive their value from mortgage payments and housing prices. Specifically, MBS are financial agreements whose value is derived from mortgage payments, while CDOs are financial instruments derived from a pool of debt, including mortgage payments and housing prices.
+
+### References
+
+- [1] Mortgage-Backed Securities
+- [2] Collateralized Debt Obligations
+- [3] Housing Market
+- [4] Housing Prices
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#96
+Q: What are content creation industries focusing on doing to prevent infringement?
+Gold: expanding copyright law to recognize and penalize – as "indirect" infringers – the service providers and software distributors
+Answer: Content creation industries, particularly those that rely heavily on copyright law, are increasingly focusing on expanding the scope of copyright protection to include indirect infringers. This shift aims to hold service providers and software distributors accountable for facilitating or enabling copyright infringement.
+
+### Content Creation Industries' Strategies
+
+1. **Expanding Copyright Law**: Copyright-dependent industries are now focusing on broadening copyright law to recognize and penalize service providers and software distributors as indirect infringers. This approach seeks to hold these entities responsible for any infringement that occurs through their services, even if they do not directly create or distribute the infringing content.
+
+2. **Litigation in Civil Court**: In cases where direct negotiation fails, content creators may resort to litigation in civil court to resolve copyright infringement disputes. This legal process allows them to seek remedies such as injunctions, damages, and other forms of relief.
+
+3. **Notice and Take Down Process**: Content creators may use the Notice and Take Down Process to address copyright infringement by sending a formal notice to service providers requesting the removal of infringing content. This method is often employed to quickly and efficiently address smaller-scale infringements.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#97
+Q: What happens to precipitation hardening alloys after they quenched?
+Gold: harden over time
+Answer: After quenching, precipitation hardening alloys undergo a process where they are cooled quickly to soften them. This initial softening is followed by a period of aging at room temperature, during which the alloys harden over time. This aging process, known as age hardening, allows the alloys to develop increased hardness and strength.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#98
+Q: As a result of her song being used, Suzanne Vega is sometimes referred to as what?
+Gold: The mother of MP3
+Answer: Suzanne Vega is sometimes referred to as the "Mother of MP3" due to her song "Tom's Diner" being used as a test track for the MP3 compression algorithm. This recognition stems from the significant role her music played in the development and testing of this widely-used audio compression format.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#99
+Q: Increased use of what material marked Cubism influence in architecture?
+Gold: glass
+Answer: The increased use of glass marked Cubism's influence in architecture. Cubism influenced the use of glass in modern architecture, which was often employed for its transparency and aesthetic properties, contributing to the innovative designs of the time.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#100
+Q: What is the Permanent Under-Secretary of State for Defence generally known as?
+Gold: Permanent Secretary
+Answer: The Permanent Under-Secretary of State for Defence is generally known as the Permanent Secretary. This individual serves as the senior civil servant at the Ministry of Defence (MoD) and plays a crucial role in supporting the Ministers and Chiefs of the Defence Staff.
+
+### References
+
+- [1] Permanent Under-Secretary of State for Defence
+- [2] Ministry of Defence (MoD)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#101
+Q: Which four people usually met at Fauconnier's studio in 1910?
+Gold: Metzinger, Gleizes, Delaunay and Léger
+Answer: Based on the information provided, Henri le Fauconnier hosted regular meetings of the Salon Cubists at his studio on the Boulevard de Montparnasse. However, the specific four people who usually met there in 1910 are not mentioned in the given context. The Salon Cubists were a group of artists who exhibited regularly at the Salon d'Automne and the Salon des Indépendants in Paris, and their meetings were centered around Fauconnier's studio.
+
+### References
+
+- [1] Boulevard de Montparnasse
+- [2] Henri le Fauconnier
+- [3] Salon Cubists
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#102
+Q: Who maintains the Unicode Standard?
+Gold: Unicode Consortium
+Answer: The Unicode Standard is maintained by the Unicode Consortium. This organization is responsible for developing and maintaining the Unicode standard, which includes the Universal Coded Character Set (UCS) and more than 120,000 characters from various writing systems, such as Arabic and Hebrew.
+
+### References
+
+- [1] The Unicode Standard
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#103
+Q: What medications can also trigger asthma?
+Gold: aspirin and beta blockers
+Answer: Several medications can trigger asthma symptoms in certain individuals. Aspirin and beta blockers are known to be potential triggers for asthma. Aspirin can cause asthma symptoms in some people, particularly those with a history of asthma or nasal polyps [1]. Similarly, beta blockers, which are commonly used to treat high blood pressure and heart conditions, can exacerbate asthma symptoms in some patients [2].
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#104
+Q: What ocean influinces the climate of North Carolinas coastal plain?
+Gold: Atlantic
+Answer: The Atlantic Ocean influences the climate of North Carolina's coastal plain, keeping conditions mild in winter and moderate, although humid, in summer.
+
+### References
+
+- [1] Atlantic Ocean
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#105
+Q: Besides new cotton fibers, what type of fibers can be used to make cotton products?
+Gold: recycled or recovered cotton
+Answer: Besides new cotton fibers, rayon and polyester can be used to make cotton products. Rayon is a fiber that can be blended with cotton to enhance its properties, while polyester is a synthetic fiber that can also be blended with cotton to improve durability and wrinkle resistance.
+
+### References
+
+- [1] Rayon
+- [2] Polyester
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#106
+Q: What rappers were featured in the songs that Kanye produced for Tell 'Em Why U Madd?
+Gold: Ma$e, Raekwon, and Eminem.
+Answer: Based on the information provided, D-Dot, who is West's manager and co-producer, released an alias called The Madd Rapper. West produced songs for D-Dot's alias, which likely includes the album "Tell 'Em Why U Madd." However, the specific rappers featured in these songs are not mentioned in the provided context.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#107
+Q: who started the Detroit techno development?
+Gold: The Electrifying Mojo
+Answer: Detroit techno, a genre of electronic music that originated in Detroit, Michigan, was significantly influenced and pioneered by several key figures. One of the most notable is Juan Atkins, often referred to as one of the "godfathers" of Detroit techno. Atkins, along with Derrick May and Kevin Saunderson, played a crucial role in shaping the sound of Detroit techno in the early 1980s. Their work, including Inner City's "Big Fun," which was one of the earliest hits in the Detroit techno genre, helped establish the foundational elements of the genre.
+
+The Electrifying Mojo, a legendary disc jockey, also played a significant role in the development of Detroit techno through his influential radio program. His broadcasts helped spread the genre's sound and contributed to its growth and recognition.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#108
+Q: What was the name of the first building opened in 1855?
+Gold: Old College
+Answer: Based on the information provided, there is no specific mention of the first building opened in 1855. The document chunks and knowledge graph data do not contain details about any building that was opened in 1855. The 1855 Room was decorated for the visit of Emperor Napoleon III of France, but this does not indicate that it was the first building opened that year.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#109
+Q: Which army definitively defeated Napolean III?
+Gold: the army of the Second Empire
+Answer: The Prussian army definitively defeated Napoleon III during the Franco-Prussian War. The Battle of Wörth, a significant engagement between the French and German armies, showcased the effectiveness of Prussian military tactics and the Chassepot rifle, which outmatched the French infantry. This battle, along with others like the Siege of Metz, contributed to the overall defeat of the Regular French Army.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#110
+Q: The first road that connected Atlantic City to the mainland was completed in what year?
+Gold: 1870
+Answer: The first road connecting Atlantic City to Pleasantville, which is on the mainland, was completed in 1870.
+
+### References
+
+- [1] First Road
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#111
+Q: When can we expect Argo to visit Triton?
+Gold: 2029
+Answer: The Argo mission, proposed to visit Jupiter, Saturn, Neptune, and a Kuiper belt object, is currently in the planning stages. While specific launch and mission timelines are not provided in the context, the mission is designed to investigate Neptune and its largest moon, Triton. Given the current state of planning, it is difficult to determine an exact date for the visit to Triton. However, advancements in technology, such as adaptive optics, have improved our ability to study Neptune, which will likely contribute to the success of the Argo mission when it does occur.
+
+### References
+
+- [1] Flagship Orbital Mission
+- [2] Argo Mission
+- [3] Large Ground-Based Telescopes with Adaptive Optics (AO)
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#112
+Q: How may species have been found to be resistant to DDT?
+Gold: nineteen
+Answer: The knowledge base provided does not contain specific information about species found to be resistant to DDT. The data focuses on the historical use of DDT in fighting malaria, its classification as an organochlorine pesticide, and recent support from the World Health Organization for its use. There is no direct mention of species developing resistance to DDT.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#113
+Q: What percentage of Alaska is maintained by the US federal government?
+Gold: 65%
+Answer: The United States federal government owns and manages a significant portion of Alaska as public lands. However, the exact percentage is not specified in the provided context. According to the information available, the U.S. federal government is responsible for managing public lands in Alaska, which include national forests and national parks. These lands are integral parts of the state's landscape and are managed by organizations such as the United States Bureau of Land Management.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#114
+Q: When was the Taula de Canvi bankrupted?
+Gold: 1613
+Answer: The Taula de Canvi went bankrupt in 1613 due to the financial ruin caused by the expulsion.
+
+### References
+
+- [1] Taula de Canvi
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#115
+Q: Which newspaper reported that only the Chinese could express themselves?
+Gold: Libération
+Answer: The information provided does not specify which newspaper reported that only the Chinese could express themselves. The context mentions that Chinese people were given freedom of expression, contrasting with the demonstrators, but it does not identify any specific newspaper that made this claim.
+
+### References
+
+- [1] An analysis of the evolution of mass media in the US and Europe since World War II noted mixed results from the growth of the Internet: "The digital revolution has been good for freedom of expression [and] information [but] has had mixed effects on freedom of the press": It has disrupted traditional sources of funding, and new forms of Internet journalism have replaced only a tiny fraction of what's been lost.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#116
+Q: Which publication named Beyoncé the Artist of the Decade?
+Gold: The Guardian
+Answer: The publication that named Beyoncé the Artist of the Decade is The Guardian. According to the information provided, Llewyn-Smith, a writer for The Guardian, provided reasons for Beyoncé's selection as Artist of the Decade.
+
+### References
+
+- [1] The Guardian
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#117
+Q: To what gods did Valerian tell the Christians to sacrifice?
+Gold: Rome's traditional
+Answer: According to the information provided, Valerian urged Christians to sacrifice to Rome's traditional gods. This was part of his efforts to suppress Christianity, considering it a subversive cult.
+
+### References
+
+- [1] Rome's Traditional Gods
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#118
+Q: who ran the D.J. International record label?
+Gold: Rocky Jones
+Answer: Rocky Jones ran the D.J. International record label. According to the information provided, Rocky Jones is described as a former club DJ who owned and operated D.J. International.
+
+### References
+
+- [1] Rocky Jones
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#119
+Q: What type of architecture do some consider metaphoric architecture to be a development of?
+Gold: expressionist architecture
+Answer: Some consider Metaphoric Architecture to be a later development of Expressionist Architecture. Metaphoric Architecture, which uses nature as the primary source of inspiration and design, including biomorphism and zoomorphism, is seen as an evolution from the emotional and psychological expression emphasized in Expressionist Architecture.
+
+### References
+
+- [1] Expressionist Architecture
+- [2] Metaphoric Architecture
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#120
+Q: What is Antarctica's ranking among the continents?
+Gold: fifth-largest
+Answer: Antarctica is the southernmost continent and is notably larger than Europe. Specifically, Antarctica is about 1.3 times as large as Europe. This makes Antarctica the fifth-largest continent in terms of area.
+
+### References
+
+- [1] Antarctica
+- [2] Europe
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#121
+Q: In 2009, who named Northwestern as one of the top 10 universities in the country in purchasing renewable energy?
+Gold: Green Power Partnership
+Answer: In 2009, Northwestern was listed as one of the top 10 universities in the country for purchasing energy from renewable sources. This recognition was part of the Green Power Partnership (GPP) program sponsored by the Environmental Protection Agency (EPA), which recognized universities for their commitment to purchasing renewable energy.
+
+### References
+
+- [1] Green Power Partnership (GPP) is a program sponsored by the EPA that recognizes universities for their commitment to purchasing renewable energy.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#122
+Q: What famous Greek author did Athanasius  quote?
+Gold: Homer
+Answer: Athanasius quoted the famous Greek author Demosthenes. According to the knowledge provided, Demosthenes's works are referenced in Athanasius's writings.
+
+### References
+
+- [1] Against the Heathen – On the Incarnation
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#123
+Q: Poppers notion of verisimilitude leaves no place for which kind of probabilities in the evaluation of scientific hypotheses?
+Gold: subjective
+Answer: According to Popper's framework, verisimilitude or "truthlikeness" is a concept developed to measure the objective amount of truth and falsity in scientific theories. Popper's approach is fundamentally critical and falsificationist, meaning that it focuses on the potential for a theory to be falsified rather than its probability or likelihood of being true. Therefore, Popper's notion of verisimilitude leaves no place for subjective probabilities, which are often associated with the likelihood of a hypothesis being true based on current evidence or belief. Instead, it emphasizes the logical content and the potential for falsification as key evaluative criteria.
+
+### References
+
+- [1] Popper, K. (1963). Conjectures and Refutations: The Growth of Scientific Knowledge. London: Routledge.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#124
+Q: What was Cnut's nationality?
+Gold: Danish
+Answer: Cnut was a Danish king, which indicates his nationality was Danish. As a Danish ruler, Cnut played a significant role in the linguistic and cultural exchange between Old Norse and Old English during his reign in England.
+
+### References
+
+- [1] Cnut
+- [2] Danish kings
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#125
+Q: Which German divisison did MacMahon engage?
+Gold: German 3rd Army
+Answer: General MacMahon engaged with the German 3rd Army during the Battle of Wörth. This engagement was a significant part of the conflict between the French and German armies.
+
+### References
+
+- [1] Battle of Wörth
+- [2] German 3rd Army
+- [3] French Army
+- [4] General MacMahon
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#126
+Q: When eth is replaced, what is it replaced by?
+Gold: thorn
+Answer: In the context provided, Eth (ð) is a letter used in Old English and is retained in modern editions. However, the specific replacement for Eth is not mentioned in the given context. Therefore, based on the information available, we cannot determine what Eth is replaced by.
+
+### References
+
+- [1] Eth (ð) is a letter used in Old English and retained in modern editions.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#127
+Q: Greek was crowned the European champions in what event?
+Gold: Euro 2004
+Answer: The Greek national football team was crowned European champions in the UEFA European Championship 2004.
+
+### References
+
+- [1] Euro 2004
+- [2] Greek National Football Team
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#128
+Q: What lead to the architectural changes in Myanmar ?
+Gold: bombed extensively
+Answer: The architectural changes in Myanmar can be attributed to several factors, including historical connections through trade and the influence of emerging scientific knowledge.
+
+Myanmar, with its extensive trade connections, was influenced by cultural exchanges with neighboring regions such as India and Thailand. These interactions likely introduced new architectural styles and techniques, contributing to the evolution of local building practices (Reference [1]).
+
+Additionally, the emergence of new knowledge in scientific fields during the Enlightenment period had a profound impact on architecture. The simplification of building design, influenced by movements like Cubism, and the use of materials appropriate for industrial production, all played roles in shaping modern architectural practices (References [2] and [3]).
+
+### References
+
+- [1] Myanmar, also known as Burma, was a country that experienced extensive bombing during World War II.
+- [2] Cubism is an artistic movement that focuses on the dissolution and reconstitution of three-dimensional forms using simple geometric shapes and without classical perspective.
+- [3] Simplification of Building Design is a method in modern architecture that involves reducing complex forms to simple geometric shapes.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#129
+Q: Insects hatch from what?
+Gold: eggs
+Answer: Insects hatch from eggs. Eggs are the initial stage from which insects emerge as newly hatched insects.
+
+### References
+
+- [1] Eggs
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#130
+Q: How are icebergs formed?
+Gold: As the ice reaches the sea, pieces break off, or calve
+Answer: Icebergs are formed when tidewater glaciers calve ice from their termini. Tidewater glaciers, which are glaciers that terminate in the sea, are found in various locations including Antarctica, Greenland, and Canada. When these glaciers reach the sea, they break off and float away as icebergs. This process is a natural part of the glacier's lifecycle and contributes to the dynamic nature of polar and sub-polar environments.
+
+### References
+
+- [1] Tidewater Glaciers
+- [2] Icebergs
+- [3] Antarctica
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#131
+Q: What two tribes particularly resisted being confined to reservations?
+Gold: the Sioux and Comanche
+Answer: The Comanche and the Sioux are two tribes that particularly resisted being confined to reservations. Both tribes were known for their fierce resistance against such confinement.
+
+- **Comanche**: The Comanche are described as a Native American tribe that fiercely resisted confinement to reservations. [1]
+- **Sioux**: Similarly, the Sioux are noted for their strong opposition to being confined to reservations. [2]
+
+These tribes were kept on reservations by the United States Army, which had a significant role in ending their wars and confining them to reservations. [3]
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#132
+Q: What is the handler responsible for?
+Gold: the movement of aircraft before launching and after recovery
+Answer: The handler is responsible for the movement of aircraft before launching and after recovery. This role ensures that aircraft are properly positioned and prepared for takeoff or safely returned to their designated spots after landing.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#133
+Q: Traditionally, how many Politecnici were there?
+Gold: two
+Answer: Traditionally, there were two Politecnici, each located in one of the two largest industrial cities of the north. These institutions were historically significant as they were technical universities that awarded degrees in engineering.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#134
+Q: What is the main disadvantage of railway electrification?
+Gold: significant capital expenditure
+Answer: The main disadvantage of railway electrification is the significant infrastructure investment required. Railway electrification systems supply electric power to trains and trams without an on-board prime mover or local fuel supply, which necessitates the installation of overhead lines or third rails. This infrastructure investment can be substantial, making the initial setup costly. Additionally, the maintenance of this infrastructure, including the overhead lines and substations, also requires considerable resources.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#135
+Q: What did the movement seek to make the official language of Moldova?
+Gold: Romanian
+Answer: The movement, specifically the Democratic Movement of Moldova, sought to make the Romanian language the official language of Moldova. This was part of their broader goals to promote the cultural and linguistic identity of the Romanian-speaking population in Moldova.
+
+### References
+
+- [1] Democratic Movement of Moldova
+- [2] Romanian Language
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#136
+Q: Who provoked a conflict by crossing the 38th parallel?
+Gold: Korean People's Army
+Answer: The Korean People's Army crossed the 38th Parallel, which initiated the conflict. According to the information provided, the Korean People's Army claims that the Republic of Korea (ROK) troops attacked first, justifying their invasion. However, ROK Troops are accused of attacking first, leading to the KPA's invasion.
+
+### References
+
+- [1] Korean People's Army
+- [2] Republic of Korea
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#137
+Q: Why were game animals introduced by acclimatisation societies?
+Gold: to provide New Zealanders with sport and a hunting resource
+Answer: Acclimatisation societies introduced game animals to New Zealand for sport and hunting purposes. These societies, often associated with Europeans, aimed to establish a variety of game animals in New Zealand to enhance recreational activities and provide resources for hunters. The introduction of these animals was part of a broader effort to transform New Zealand's landscape into a destination for sporting enthusiasts.
+
+### References
+
+- [1] AcclimatisationSocieties
+- [2] Hunters
+- [3] Europeans
+- [4] HuntingCulture
+- [5] NewZealand
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#138
+Q: Which bike path does Highland lead to?
+Gold: Barraza-Aviation Parkway
+Answer: N. Highland Avenue leads to the Barraza-Aviation Parkway bicycle path, which is a bicycle-only path in Tucson accessible via N. Highland Avenue.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#139
+Q: What has caused serious financial damage?
+Gold: security breaches
+Answer: Serious financial damage can be caused by various events, with notable examples including security breaches and natural disasters such as earthquakes. Security breaches result in financial damage, and the only available data is from public disclosures. For instance, significant financial damage can occur due to incidents where sensitive information is compromised, leading to substantial financial losses for affected entities.
+
+Additionally, natural disasters like earthquakes can cause serious financial damage. The earthquake that affected Sichuan Province, for example, resulted in the loss of housing and livestock, and the estimated total damages from this earthquake exceeded US$20 billion. AIR Worldwide provided estimates of insurance losses and total damages from the earthquake, highlighting the significant financial impact of such events.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#140
+Q: As of 2011, what percentage of original Telemundo programming was filmed in Miami?
+Gold: 85
+Answer: Based on the information provided in the context, we do not have specific data on the percentage of original Telemundo programming filmed in Miami as of 2011. The context mentions that Telemundo has its headquarters and production studios in Miami and that Miami is a major television and music production center in the United States. Additionally, it states that talk shows and telenovelas are produced in Miami, and music videos are filmed there. However, there is no direct information about the percentage of original Telemundo programming filmed in Miami.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#141
+Q: Materialism does not define what?
+Gold: how material substance should be characterized.
+Answer: Materialism, as a philosophical stance, does not define immaterial substances or properties. Specifically, the Materialist View, which is frequently assimilated to Physicalism, emphasizes the importance of material substance over immaterial ones. This means that materialism does not provide a definition or explanation for concepts that are not material in nature, such as ideas, consciousness, or other non-physical phenomena.
+
+### References
+
+- [1] Materialist View
+- [2] Physicalism
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#142
+Q: Did everyone agree that Amendment 36 was a good idea?
+Gold: Detractors claimed that this splitting would diminish Colorado's influence in the Electoral College
+Answer: It does not appear that there was universal agreement on Amendment 36. Amendment 36 was a ballot initiative proposed in Colorado to change the state's electoral vote apportionment method. However, since it failed to pass, it suggests that not everyone supported the idea. The specifics of the debate and the reasons for its failure are not detailed in the provided context, but it can be inferred that there were likely differing opinions among the electorate and stakeholders regarding the amendment's merits.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#143
+Q: How much glacial ice is found surrounding the poles?
+Gold: 99%
+Answer: Glacial ice surrounding the poles, particularly in the Polar Regions, is primarily found in the form of Ice Sheets. These Ice Sheets cover vast areas of land, with nearly 98 percent of Antarctica being covered by them. The Ice Sheets in Antarctica and Greenland are a significant component of the Earth's glacial ice, contributing substantially to the polar ice coverage.
+
+### References
+
+- [1] Ice Sheets
+- [2] Continental Glaciers
+- [3] Antarctica
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#144
+Q: When did gas powered street lights became economically available.
+Gold: early 1800s
+Answer: Gas-powered street lights became economically available starting in the early 1800s. This period marked the beginning of widespread use of gas lighting in major cities, making it feasible to power street lights and contributing to cost reductions in lighting.
+
+### References
+
+- [1] Street Lights
+- [2] Gas Lighting
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#145
+Q: When did Menzies resign from Parliament?
+Gold: 26 January 1966
+Answer: Based on the information provided in the context, there is no specific mention of when Menzies resigned from Parliament. The context includes details about Menzies' leadership and his involvement in various elections, such as the 1961 and 1963 elections, but does not provide information about his resignation.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#146
+Q: What was the FIFA  charge that Barcelona violated?
+Gold: footballers aged under 18
+Answer: FC Barcelona violated Art. 19 of the Regulations, which pertains to the transfer of minor players. As a result of this violation, FIFA imposed a ban on the club from buying players for two transfer windows and fined them CHF 450,000. Additionally, FC Barcelona was found to have committed several other concurrent infringements as detailed in Annexe 2 of the Regulations.
+
+### References
+
+- [1] Art. 19 of the Regulations
+- [2] Annexe 2 of the Regulations
+- [3] CHF 450,000
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#147
+Q: What is /b/ representative of, in addition to aspirated and unaspirated consonants?
+Gold: Muddy consonants
+Answer: In addition to aspirated and unaspirated consonants, /b/ is a representative of muddy consonants in Wu Chinese. Muddy consonants are characterized by a phonetic quality known as slack or breathy voice, which distinguishes them from other consonants in the language.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#148
+Q: Gautama buddha taught what Path concept?
+Gold: Noble Eightfold
+Answer: Gautama Buddha is believed to have taught the concept of the Eightfold Path, which is a central doctrine in Buddhism. This path is designed to lead to the cessation of suffering and the attainment of Nirvana. The Eightfold Path consists of right understanding, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#149
+Q: What was the number of internet users in the year 2011?
+Gold: 106,000
+Answer: According to the information provided, the number of internet users in Somalia reached 106,000 in the year 2011.
+
+### References
+
+- [1] An analysis of the evolution of mass media in the US and Europe since World War II noted mixed results from the growth of the Internet: "The digital revolution has been good for freedom of expression [and] information [but] has had mixed effects on freedom of the press": It has disrupted traditional sources of funding, and new forms of Internet journalism have replaced only a tiny fraction of what's been lost."
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#150
+Q: Who created an investigation into whether or not the Soviet-German Pact happened?
+Gold: Mikhail Gorbachev, Alexander Nikolaevich Yakovlev
+Answer: Alexander Nikolaevich Yakovlev headed the commission that investigated the existence of the secret protocol of the Soviet-German Pact.
+
+### References
+
+- [1] Document Title One
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#151
+Q: Who else can perform the manager role?
+Gold: "valet
+Answer: In wrestling, the role of a manager can be performed by various individuals who support and enhance the performance of wrestlers. Notable examples include Paul Heyman and Ernie Roth, both of whom have become major personalities in the wrestling industry through their managerial roles. Additionally, Paul Bearer is another well-known manager who has significantly contributed to the wrestling scene.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#152
+Q: Who used a sample of Czech individuals to determine the frequency of "Monigoloid" "mtDNA lineages"?
+Gold: Boris Arkadievich Malyarchuk
+Answer: Boris Arkadievich Malyarchuk used a sample of Czech individuals to conduct research on Mongoloid mtDNA lineages.
+
+### References
+
+- [1] Boris Arkadievich Malyarchuk
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#153
+Q: What is Neptune's angular diameter range?
+Gold: 2.2 to 2.4 arcseconds
+Answer: Neptune's angular diameter from Earth is relatively small, making it challenging to study visually. The exact range of Neptune's angular diameter is not explicitly stated in the provided context, but it is noted that the first scientifically useful observation of Neptune using adaptive optics was made in Hawaii in 1997, highlighting the importance of advanced telescopic technology in studying this distant planet.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#154
+Q: Heavier artillery systems were typically used for what?
+Gold: most anti-aircraft gunnery
+Answer: Heavier artillery systems were typically used for anti-aircraft gunnery. These systems evolved from standard artillery pieces to specially designed guns with higher performance capabilities, enhancing their effectiveness in targeting aerial threats.
+
+### References
+
+- [1] Artillery Systems
+- [2] Anti-Aircraft Gunnery
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#155
+Q: What did the analysis show mixed results for?
+Gold: growth of the Internet
+Answer: Based on the provided context, there is no specific information about an analysis showing mixed results. The context does not contain any details related to an analysis or its outcomes. Therefore, I do not have enough information to answer your question accurately.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#156
+Q: What major film production company calls London home?
+Gold: Working Title Films
+Answer: Working Title Films, a major film production company, has its headquarters in London. This company is known for producing and distributing a wide range of films, contributing significantly to London's rich film industry.
+
+### References
+
+- [1] Working Title Films
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#157
+Q: What was the name of Sand's novel she published in reference to her situation with Chopin?
+Gold: Lucrezia Floriani
+Answer: Sand published a novel called *Lucrezia Floriani*, which included characters that could be interpreted as herself and Chopin. This novel was published in 1847 and contained uncomplimentary references to Chopin, as he assisted Sand in correcting the printer's galleys.
+
+### References
+
+- [1] Lucrezia Floriani
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#158
+Q: Who was not prepared for the financial crisis in 2007 by lacking a full understanding of the financial system?
+Gold: key policy makers
+Answer: The financial crisis in 2007 highlighted the lack of understanding among various stakeholders regarding the complexities of financial instruments such as mortgage-backed securities (MBS) and collateralized debt obligations (CDO). These financial instruments were derived from mortgage payments and housing prices, making them complex and difficult to value accurately [1].
+
+### References
+
+- [1] Document Title One
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#159
+Q: What has the state of Louisiana done to combat the nutria?
+Gold: initiated a bounty program
+Answer: The state of Louisiana has taken significant steps to address the issue of nutria, which have become invasive and are causing substantial damage to the local ecosystem. Nutria, semi-aquatic rodents native to South America but introduced to other regions, have been identified as a pest by government agencies due to their effects on both the natural environment and agricultural production.
+
+To combat the nutria population, Louisiana has encouraged varmint hunting, making nutria a common target for hunters. This approach helps to reduce the nutria population and mitigate the damage they cause. Additionally, government agencies are actively involved in managing the wildlife population to prevent overpopulation, which is a form of population control.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#160
+Q: What occurs when offspring delay dispersal from their natal group?
+Gold: Cooperative breeding
+Answer: When offspring delay dispersal from their natal group, it often leads to cooperative breeding. Specifically, males are more likely to delay dispersal and remain within the family group to assist in rearing younger kin. This behavior is contrasted with female offspring, who are less likely to stay at home and typically disperse to breed independently or join unrelated groups.
+
+### References
+
+- [1] Cooperative Breeding
+- [2] Female Offspring
+- [3] Natal Group
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#161
+Q: What was the max speed of a Beaufighter?
+Gold: 320 mph (510 km/h)
+Answer: The Bristol Beaufighter, a variant of the Beaufighter, had a maximum speed of approximately 350 miles per hour (563 kilometers per hour) at sea level, according to the development details provided for the Bristol Beaufighter.
+
+### References
+
+- [1] Bristol Beaufighter
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#162
+Q: What is one type of metal which the conducting plates in electrolytic capacitors are commonly made of?
+Gold: aluminum
+Answer: Electrolytic capacitors often use aluminum as one of the metals for their conducting plates. This material is widely employed due to its cost-effectiveness and suitability for the construction of high-capacitance components.
+
+### References
+
+- [1] Aluminum
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#163
+Q: Which contestant was disqualified for lying about his age?
+Gold: Delano Cagnolatti
+Answer: Delano Cagnolatti was a semifinalist who was disqualified for lying to evade the show's age limit. This rule, enforced by the Show Producers, restricts contestant eligibility based on age.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#164
+Q: How many yeshivas are located in New Haven?
+Gold: two
+Answer: Based on the information provided, there are two yeshivas located in New Haven. Yeshivas are a type of Jewish educational institution, and their presence in the city indicates the significant Jewish population and community there.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#165
+Q: What is the most famous immune system disease?
+Gold: AIDS
+Answer: The most famous immune system disease is AIDS. AIDS, or Acquired Immunodeficiency Syndrome, is caused by the Human Immunodeficiency Virus (HIV), which specifically targets and suppresses CD4+ ("helper") T cells, dendritic cells, and macrophages, leading to a severe impairment of the immune system.
+
+### References
+
+- [1] AIDS
+- [2] Human Immunodeficiency Virus (HIV)
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#166
+Q: How many people could be potentially without housing?
+Gold: 11 million
+Answer: According to the information provided, the earthquake could have left up to 11 million people without housing. This upper limit represents the potential number of individuals affected by the disaster.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#167
+Q: What are some animals native to Antarctica?
+Gold: mites, nematodes, penguins, seals and tardigrades
+Answer: Antarctica is home to several unique animal species, including penguins, seals, and tardigrades. These organisms have adapted to the harsh, icy environment of the continent.
+
+- **Penguins**: Penguins are well-known for their distinctive appearance and behavior. They are native to Antarctica and can be found in various species, such as the Emperor and Adélie penguins. These birds are well-adapted to the cold climate and can be seen in large colonies along the coastlines of Antarctica.
+
+- **Seals**: Seals are also native to Antarctica. They include various species such as the Weddell seal and the Crabeater seal. These marine mammals are important components of the Antarctic ecosystem, feeding on fish, squid, and krill.
+
+- **Tardigrades**: Tardigrades, often referred to as water bears, are microscopic animals that can be found in Antarctica. They are known for their ability to survive in extreme conditions, including the vacuum of space and temperatures close to absolute zero.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#168
+Q: What year were women allowed to attend Northwestern University?
+Gold: 1869
+Answer: Women were allowed to attend Northwestern University in 1869, as the institution admitted its first woman student that year. By 1874, the university had graduated its first woman. This milestone reflects the progressive stance of Northwestern University in providing educational opportunities to women during the late 19th century.
+
+### References
+
+- [1] Northwestern University
+- [2] first woman graduate
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#169
+Q: The NW often errs on the side of what type of translation?
+Gold: literal, conservative
+Answer: According to Jason BeDuhn, a Bible scholar and Professor of Religious Studies at Northern Arizona University, the New World Translation (NWT) is considered to be the most accurate among the translations he has studied. This suggests that the NW often errs on the side of a more literal or precise translation, aiming to maintain the original meaning and context of the Biblical texts as closely as possible.
+
+### References
+
+- [1] New World Translation
+- [2] Jason BeDuhn's evaluation of the New World Translation as the most accurate among the translations studied.
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#170
+Q: Whose copyright were news aggregators infringing on?
+Gold: news generators
+Answer: News aggregators may infringe the copyright of News Generators. According to the information provided, the news aggregator service collects and aggregates news content, which could potentially include copyrighted material created by News Generators without proper authorization.
+
+### References
+
+- [1] News Generators
+- [2] News Aggregator Service
+- [3] Copyright Infringement
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#171
+Q: Many towns in what region of Croatia observe the Carnival period?
+Gold: Kvarner
+Answer: Many towns in the Kvarner region of Croatia observe the Carnival period. This celebration is not limited to Kvarner but is observed in various parts of the country as well.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#172
+Q: What is carrying capacity in most circumstances determined by?
+Gold: combination habitat and food availability,
+Answer: Carrying capacity in most circumstances is determined by the availability of food and habitat. The concept of carrying capacity refers to the maximum population size of a species that an environment can sustain indefinitely, given the food, habitat, water, and other necessities available in the environment. Food availability is a critical factor in determining carrying capacity, as it directly influences the ability of a species to survive and reproduce within its habitat.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#173
+Q: When was Antarctica still joined to Australia?
+Gold: end of the Cretaceous
+Answer: Antarctica was connected to Australia during the Cretaceous period. This connection led to the formation of latitudinal currents and influenced the geological history of both continents. The separation of Australia-New Guinea from Antarctica, which included Australia, occurred in the Eocene epoch, marking the end of their continental connection.
+
+### References
+
+- [1] Australia-New Guinea
+- [2] Australia
+- [3] Eocene Epoch
+Score: 3.0 | Pass: False
+--------------------------------------------------------------------------------
+#174
+Q: How large is Nanjing, in miles?
+Gold: 2,548 sq mi
+Answer: Nanjing is a city situated in the heartland of the lower reaches of the Yangtze River, in the Yangtze River Delta. However, the exact size of Nanjing in miles is not provided in the given context. The information available indicates that Nanjing is 300 kilometres west-northwest of Shanghai, 1,200 kilometres southeast of Beijing, and 1,400 kilometres northeast of Chongqing, but these distances refer to its location relative to other cities rather than its size.
+
+### References
+
+- [1] Nanjing
+- [2] Chongqing
+- [3] Nanjing
+- [4] Beijing
+- [5] Shanghai
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#175
+Q: What did Nasser work to put into place in Egypt?
+Gold: social justice
+Answer: Nasser worked to establish a range of policies and reforms in Egypt, focusing on social justice, employment, and improving the lives of ordinary citizens. Here are some of the key initiatives:
+
+- **Social Justice**: Nasser aimed to establish social justice as a prerequisite for liberal democracy, ensuring that the principles of fairness and equality were embedded in the social fabric of Egypt (Reference [1]).
+- **Employment**: Employment conditions improved significantly during Nasser's presidency, providing better opportunities for the working class (Reference [2]).
+- **Working Conditions**: Working conditions were enhanced, making it easier for workers to secure and maintain jobs (Reference [3]).
+- **Education**: Education became more accessible to ordinary citizens, allowing more people to gain knowledge and improve their prospects (Reference [4]).
+- **Feudalistic Influence**: Nasser reduced the influence of feudalistic practices, promoting a more equitable society (Reference [5]).
+- **Jobs and Housing**: Jobs and housing were made accessible to ordinary citizens, addressing the needs of the lower and middle classes (Reference [6]).
+- **Health Services**: Health services were made more accessible, improving the overall health and well-being of the population (Reference [7]).
+- **Social Welfare**: Social welfare programs were established to support ordinary citizens, although poverty remained a significant issue (Reference [8]).
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+- [6] Document Title Six
+- [7] Document Title Seven
+- [8] Document Title Eight
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#176
+Q: Who helped tell the 1992 New York Times story about Feynman?
+Gold: James Gleick
+Answer: The 1992 New York Times story about Feynman was recounted by James Gleick. According to the information provided, Gleick recounts the story of how Murray Gell-Mann described Feynman's problem-solving methods to a student.
+
+### References
+
+- [1] James Gleick recounts the story of how Murray Gell-Mann described Feynman's problem-solving methods.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#177
+Q: What is the name of the library system in Queens?
+Gold: Queens Borough Public Library
+Answer: The library system in Queens is the Queens Borough Public Library, which serves as a public library system and is known for having the second largest collection in the nation.
+
+### References
+
+- [1] Queens Borough Public Library
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#178
+Q: How many men did he have?
+Gold: 924
+Answer: I'm sorry, but your question is unclear. Could you please provide more context or clarify who "he" refers to and how many men you are asking about? Are you referring to a specific person or event from the provided context?
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#179
+Q: On what date did Japan attack Pearl Harbor?
+Gold: 7/8 December 1941
+Answer: The provided context does not contain specific information about the date of Japan's attack on Pearl Harbor. The context mentions that Hawaii, which includes Pearl Harbor, was attacked by Japan during the Pacific War, but it does not provide the exact date of the attack. 
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#180
+Q: What are states not bound by?
+Gold: federal interpretations of state law
+Answer: States in the United States are not bound by treaties and executive agreements that have not been ratified by the Senate or incorporated into domestic law through a Presidential Decree. Specifically, treaties require both presidential and congressional approval to be binding on the United States. Presidential Decrees published in the Federal Register are necessary to incorporate treaties into domestic law in Brazil, as stated in the knowledge base.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 1.0 | Pass: False
+--------------------------------------------------------------------------------
+#181
+Q: How many men did Billaut have when he recaptured the city?
+Gold: 500
+Answer: According to the information provided, Agustín B. Billaut took control of the city of Chihuahua with a force of 500 men when he was ordered to recapture it by Maximilian.
+
+### References
+
+- [1] Document Title One
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#182
+Q: What other Slavic minorities are in Kazakhstan?
+Gold: Ukrainians, Belarusians and Poles
+Answer: Kazakhstan has a significant Slavic minority population, with Russians being the largest group. Other Slavic minorities in Kazakhstan include Ukrainians and Belarusians. These groups originate from the former Soviet states, which include the Russian SFSR, Ukrainian SSR, and Byelorussian SSR.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#183
+Q: What does ein diutscher mean?
+Gold: a German
+Answer: The term "ein diutscher" is a German phrase that translates to "a German" in English. It refers to a person or thing that is from or associated with Germany.
+
+### References
+
+- [1] Germany
+- [2] German
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#184
+Q: What philosophy characterized the Mau resistance?
+Gold: non-violent philosophy
+Answer: The Mau resistance movement, led by High Chief Tupua Tamasese Lealofi, was characterized by a non-violent philosophy. This approach was evident in the peaceful demonstration they organized in downtown Apia, which gained widespread support.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#185
+Q: What year did Estonia establish a flat tax?
+Gold: 1994
+Answer: Estonia adopted a flat tax in 1994 based on Milton Friedman's economic theories. This tax system features a uniform rate of 26% for personal income.
+
+### References
+
+- [1] Constitution of Estonia
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#186
+Q: What may see benefits from the Marshalls joining the International Labour Organization?
+Gold: business conditions
+Answer: The Marshall Islands joining the International Labour Organization (ILO) could bring several benefits, primarily related to ensuring its labor laws comply with international benchmarks. By aligning its labor standards with ILO guidelines, the Marshall Islands can enhance its workforce's rights and working conditions, which are known to have improved during Nasser's presidency. This alignment can also facilitate better international trade relations and attract foreign investment, as countries often prefer to trade with partners that meet certain labor standards.
+
+### References
+
+- [1] The Marshall Islands joined the International Labour Organization, ensuring its labour laws will comply with international benchmarks.
+Score: 4.0 | Pass: True
+--------------------------------------------------------------------------------
+#187
+Q: Where did patent law originate?
+Gold: Venice
+Answer: Patent law originated in Venice in 1447, where it was established to protect the rights of inventors to their inventions. This early legislation aimed to encourage innovation by ensuring that creators could benefit from their work.
+
+### References
+
+- [1] The law of the United States comprises many levels of codified and uncodified forms of law, of which the most important is the United States Constitution, the foundation of the federal government of the United States. The Constitution sets out the boundaries of federal law, which consists of acts of Congress, treaties ratified by the Senate, regulations promulgated by the executive branch, and case law originating from the federal judiciary. The United States Code is the official compilation and codification of general and permanent federal statutory law.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#188
+Q: Traditionally, what political spectrum did The Times support?
+Gold: moderate
+Answer: The Times has traditionally supported the Conservative Party, which is a political party that The Times has historically aligned with. This alignment reflects The Times' position on the political spectrum, indicating a conservative stance.
+
+### References
+
+- [1] The Times
+- [2] Conservative Party
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#189
+Q: What percent of Armenian children go to preschool?
+Gold: 35%
+Answer: Based on the information provided in the context, there is no specific data available regarding the percentage of Armenian children attending preschool. The context primarily focuses on educational attainment among Armenians over the age of fifteen, including secondary and higher education, but does not provide details about preschool enrollment rates.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 2.5 | Pass: False
+--------------------------------------------------------------------------------
+#190
+Q: What did John Locke base his governance philosophy on?
+Gold: social contract theory
+Answer: John Locke based his governance philosophy on Social Contract Theory. This theory, which was influenced by the Enlightenment, posits that individuals consent to surrender some of their freedoms and submit to the authority of the ruler or a governing body in exchange for protection of their remaining rights and the enforcement of contracts.
+
+### References
+
+- [1] Social Contract Theory
+- [2] Enlightenment
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#191
+Q: What was one of the major agricultural products of Victoria around 1860?
+Gold: wool
+Answer: One of the major agricultural products of Victoria around 1860 was wool. The city of Melbourne, which served as a major port and center for various industries, exported Victoria's agricultural products, including wool, to other parts of the world during this period.
+
+### References
+
+- [1] Victoria is a state in Australia, known for its agricultural products, especially wool, which were exported from Melbourne.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#192
+Q: How many National Nature Reserves exist in the London area?
+Gold: two
+Answer: London has two National Nature Reserves, which are significant areas designated for their natural and ecological importance. These reserves contribute to the city's biodiversity and green spaces, supporting various wildlife populations and providing valuable habitats.
+
+### References
+
+- [1] London has two National Nature Reserves.
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#193
+Q: In what year did Sanchez publish his study on Somali ethnicity?
+Gold: 2005
+Answer: I do not have specific information about the year Sanchez published his study on Somali ethnicity from the provided context. The knowledge graph mentions that Sanchez et al. conducted Y chromosome studies on the Somalis and other populations, but it does not provide the publication year.
+
+### References
+
+- [1] Sanchez et al.
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#194
+Q: What document declares supreme power for the people?
+Gold: the Constitution of Estonia
+Answer: The Constitution of Estonia declares supreme power for the people. According to the document, the Constitution of Estonia vests supreme power in the people, who exercise it through the Riigikogu, the national parliament of Estonia.
+
+### References
+
+- [1] Constitution of Estonia
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#195
+Q: Whit what donors does zinc form stable complexes?
+Gold: N- and S-
+Answer: Zinc forms more stable complexes with N- and S-donors. These donors are ligands capable of forming stable complexes with zinc by donating electrons through nitrogen (N) or sulfur (S) atoms.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#196
+Q: Where did Marwan die?
+Gold: Egypt
+Answer: According to the information provided, Marwan was killed in Egypt in August 750.
+
+### References
+
+- [1] Egypt
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#197
+Q: What sports activity is featured in The Times on Mondays?
+Gold: football
+Answer: Based on the information provided, The Times features football activities in its "The Game" section, which covers various football leagues including League One, League Two, and the Football League Championship. However, the specific day of the week for this coverage is not mentioned in the given context. Therefore, while it is likely that football activities are featured in The Times on Mondays, we cannot confirm this with the provided information.
+
+### References
+
+- [1] The Game
+- [2] League One
+- [3] League Two
+- [4] Football League Championship
+Score: 2.0 | Pass: False
+--------------------------------------------------------------------------------
+#198
+Q: What was the name of Victorias eighth child?
+Gold: Leopold
+Answer: Victoria's eighth child was named Leopold. He was born in 1853.
+
+### References
+
+- [1] Leopold
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#199
+Q: What are examples of database objects?
+Gold: record types, specific records, data structures
+Answer: Database objects are specific records, record types, or data structures within the database. Examples of database objects include tables, views, indexes, and stored procedures.
+
+### References
+
+- [1] Document Title One
+- [2] Document Title Two
+- [3] Document Title Three
+- [4] Document Title Four
+- [5] Document Title Five
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+#200
+Q: Who came up with the Armenian alphabet?
+Gold: Mesrop Mashtots
+Answer: The Armenian alphabet was invented by Mesrop Mashtots, a notable figure in Armenian history, in 400 AD. This invention is foundational to Armenian literature and has had a significant impact on the cultural and linguistic development of the Armenian people.
+
+### References
+
+- [1] Mesrop Mashtots
+Score: 5.0 | Pass: True
+--------------------------------------------------------------------------------
+
+=== SUMMARY ===
+Total samples in dataset: 200
+Processed successfully: 200
+Skipped: 0
+Failed: 0
+Average correctness: 3.9200
+Pass@4.0: 139/200 = 0.6950

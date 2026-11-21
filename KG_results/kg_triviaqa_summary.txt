@@ -1,0 +1,27 @@
+size 25:
+  nodes  F16=8947  Q4=8735  (Q4/F16=0.976)
+  edges  F16=9008  Q4=8913  (Q4/F16=0.989)
+  node_jaccard=0.528  edge_jaccard=0.189  hub_jaccard@50=0.538
+  mean_degree F16=2.01 Q4=2.04  giant% F16=0.689 Q4=0.703
+  sem_recall=0.801 sem_prec=0.819
+
+size 50:
+  nodes  F16=15118  Q4=14787  (Q4/F16=0.978)
+  edges  F16=15746  Q4=15200  (Q4/F16=0.965)
+  node_jaccard=0.592  edge_jaccard=0.227  hub_jaccard@50=0.754
+  mean_degree F16=2.08 Q4=2.06  giant% F16=0.686 Q4=0.712
+  sem_recall=0.841 sem_prec=0.852
+
+size 75:
+  nodes  F16=22767  Q4=22299  (Q4/F16=0.979)
+  edges  F16=23087  Q4=22770  (Q4/F16=0.986)
+  node_jaccard=0.529  edge_jaccard=0.173  hub_jaccard@50=0.786
+  mean_degree F16=2.03 Q4=2.04  giant% F16=0.669 Q4=0.692
+  sem_recall=0.812 sem_prec=0.820
+
+size 100:
+  nodes  F16=29168  Q4=28498  (Q4/F16=0.977)
+  edges  F16=29420  Q4=29862  (Q4/F16=1.015)
+  node_jaccard=0.556  edge_jaccard=0.189  hub_jaccard@50=0.724
+  mean_degree F16=2.02 Q4=2.10  giant% F16=0.692 Q4=0.708
+  sem_recall=0.823 sem_prec=0.835

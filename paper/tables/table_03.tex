@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Paired F16 vs.\ Q4\_K\_M correctness (pooled over five seeds)}
+\label{tab:paired}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Size} & $n$ & \textbf{Mean $\Delta$} & \textbf{Med.} & \textbf{Wilcoxon $p$} & \textbf{$d_z$} & \textbf{$r_{rb}$} \\
+\midrule
+200 & 1{,}000 & +0.0180 & 0.000 & 0.703 & +0.0121 & +0.0250 \\
+\rowcolor{gray!10}500 & 2{,}500 & -0.0070 & 0.000 & 0.850 & -0.0044 & -0.0075 \\
+1000 & 4{,}999 & +0.0211 & 0.000 & 0.210 & +0.0170 & +0.0443 \\
+\rowcolor{gray!10}2000 & 9{,}999 & +0.0414 & 0.000 & \textbf{0.002} & +0.0307 & +0.0743 \\
+3000 & 14{,}999 & +0.0226 & 0.000 & \textbf{0.046} & +0.0163 & +0.0377 \\
+\bottomrule
+\end{tabular}
+\parbox[t]{0.485\textwidth}{\vspace{0.1cm}$\Delta$ = F16 $-$ Q4\_K\_M judge score on the same question. Two-sided Wilcoxon signed-rank test; $d_z$ is Cohen's $d$ for paired samples and $r_{rb}$ the matched-pairs rank-biserial correlation. Bold marks $p < 0.05$: it is reached only at the two largest $n$, where $|d_z| \leq 0.031$, an order of magnitude below the 0.2 conventionally called small, and the median difference is exactly zero at every size.}
+\end{table}

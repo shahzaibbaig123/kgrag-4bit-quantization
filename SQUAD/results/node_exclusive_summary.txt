@@ -1,0 +1,36 @@
+=== MODEL-EXCLUSIVE NODE QA PROBE (offline; sizes [200, 500, 1000, 2000, 3000]) ===
+Join: 32611/32614 subset questions matched an F16&Q4 eval score (match rate 1.000)
+Hypotheses: f16_only -> F16>Q4 iff real loss; q4_only -> Q4>F16; control -> F16~=Q4 (anchor)
+
+[control]  n=20067
+  correctness : F16=4.309  Q4=4.279  diff(F16-Q4)=+0.029  median=+0.0
+  wins/ties   : F16=2473  Q4=2318  ties=15276
+  significance: Wilcoxon p=0.00165  Cohen d_z=+0.0217  rank-biserial=+0.0522
+  pass@4      : F16=0.803  Q4=0.795
+  cover-EM    : F16=0.739  Q4=0.733  diff=+0.007
+  token-recall: F16=0.827  Q4=0.822  diff=+0.005
+
+[both]  n=1756
+  correctness : F16=4.343  Q4=4.356  diff(F16-Q4)=-0.013  median=+0.0
+  wins/ties   : F16=202  Q4=204  ties=1350
+  significance: Wilcoxon p=0.6428  Cohen d_z=-0.0097  rank-biserial=-0.0264
+  pass@4      : F16=0.810  Q4=0.820
+  cover-EM    : F16=0.657  Q4=0.661  diff=-0.005
+  token-recall: F16=0.833  Q4=0.837  diff=-0.004
+
+[f16_only]  n=6226
+  correctness : F16=4.301  Q4=4.184  diff(F16-Q4)=+0.117  median=+0.0
+  wins/ties   : F16=889  Q4=681  ties=4656
+  significance: Wilcoxon p=2.576e-11  Cohen d_z=+0.0843  rank-biserial=+0.1931
+  pass@4      : F16=0.801  Q4=0.770
+  cover-EM    : F16=0.700  Q4=0.671  diff=+0.029
+  token-recall: F16=0.828  Q4=0.800  diff=+0.028
+
+[q4_only]  n=4562
+  correctness : F16=4.209  Q4=4.320  diff(F16-Q4)=-0.111  median=+0.0
+  wins/ties   : F16=506  Q4=642  ties=3414
+  significance: Wilcoxon p=7.283e-08  Cohen d_z=-0.0787  rank-biserial=-0.1823
+  pass@4      : F16=0.776  Q4=0.803
+  cover-EM    : F16=0.690  Q4=0.719  diff=-0.029
+  token-recall: F16=0.811  Q4=0.836  diff=-0.025
+

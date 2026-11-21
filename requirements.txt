@@ -1,0 +1,16 @@
+# Core pipeline. Pinned versions used for the reported runs are in
+# requirements-a100.lock.txt. LightRAG is NOT vendored here -- see README.
+lightrag-hku==1.4.9.9
+sentence-transformers>=3.0
+torch>=2.3
+transformers>=4.44
+datasets>=2.20
+tiktoken>=0.7
+networkx>=3.2
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+llama-index-core>=0.11
+llama-index-llms-openai-like>=0.2
+bert-score>=0.3.13

@@ -1,0 +1,42 @@
+Paired F16 vs Q4 correctness (pooled over 5 seeds per size)
+Pass threshold: 4.0 | diff = F16 - Q4 | (+)=F16 better
+
+=== size 200  (n=1000 paired Qs over 5 seeds) ===
+  avg score:  F16=4.1945  Q4=4.1765  mean_diff=+0.0180  median_diff=+0.0
+  pass@4.0:  F16=0.7540  Q4=0.7570
+  wins:  F16=158  Q4=149  ties=693
+  pass-flips:  both_pass=649  both_fail=138  F16only=105  Q4only=108
+  Wilcoxon p=0.7032  -> NO significant difference
+  effect: rank-biserial=+0.0250  Cohen's d_z=+0.0121  (nonzero diffs=307)
+
+=== size 500  (n=2500 paired Qs over 5 seeds) ===
+  avg score:  F16=4.0098  Q4=4.0168  mean_diff=-0.0070  median_diff=+0.0
+  pass@4.0:  F16=0.7152  Q4=0.7164
+  wins:  F16=405  Q4=424  ties=1671
+  pass-flips:  both_pass=1501  both_fail=422  F16only=287  Q4only=290
+  Wilcoxon p=0.85  -> NO significant difference
+  effect: rank-biserial=-0.0075  Cohen's d_z=-0.0044  (nonzero diffs=829)
+
+=== size 1000  (n=4999 paired Qs over 5 seeds) ===
+  avg score:  F16=4.4099  Q4=4.3888  mean_diff=+0.0211  median_diff=+0.0
+  pass@4.0:  F16=0.8308  Q4=0.8234
+  wins:  F16=539  Q4=517  ties=3943
+  pass-flips:  both_pass=3776  both_fail=506  F16only=377  Q4only=340
+  Wilcoxon p=0.2098  -> NO significant difference
+  effect: rank-biserial=+0.0443  Cohen's d_z=+0.0170  (nonzero diffs=1056)
+
+=== size 2000  (n=9999 paired Qs over 5 seeds) ===
+  avg score:  F16=4.3123  Q4=4.2709  mean_diff=+0.0414  median_diff=+0.0
+  pass@4.0:  F16=0.8061  Q4=0.7945
+  wins:  F16=1224  Q4=1116  ties=7659
+  pass-flips:  both_pass=7186  both_fail=1181  F16only=874  Q4only=758
+  Wilcoxon p=0.001737  -> significant (p<0.05)
+  effect: rank-biserial=+0.0743  Cohen's d_z=+0.0307  (nonzero diffs=2340)
+
+=== size 3000  (n=14999 paired Qs over 5 seeds) ===
+  avg score:  F16=4.2490  Q4=4.2264  mean_diff=+0.0226  median_diff=+0.0
+  pass@4.0:  F16=0.7881  Q4=0.7825
+  wins:  F16=1900  Q4=1783  ties=11316
+  pass-flips:  both_pass=10501  both_fail=1942  F16only=1320  Q4only=1236
+  Wilcoxon p=0.04604  -> significant (p<0.05)
+  effect: rank-biserial=+0.0377  Cohen's d_z=+0.0163  (nonzero diffs=3683)
